@@ -1,0 +1,12 @@
+# Usability
+[treeLevel = 0]
+    lib.logo.stdWrap.typolink >
+[end]
+
+# Insert HTML5 compatibility for older browsers
+[browser = msie]&&[version = <9]
+    page.includeJS {
+        file1 = http://html5shiv.googlecode.com/svn/trunk/html5.js
+        file1.external = 1
+    }
+[end]

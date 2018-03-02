@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-05-11T03:29:17Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Cancel" approved="yes">
+				<source>Cancel</source>
+				<target state="translated">Cancelar</target>
+			</trans-unit>
+			<trans-unit id="Insert Smiley" approved="yes">
+				<source>Insert Smiley</source>
+				<target state="translated">Insertar emoticono</target>
+			</trans-unit>
+			<trans-unit id="mozilla_cool" approved="yes">
+				<source>Cool</source>
+				<target state="translated">Frío</target>
+			</trans-unit>
+			<trans-unit id="mozilla_cry" approved="yes">
+				<source>Cry</source>
+				<target state="translated">Llorar</target>
+			</trans-unit>
+			<trans-unit id="mozilla_embarassed" approved="yes">
+				<source>Embarassed</source>
+				<target state="translated">Avergonzado</target>
+			</trans-unit>
+			<trans-unit id="mozilla_footinmouth" approved="yes">
+				<source>Foot in mouth</source>
+				<target state="translated">Meter la pata</target>
+			</trans-unit>
+			<trans-unit id="mozilla_frown" approved="yes">
+				<source>Frown</source>
+				<target state="translated">Fruncir el ceño</target>
+			</trans-unit>
+			<trans-unit id="mozilla_innocent" approved="yes">
+				<source>Innocent</source>
+				<target state="translated">Inocente</target>
+			</trans-unit>
+			<trans-unit id="mozilla_kiss" approved="yes">
+				<source>Kiss</source>
+				<target state="translated">Beso</target>
+			</trans-unit>
+			<trans-unit id="mozilla_laughing" approved="yes">
+				<source>Laughing</source>
+				<target state="translated">Riendo</target>
+			</trans-unit>
+			<trans-unit id="mozilla_moneyinmouth" approved="yes">
+				<source>Money Mouth</source>
+				<target state="translated">Codiciar dinero</target>
+			</trans-unit>
+			<trans-unit id="mozilla_sealed" approved="yes">
+				<source>Lips are sealed</source>
+				<target state="translated">Mis labios están sellados</target>
+			</trans-unit>
+			<trans-unit id="mozilla_smile" approved="yes">
+				<source>Smile</source>
+				<target state="translated">Sonreir</target>
+				<note>83%</note>
+			</trans-unit>
+			<trans-unit id="mozilla_surprised" approved="yes">
+				<source>Surprise</source>
+				<target state="translated">Sorprendido / Sorpresa</target>
+			</trans-unit>
+			<trans-unit id="mozilla_tongueout" approved="yes">
+				<source>Tongue out</source>
+				<target state="translated">Sacar la lengua</target>
+			</trans-unit>
+			<trans-unit id="mozilla_undecided" approved="yes">
+				<source>Undecided</source>
+				<target state="translated">Indeciso</target>
+			</trans-unit>
+			<trans-unit id="mozilla_wink" approved="yes">
+				<source>Wink</source>
+				<target state="translated">Guiño</target>
+			</trans-unit>
+			<trans-unit id="mozilla_yell" approved="yes">
+				<source>Yell</source>
+				<target state="translated">Gritar</target>
+			</trans-unit>
+			<trans-unit id="Smiley" approved="yes">
+				<source>Smiley</source>
+				<target state="translated">Emoticono</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

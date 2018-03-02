@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-05-11T03:29:12Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="ActiveX-required" approved="yes">
+				<source>Loading the editor in Internet Explorer requires the execution of ActiveX controls to be enabled.</source>
+				<target state="translated">Para cargar el editor en Internet Explorer, se requiere activar la ejecución de controles ActiveX.</target>
+			</trans-unit>
+			<trans-unit id="Allow-Clipboard-Helper-Extension" approved="yes">
+				<source>For security reasons, unprivileged applications cannot access the clipboard. Click YES to install a component that will enable you to specify the sites or pages that will be allowed to access the clipboard and perform copy, cut and paste operations.</source>
+				<target state="translated">Por razones de seguridad, las aplicaciones no privilegiadas no pueden acceder al portapapeles. Pulse en Aceptar para instalar un componente que le permitirá especificar qué webs o páginas tendrán permitido el acceso al portapapeles y la realización de operaciones de copiar, cortar y pegar.</target>
+			</trans-unit>
+			<trans-unit id="Allow-Clipboard-Helper-Extension-Success" approved="yes">
+				<source>The installation was successful. You need to exit and restart your browser for the change to take effect. Afterwards, use the AllowClipboard Helper from the tools menu to allow specific sites to use the clipboard.</source>
+				<target state="translated">La instalación se realizó correctamente. Debe salir y reiniciar su navegador para que los cambios surtan efecto. Después, use la opción "Permitir cortapapeles" del menú de herramietnas para permitir el acceso al portapapeles a determinados webs.</target>
+			</trans-unit>
+			<trans-unit id="HTML-document-not-well-formed" approved="yes">
+				<source>The HTML document is not well-formed.</source>
+				<target state="translated">El documento HTML no está bien formado.</target>
+			</trans-unit>
+			<trans-unit id="Moz-Clipboard" approved="yes">
+				<source>Unprivileged scripts cannot access Cut/Copy/Paste programatically for security reasons. Click YES to see a technical note at mozilla.org which shows you how to allow a script to access the clipboard.</source>
+				<target state="translated">Por razones de seguridad, los scripts no privilegiados no pueden acceder a las funciones de Cortar/Copiar/Pegar. Pulse Aceptar para ver una nota técnica en mozilla.org que le muestra cómo permitir que un script acceda al portapapeles.</target>
+			</trans-unit>
+			<trans-unit id="Moz-Extension" approved="yes">
+				<source>For security reasons, unprivileged applications cannot access the clipboard. Click YES to install a component that will enable applications from this site to access the clipboard and perform copy, cut and paste operations.</source>
+				<target state="translated">Por motivos de seguridad, las aplicaciones no autorizadas no pueden acceder al portapapeles. Pulse Aceptar para instalar un componente que permitirá a las aplicaciones de este web acceder al portapapeles y ejecutar operaciones de copiar, cortar y pegar.</target>
+			</trans-unit>
+			<trans-unit id="Moz-Extension-Failure" approved="yes">
+				<source>Sorry, Firefox Add-on AllowClipboard Helper could not be installed.</source>
+				<target state="translated">Se produjo un fallo en la instalación.</target>
+			</trans-unit>
+			<trans-unit id="Moz-Extension-Install-Not-Enabled" approved="yes">
+				<source>The installation cannot be performed. Please change your browser preferences in order to allow installation of sofware from this site.</source>
+				<target state="translated">No se puede llevar a cabo la instalación. Cambie las opciones de su navegador para permitir la instalación de programas desde este web.</target>
+			</trans-unit>
+			<trans-unit id="Moz-Extension-Success" approved="yes">
+				<source>The installation was successful. You need to exit and restart your browser for the change to take effect.</source>
+				<target state="translated">La instalación se realizó correctamente. Debe salir y reiniciar su navegador para que los cambios surtan efecto.</target>
+			</trans-unit>
+			<trans-unit id="Mozilla-Org-Install-Not-Enabled" approved="yes">
+				<source>The installation cannot be performed. Please change your browser preferences in order to allow installation of sofware from https://addons.mozilla.org.</source>
+				<target state="translated">No se puede llevar a cabo la instalación. Cambie las preferencias de su navegador para autorizar la instalación de programas desde http://ftp.mozilla.org.</target>
+			</trans-unit>
+			<trans-unit id="Path" approved="yes">
+				<source>Path</source>
+				<target state="translated">Ruta</target>
+			</trans-unit>
+			<trans-unit id="TEXT_MODE" approved="no">
+				<source>You are in TEXT MODE.  Use the [&lt;&gt;] button to switch back to WYSIWYG.</source>
+				<target state="needs-translation">Está en MODO TEXTO. Utilice el botón [&lt;&gt;] para volver a WYSIWIG.</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

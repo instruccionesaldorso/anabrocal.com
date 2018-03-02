@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="es" type="array">
+			<label index="defaultOperands.0">Todas la palabras (AND  -Y- )</label>
+			<label index="defaultOperands.1">Alguna palabra (OR -O- )</label>
+			<label index="displayResults">Mostrando resultados &lt;strong&gt;%1$s a %2$s&lt;/strong&gt; de &lt;strong&gt;%3$s&lt;/strong&gt;</label>
+			<label index="displayResults.next">Siguiente &gt;</label>
+			<label index="displayResults.page">Página</label>
+			<label index="displayResults.previous">&lt; Anterior</label>
+			<label index="form.addToSearch">Añadir a las palabras de búsqueda actuales</label>
+			<label index="form.atATime">Fecha y hora</label>
+			<label index="form.extResume">Resumen extendido</label>
+			<label index="form.freeIndexUid">Categoría</label>
+			<label index="form.fromSection">Desde la sección</label>
+			<label index="form.legend">Formulario de búsqueda</label>
+			<label index="form.linkToAdvancedSearch">Búsqueda avanzada</label>
+			<label index="form.linkToRegularSearch">Búsqueda normal</label>
+			<label index="form.match">Coincidir</label>
+			<label index="form.orderBy">Ordenar por</label>
+			<label index="form.searchFor">Buscar por</label>
+			<label index="form.searchIn">Buscar en</label>
+			<label index="form.style">Estilo</label>
+			<label index="form.submit">Buscar</label>
+			<label index="groupBy.flat">Lista plana</label>
+			<label index="groupBy.sections">Jerarquía de secciones</label>
+			<label index="indexingConfigurationHeader.0">Páginas del web</label>
+			<label index="indexingConfigurationHeader.-1">Categoría mezcladas</label>
+			<label index="indexingConfigurations.0">Páginas</label>
+			<label index="indexingConfigurations.-1">Todos, variado</label>
+			<label index="indexingConfigurations.-2">Todos, categorizado</label>
+			<label index="languageUids.0">Predeterminada</label>
+			<label index="languageUids.-1">Todos los idiomas</label>
+			<label index="localizedOperandAnd">Y</label>
+			<label index="localizedOperandNot">NO</label>
+			<label index="localizedOperandOr">O</label>
+			<label index="mediaTypes.0">Páginas Internas</label>
+			<label index="mediaTypes.-1">Todo el multimedia</label>
+			<label index="mediaTypes.-2">Todos los externos</label>
+			<label index="result.created">Creado:</label>
+			<label index="result.inNsection">%s en la sección:</label>
+			<label index="result.inNsections">en %s secciones:</label>
+			<label index="result.inSection">en la sección</label>
+			<label index="result.memberGroups">Require pertenecer al los número de grupo %s</label>
+			<label index="result.modified">Modificado:</label>
+			<label index="result.noResult">No se encontraron resultados.</label>
+			<label index="result.noResume">Nota: Este resultado de búsqueda puede no encajar precisamente con el contenido de la página. La pagina resumen no se puede mostrar</label>
+			<label index="result.otherMatching">Otras páginas coincidentes en el mismo documento:</label>
+			<label index="result.otherPageAsWell"/>
+			<label index="result.page">página</label>
+			<label index="result.pages">páginas</label>
+			<label index="result.path">Ruta:</label>
+			<label index="result.ratingMatches">coincidencias</label>
+			<label index="result.size">Tamaño:</label>
+			<label index="result.unnamedSection">Otros</label>
+			<label index="rules.headline">Reglas</label>
+			<label index="rules.text">Sólo se aceptan palabras de 2 o más letras &lt;br /&gt;
+Máximo 200 letras en total&lt;br /&gt;
+El espacio se usa para separar palabras, "" se pueden usar para buscar una frase completa &lt;br /&gt;
+AND, OR, y NOT son prefijos a las palabras, que se pueden emplear para sobreescribir el comportamiento por defecto&lt;br /&gt;
++/|/- es igual que AND, OR y NOT como operadores &lt;br /&gt;
+Todas las palabras se convierten en minúscula para buscar. 
+</label>
+			<label index="searchFor">Buscar por</label>
+			<label index="searchFor.and">y</label>
+			<label index="searchFor.andnot">pero no</label>
+			<label index="searchFor.or">o</label>
+			<label index="searchTypes.0">Palabras distintas</label>
+			<label index="searchTypes.1">Parte de palabra</label>
+			<label index="searchTypes.10">suena como</label>
+			<label index="searchTypes.2">Primera parte de la palabra</label>
+			<label index="searchTypes.20">Frase</label>
+			<label index="searchTypes.3">Última parte de la palabra</label>
+			<label index="sections.0">Todo el web</label>
+			<label index="sections.-1">Sólamente esta página</label>
+			<label index="sections.-2">Inicio + nivel 1</label>
+			<label index="sections.-3">Nivel 2 y siguientes</label>
+			<label index="sections.rootLevel1">Nivel 1</label>
+			<label index="sections.rootLevel1All">Todas la páginas en nivel el 1</label>
+			<label index="sections.rootLevel2">- Nivel 2</label>
+			<label index="sections.rootLevel2All">- Todas las páginas en el nivel 2</label>
+			<label index="sortOrders.ascending">Más bajo primero</label>
+			<label index="sortOrders.crdate">Creación de fecha</label>
+			<label index="sortOrders.descending">Más alto primero</label>
+			<label index="sortOrders.mtime">Fecha de modificación</label>
+			<label index="sortOrders.rank_count">Número de palabras</label>
+			<label index="sortOrders.rank_first">Cercano al inicio</label>
+			<label index="sortOrders.rank_flag">Peso/Frecuecia</label>
+			<label index="sortOrders.rank_freq">Frecuencia</label>
+			<label index="sortOrders.title">Título del documento</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

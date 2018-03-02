@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-05-11T03:29:11Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="BiDiOverride-Tooltip" approved="yes">
+				<source>Bidirectionality override</source>
+				<target state="translated">Anulación bidireccional</target>
+			</trans-unit>
+			<trans-unit id="Big-Tooltip" approved="yes">
+				<source>Large text</source>
+				<target state="translated">Texto grande</target>
+			</trans-unit>
+			<trans-unit id="Bold-Tooltip" approved="yes">
+				<source>Bold</source>
+				<target state="translated">Negrita</target>
+			</trans-unit>
+			<trans-unit id="Citation-Tooltip" approved="yes">
+				<source>Citation</source>
+				<target state="translated">Cita</target>
+			</trans-unit>
+			<trans-unit id="Code-contextMenuTitle" approved="yes">
+				<source>Code fragment</source>
+				<target state="translated">Fragmento de código</target>
+			</trans-unit>
+			<trans-unit id="Code-Tooltip" approved="yes">
+				<source>Computer code fragment</source>
+				<target state="translated">Fragmento de código de ordenador</target>
+			</trans-unit>
+			<trans-unit id="Definition-Tooltip" approved="yes">
+				<source>Definition</source>
+				<target state="translated">Definición</target>
+			</trans-unit>
+			<trans-unit id="DeletedText-Tooltip" approved="yes">
+				<source>Deleted text</source>
+				<target state="translated">Texto borrado</target>
+			</trans-unit>
+			<trans-unit id="Emphasis-Tooltip" approved="yes">
+				<source>Emphasis</source>
+				<target state="translated">Énfasis</target>
+			</trans-unit>
+			<trans-unit id="FormatText-Tooltip" approved="yes">
+				<source>Apply format to selected text</source>
+				<target state="translated">Aplicar formato al texto seleccionado</target>
+			</trans-unit>
+			<trans-unit id="InsertedText-Tooltip" approved="yes">
+				<source>Inserted text</source>
+				<target state="translated">Texto insertado</target>
+			</trans-unit>
+			<trans-unit id="Italic-Tooltip" approved="yes">
+				<source>Italic</source>
+				<target state="translated">Cursiva</target>
+			</trans-unit>
+			<trans-unit id="Keyboard-contextMenuTitle" approved="yes">
+				<source>Text to enter</source>
+				<target state="translated">Texto para introducir</target>
+			</trans-unit>
+			<trans-unit id="Keyboard-Tooltip" approved="yes">
+				<source>Text to be entered by the user</source>
+				<target state="translated">Texto para ser intertado por el usuario</target>
+			</trans-unit>
+			<trans-unit id="MonoSpaced-Tooltip" approved="yes">
+				<source>Monospaced text</source>
+				<target state="translated">Texto monoespaciado</target>
+			</trans-unit>
+			<trans-unit id="No markup" approved="yes">
+				<source>No text format</source>
+				<target state="translated">Texto sin formato</target>
+			</trans-unit>
+			<trans-unit id="Quotation-contextMenuTitle" approved="yes">
+				<source>Short quotation</source>
+				<target state="translated">Citas cortas</target>
+			</trans-unit>
+			<trans-unit id="Quotation-Tooltip">
+				<source>Short inline quotation</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="Remove markup" approved="yes">
+				<source>Remove text format</source>
+				<target state="translated">Eliminar formato del texto</target>
+			</trans-unit>
+			<trans-unit id="Sample-contextMenuTitle" approved="yes">
+				<source>Sample output</source>
+				<target state="translated">Ejemplo de salida</target>
+			</trans-unit>
+			<trans-unit id="Sample-Tooltip" approved="yes">
+				<source>Sample program output or script</source>
+				<target state="translated">Ejemplo de salida del programa o script</target>
+			</trans-unit>
+			<trans-unit id="Small-Tooltip" approved="yes">
+				<source>Small text</source>
+				<target state="translated">Texto pequeño</target>
+			</trans-unit>
+			<trans-unit id="Span-Tooltip" approved="yes">
+				<source>Style container</source>
+				<target state="translated">Contenedor de estilo</target>
+			</trans-unit>
+			<trans-unit id="StrikeThrough-Tooltip" approved="yes">
+				<source>Strike-through text</source>
+				<target state="translated">Texto tachado</target>
+			</trans-unit>
+			<trans-unit id="Strong-Tooltip" approved="yes">
+				<source>Strong emphasis</source>
+				<target state="translated">Énfasis fuerte</target>
+			</trans-unit>
+			<trans-unit id="Subscript-Tooltip" approved="yes">
+				<source>Subscript</source>
+				<target state="translated">Subíndice</target>
+			</trans-unit>
+			<trans-unit id="Superscript-Tooltip" approved="yes">
+				<source>Superscript</source>
+				<target state="translated">Superíndice</target>
+			</trans-unit>
+			<trans-unit id="Technische Universitat Ilmenau" approved="yes">
+				<source>Technische Universität Ilmenau</source>
+				<target state="translated">Universidad Técnica de Ilmenau</target>
+			</trans-unit>
+			<trans-unit id="Underline-Tooltip" approved="yes">
+				<source>Underline</source>
+				<target state="translated">Subrayado</target>
+			</trans-unit>
+			<trans-unit id="Variable-contextMenuTitle" approved="yes">
+				<source>Variable</source>
+				<target state="translated">Variable</target>
+			</trans-unit>
+			<trans-unit id="Variable-Tooltip" approved="yes">
+				<source>Variable or program argument</source>
+				<target state="translated">Variable o parámetro de programa</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

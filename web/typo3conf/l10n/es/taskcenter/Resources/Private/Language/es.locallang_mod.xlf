@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-09-07T05:02:19Z" product-name="taskcenter">
+		<header/>
+		<body>
+			<trans-unit id="mlang_labels_tabdescr" approved="yes">
+				<source>The task center provides access to your internal To-Do list, messages, Quick-note, actions etc. It also provides shortcuts to your available frontend modules and most recently edited pages. The Task Center is where you keep track of your daily tasks and workflows.</source>
+				<target state="translated">El centro de tareas le da acceso a su lista de pendientes interna, mensajes, notas, aciones, etc. También tiene accesos directos a los módules sus módulos disponibles de frontend y las páginas que editó mas recientemente. El Centro de Tareas es donde ud. mantiene nota de sus tareas diarias y flujo de trabajo.</target>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tablabel" approved="yes">
+				<source>Task Center with overviews, messages, ToDo lists</source>
+				<target state="translated">Centro de Tareas con resúmenes, mensajes, pendientes.</target>
+			</trans-unit>
+			<trans-unit id="mlang_tabs_tab" approved="yes">
+				<source>Task center</source>
+				<target state="translated">Centro de Tareas</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

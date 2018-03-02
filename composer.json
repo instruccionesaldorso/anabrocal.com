@@ -1,0 +1,53 @@
+{
+  "name": "instruccionesaldorso/anabrocal.com",
+  "description": "anabrocal.com website",
+  "authors": [
+    {
+      "name": "Sergio Catala",
+      "email": "info@instruccionesaldorso.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://composer.typo3.org/"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/web-vision/wv_file_cleanup.git"
+    }
+  ],
+  "require": {
+    "typo3/cms": "^8.7",
+    "typo3-ter/mask": "^3.0",
+    "typo3-ter/min": "^1.4",
+    "typo3-ter/realurl": "^2.3",
+    "in2code/powermail": "^5.5",
+    "helhum/typo3-console": "^5.1",
+    "typo3-ter/vhs": "^4.3",
+    "web-vision/wv_file_cleanup": "dev-master"
+  },
+  "scripts": {
+    "post-autoload-dump": [
+      "cd src/ && npm install && gulp"
+    ]
+  },
+  "extra": {
+    "typo3/cms": {
+      "cms-package-dir": "{$vendor-dir}/typo3/cms",
+      "web-dir": "web"
+    },
+    "installer-paths": {
+      "./web/typo3conf/ext/{$name}/": ["type:typo3-cms-extension"]
+    },
+    "helhum/typo3-console": {
+      "install-binary": false,
+      "install-extension-dummy": false
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "Instrucciones\\TmplBootstrap\\": "web/typo3conf/ext/tmpl_bootstrap/Classes"
+    }
+  }
+}

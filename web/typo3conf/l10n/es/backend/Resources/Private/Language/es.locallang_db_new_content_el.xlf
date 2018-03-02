@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-09-07T00:06:36Z" product-name="backend">
+		<header/>
+		<body>
+			<trans-unit id="common" approved="yes">
+				<source>Typical page content</source>
+				<target state="translated">Contenido típico</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Contenido tipico</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="common_bulletList_description" approved="yes">
+				<source>A single bullet list.</source>
+				<target state="translated">Una simple lista con viñetas.</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Una simple lista de viñetas.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="common_bulletList_title" approved="yes">
+				<source>Bullet List</source>
+				<target state="translated">Lista con viñetas</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Lista de viñeta</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="common_headerOnly_description" approved="yes">
+				<source>Adds a header only.</source>
+				<target state="translated">Agrega un encabezado únicamente.</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Agregar solo encabezado.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="common_headerOnly_title" approved="yes">
+				<source>Header Only</source>
+				<target state="translated">Encabezado únicamente</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Solo en encabezado</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="common_imagesOnly_description" approved="yes">
+				<source>Any number of images aligned in columns and rows with a caption.</source>
+				<target state="translated">Varias imágenes alineadas en filas y columnas con un subtítulo.</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Varias imágenes alineadas en columnas y filas con un subtítulo.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="common_imagesOnly_title" approved="yes">
+				<source>Images Only</source>
+				<target state="translated">Sólo imágenes</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Sólo imágenes</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="common_regularText_description" approved="yes">
+				<source>A regular text element with header and bodytext fields.</source>
+				<target state="translated">Un elemento de texto normal con campos de encabezado y cuerpo de texto.</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Un elemento de texto normal con campos de encabezado y cuerpo del texto.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="common_regularText_title" approved="yes">
+				<source>Regular Text Element</source>
+				<target state="translated">Elemento de texto normal</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Elemento de texto normal</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="common_table_description" approved="yes">
+				<source>A simple table.</source>
+				<target state="translated">Una tabla simple</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Tabla simple</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="common_table_title" approved="yes">
+				<source>Table</source>
+				<target state="translated">Tabla</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Tabla</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="common_textImage_description" approved="yes">
+				<source>Any number of images wrapped right around a regular text element.</source>
+				<target state="translated">Varias imágenes acompañadas por un elemento de texto normal.</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Varias imágenes acompañadas por un elemento de texto normal.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="common_textImage_title" approved="yes">
+				<source>Text &amp; Images</source>
+				<target state="translated">Texto e imágenes</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Texto y imagen</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="common_textMedia_description" approved="yes">
+				<source>Any number of media wrapped right around a regular text element.</source>
+				<target state="translated">Varias imágenes acompañadas por un elemento de texto normal.</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Varios elementos multimedia junto a un elemento de texto normal.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="common_textMedia_title" approved="yes">
+				<source>Text &amp; Media</source>
+				<target state="translated">Texto y medios</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Medios y Texto</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="forms" approved="yes">
+				<source>Form elements</source>
+				<target state="translated">Elementos de formulario</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Elementos de formulario</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="forms_login_description" approved="yes">
+				<source>Login/logout form used to password protect pages allowing only authorised website users and groups access.</source>
+				<target state="translated">Formulario de inicio/cierre de sesión utilizado para proteger con contraseña páginas accesibles solo por usuarios y grupos autorizados.</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Formulario de inicio/cierre de sesión utilizado para proteger con contraseña páginas accesibles solo por usuarios y grupos autorizados.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="forms_login_title" approved="yes">
+				<source>Login Form</source>
+				<target state="translated">Formulario de inicio de sesión</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Formulario de inicio de sesión </target>
+				</alt-trans>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Formulario de Acceso</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="forms_mail_description" approved="yes">
+				<source>A mail form allowing website users to submit responses.</source>
+				<target state="translated">Un formulario de correo que permite a los usuarios del sitio enviar respuestas.</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Un formulario de correo que permite a los usuarios del sitio enviar respuestas.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="forms_mail_title" approved="yes">
+				<source>Mail Form</source>
+				<target state="translated">Formulario de correo</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Formulario de Correo</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="plugins" approved="yes">
+				<source>Plugins</source>
+				<target state="translated">Plugins</target>
+				<note>¿Agregamos "plugin" a la lista de términos no traducibles?</note>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Complementos</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="plugins_general_description" approved="yes">
+				<source>Select this element type to insert a plugin which cannot be found amongst the options below.</source>
+				<target state="translated">Seleccione este tipo de elemento para agregar un complemento que no se encuentra en las demás opciones.</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Seleccione este tipo de elemento para insertar un complemento que no se encuentra en las demás opciones.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="plugins_general_title" approved="yes">
+				<source>General Plugin</source>
+				<target state="translated">Plugin general</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Complementos generales</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="sel1" approved="yes">
+				<source>Please select the type of page content you wish to create:</source>
+				<target state="translated">Por favor, selecciona el tipo de contenido que deseas crear:</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Por favor, seleccione el tipo de contenido que desea crear:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="sel2" approved="yes">
+				<source>Now, click the position where you wish to place the element on the page:</source>
+				<target state="translated">Ahora, haz clic en la posición donde deseas ubicar el elemento dentro de la página:</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Ahora, click en la posición donde desea situar al elemento dentro de la página:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="special" approved="yes">
+				<source>Special elements</source>
+				<target state="translated">Elementos especiales</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Elementos especiales</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="special_divider_description" approved="yes">
+				<source>This element inserts a visual divider, which is by default a horizontal line.</source>
+				<target state="translated">Este elemento agrega un divisor visual; por defecto es una linea horizontal.</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Este elemento agrega un divisor visual, por defecto es una linea horizontal.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="special_divider_title" approved="yes">
+				<source>Divider</source>
+				<target state="translated">Divisor</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Divisor</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="special_filelinks_description" approved="yes">
+				<source>Makes a list of files for download.</source>
+				<target state="translated">Crea una lista de archivos para descarga.</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Crea una lista de archivos para descarga.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="special_filelinks_title" approved="yes">
+				<source>File Links</source>
+				<target state="translated">Enlaces a archivos</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Enlaces de archivos</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="special_menus_description" approved="yes">
+				<source>Creates a menu of pages, sitemap or other special menus.</source>
+				<target state="translated">Crea un menú de paginas, mapa de sitio u otros menús especiales.</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Crea un menú de paginas, mapa de sitio o otro menú especial.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="special_menus_title" approved="yes">
+				<source>Special Menus</source>
+				<target state="translated">Menús especiales</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Menus especiales</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="special_plainHTML_description" approved="yes">
+				<source>With this element you can insert raw HTML code on the page.</source>
+				<target state="translated">Con este elemento, puedes agregar código HTML en la página.</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Con este elemento puedes agregar código HTML en la página.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="special_plainHTML_title" approved="yes">
+				<source>Plain HTML</source>
+				<target state="translated">HTML plano</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>HTML</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="special_shortcut_description" approved="yes">
+				<source>With this element you can embed other content elements.</source>
+				<target state="translated">Con este elemento puedes incrustar otros elementos de contenido.</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Con este elemento puedes incrustar otros elementos de contenido.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="special_shortcut_title" approved="yes">
+				<source>Insert records</source>
+				<target state="translated">Agregar registros</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Agregar registros</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="special_sitemap_title" approved="yes">
+				<source>Sitemap</source>
+				<target state="translated">Mapa del sitio</target>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Mapa del sitio</target>
+				</alt-trans>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

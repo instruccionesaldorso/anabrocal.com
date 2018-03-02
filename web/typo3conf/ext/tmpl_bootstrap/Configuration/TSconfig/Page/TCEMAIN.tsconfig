@@ -1,0 +1,12 @@
+TCEMAIN {
+    permissions {
+        groupid = 1
+        userid = 2
+        group = show,edit,delete,new,editcontent
+        user = show,edit,delete,new,editcontent
+    }
+    table.tt_content {
+        disablePrependAtCopy = 1
+        disableHideAtCopy = 1
+    }
+}

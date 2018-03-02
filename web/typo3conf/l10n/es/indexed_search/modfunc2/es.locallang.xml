@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="es" type="array">
+			<label index="all">Todo</label>
+			<label index="allpages">Estadísticas para todas las páginas. Seleccionar una página con un formulario de busqueda indexada para ver varias estadísticas</label>
+			<label index="justthispage">Estadísticas solo para esta página</label>
+			<label index="last24hours">Ultimas 24 horas</label>
+			<label index="last30days">Ultimos 30 días</label>
+			<label index="noresults">Sin resultados</label>
+			<label index="title">Estadísticas de la búsqueda indexada</label>
+			<label index="title2">Lista de las palabras más búscadas</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

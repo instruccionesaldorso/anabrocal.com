@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-09-07T00:11:39Z" product-name="belog">
+		<header/>
+		<body>
+			<trans-unit id="100" approved="yes">
+				<source>100</source>
+				<target state="translated">100</target>
+			</trans-unit>
+			<trans-unit id="1000" approved="yes">
+				<source>1000</source>
+				<target state="translated">1000</target>
+			</trans-unit>
+			<trans-unit id="20" approved="yes">
+				<source>20</source>
+				<target state="translated">20</target>
+			</trans-unit>
+			<trans-unit id="200" approved="yes">
+				<source>200</source>
+				<target state="translated">200</target>
+			</trans-unit>
+			<trans-unit id="50" approved="yes">
+				<source>50</source>
+				<target state="translated">50</target>
+			</trans-unit>
+			<trans-unit id="500" approved="yes">
+				<source>500</source>
+				<target state="translated">500</target>
+			</trans-unit>
+			<trans-unit id="action" approved="yes">
+				<source>Action:</source>
+				<target state="translated">Acción:</target>
+			</trans-unit>
+			<trans-unit id="action_1_1" approved="yes">
+				<source>Insert</source>
+				<target state="translated">Agregar</target>
+			</trans-unit>
+			<trans-unit id="action_1_2" approved="yes">
+				<source>Update</source>
+				<target state="translated">Actualizar</target>
+			</trans-unit>
+			<trans-unit id="action_1_3" approved="yes">
+				<source>Delete</source>
+				<target state="translated">Eliminar</target>
+			</trans-unit>
+			<trans-unit id="action_1_4" approved="yes">
+				<source>Move</source>
+				<target state="translated">Mover</target>
+			</trans-unit>
+			<trans-unit id="action_1_5" approved="yes">
+				<source>Check</source>
+				<target state="translated">Marcar</target>
+				<alt-trans xml:space="preserve" origin="ultrabyte">
+					<target>Marcar</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="action_2_1">
+				<source>Upload</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="action_2_2">
+				<source>Copy</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="action_2_3" approved="yes">
+				<source>Move</source>
+				<target state="translated">Mover</target>
+			</trans-unit>
+			<trans-unit id="action_2_4" approved="yes">
+				<source>Delete</source>
+				<target state="translated">Eliminar</target>
+			</trans-unit>
+			<trans-unit id="action_2_5" approved="yes">
+				<source>Rename</source>
+				<target state="translated">Cambiar nombre</target>
+			</trans-unit>
+			<trans-unit id="action_254_1">
+				<source>Change</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="action_255_1">
+				<source>LOGIN</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="action_255_2">
+				<source>LOGOUT</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="action_255_3">
+				<source>ATTEMPT</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="action_2_6" approved="yes">
+				<source>New</source>
+				<target state="translated">Nuevo</target>
+			</trans-unit>
+			<trans-unit id="action_2_7" approved="yes">
+				<source>Unzip</source>
+				<target state="translated">Descomprimir</target>
+			</trans-unit>
+			<trans-unit id="action_2_8" approved="yes">
+				<source>New file</source>
+				<target state="translated">Nuevo archivo</target>
+			</trans-unit>
+			<trans-unit id="action_2_9" approved="yes">
+				<source>Edit</source>
+				<target state="translated">Editar</target>
+			</trans-unit>
+			<trans-unit id="action_3_1" approved="yes">
+				<source>Clear Cache</source>
+				<target state="translated">Limpiar caché</target>
+			</trans-unit>
+			<trans-unit id="action_5_0">
+				<source>Error handler</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="actionAll" approved="yes">
+				<source>All</source>
+				<target state="translated">Todas</target>
+			</trans-unit>
+			<trans-unit id="actionCache" approved="yes">
+				<source>Cache</source>
+				<target state="translated">Caché</target>
+			</trans-unit>
+			<trans-unit id="actionDatabase" approved="yes">
+				<source>Database</source>
+				<target state="translated">Base de datos</target>
+			</trans-unit>
+			<trans-unit id="actionErrors" approved="yes">
+				<source>Errors</source>
+				<target state="translated">Errores</target>
+			</trans-unit>
+			<trans-unit id="actionFile" approved="yes">
+				<source>File</source>
+				<target state="translated">Archivo</target>
+			</trans-unit>
+			<trans-unit id="actionLogin" approved="yes">
+				<source>Login</source>
+				<target state="translated">Inicio de sesión</target>
+			</trans-unit>
+			<trans-unit id="actions" approved="no">
+				<source>Actions</source>
+				<target state="needs-translation">Acción</target>
+			</trans-unit>
+			<trans-unit id="actions.delete">
+				<source>Delete similar errors</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="actions.delete.message">
+				<source>Total entries deleted: %1$d</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="actions.delete.noRowFound">
+				<source>Log entry could not be found.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="actions.deleteWarnings">
+				<source>Delete similar warnings</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="actionSettings" approved="yes">
+				<source>Settings</source>
+				<target state="translated">Configuración</target>
+			</trans-unit>
+			<trans-unit id="adminLog" approved="yes">
+				<source>Administration log</source>
+				<target state="translated">Registro de administración</target>
+			</trans-unit>
+			<trans-unit id="allUsers" approved="yes">
+				<source>[All users]</source>
+				<target state="translated">[Todos los usuarios]</target>
+			</trans-unit>
+			<trans-unit id="any" approved="yes">
+				<source>[Any]</source>
+				<target state="translated">[Cualquiera]</target>
+			</trans-unit>
+			<trans-unit id="changesInFields" approved="yes">
+				<source>Changes in fields: %s.</source>
+				<target state="translated">Cambios en los campos: %s.</target>
+			</trans-unit>
+			<trans-unit id="chLog_l_action" approved="yes">
+				<source>Action</source>
+				<target state="translated">Acción</target>
+			</trans-unit>
+			<trans-unit id="chLog_l_details" approved="yes">
+				<source>Details</source>
+				<target state="translated">Detalles</target>
+			</trans-unit>
+			<trans-unit id="chLog_l_error" approved="yes">
+				<source>E</source>
+				<target state="translated">E</target>
+			</trans-unit>
+			<trans-unit id="chLog_l_table" approved="yes">
+				<source>Table</source>
+				<target state="translated">Tabla</target>
+			</trans-unit>
+			<trans-unit id="chLog_l_time" approved="yes">
+				<source>Time</source>
+				<target state="translated">Hora</target>
+			</trans-unit>
+			<trans-unit id="chLog_l_types" approved="yes">
+				<source>Type</source>
+				<target state="translated">Tipo</target>
+			</trans-unit>
+			<trans-unit id="chLog_l_user" approved="yes">
+				<source>User</source>
+				<target state="translated">Usuario</target>
+			</trans-unit>
+			<trans-unit id="chLog_menuDepth" approved="yes">
+				<source>Depth:</source>
+				<target state="translated">Profundidad:</target>
+			</trans-unit>
+			<trans-unit id="chLog_menuTime" approved="no">
+				<source>Time</source>
+				<target state="needs-translation">Hora:</target>
+			</trans-unit>
+			<trans-unit id="chLog_menuUsers" approved="yes">
+				<source>Users</source>
+				<target state="translated">Usuarios</target>
+			</trans-unit>
+			<trans-unit id="chLog_time_0" approved="yes">
+				<source>This week</source>
+				<target state="translated">Esta semana</target>
+			</trans-unit>
+			<trans-unit id="chLog_time_1" approved="yes">
+				<source>Last week</source>
+				<target state="translated">La semana pasada</target>
+			</trans-unit>
+			<trans-unit id="chLog_time_10" approved="yes">
+				<source>This month</source>
+				<target state="translated">Este mes</target>
+			</trans-unit>
+			<trans-unit id="chLog_time_11" approved="yes">
+				<source>Last month</source>
+				<target state="translated">El mes pasado</target>
+			</trans-unit>
+			<trans-unit id="chLog_time_12" approved="yes">
+				<source>Last 31 days</source>
+				<target state="translated">Los últimos 31 días</target>
+			</trans-unit>
+			<trans-unit id="chLog_time_2" approved="yes">
+				<source>Last 7 days</source>
+				<target state="translated">Los últimos 7 días</target>
+			</trans-unit>
+			<trans-unit id="chLog_time_20" approved="yes">
+				<source>No limit</source>
+				<target state="translated">Sin límite</target>
+			</trans-unit>
+			<trans-unit id="chLog_title">
+				<source>Admin Changelog</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="chLog_users_0" approved="no">
+				<source>All users</source>
+				<target state="needs-translation">[Todos los usuarios]</target>
+			</trans-unit>
+			<trans-unit id="chLog_users_-1">
+				<source>Self</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="draft" approved="yes">
+				<source>Draft</source>
+				<target state="translated">Borrador</target>
+			</trans-unit>
+			<trans-unit id="forNonPageRelatedActions" approved="yes">
+				<source>for NON-PAGE related actions</source>
+				<target state="translated">para acciones no relacionadas con páginas</target>
+				<alt-trans xml:space="preserve" origin="ultrabyte">
+					<target>para acciones no relacionadas con páginas</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="forPage" approved="yes">
+				<source>for PAGE "%s" (UID: %s)</source>
+				<target state="translated">para la PÁGINA "%s" (UID: %s)</target>
+			</trans-unit>
+			<trans-unit id="forRootLevel" approved="yes">
+				<source>for ROOT LEVEL</source>
+				<target state="translated">para el NIVEL RAÍZ</target>
+				<alt-trans xml:space="preserve" origin="ultrabyte">
+					<target>para el NIVEL RAÍZ</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="group" approved="yes">
+				<source>Group:</source>
+				<target state="translated">Grupo:</target>
+			</trans-unit>
+			<trans-unit id="groupByPage" approved="yes">
+				<source>Group by page:</source>
+				<target state="translated">Agrupar por página:</target>
+			</trans-unit>
+			<trans-unit id="last31Days" approved="yes">
+				<source>Last 31 days</source>
+				<target state="translated">Los últimos 31 días</target>
+			</trans-unit>
+			<trans-unit id="last7Days" approved="yes">
+				<source>Last 7 days</source>
+				<target state="translated">Los últimos 7 días</target>
+			</trans-unit>
+			<trans-unit id="lastMonth" approved="yes">
+				<source>Last month</source>
+				<target state="translated">El mes pasado</target>
+			</trans-unit>
+			<trans-unit id="lastWeek" approved="yes">
+				<source>Last week</source>
+				<target state="translated">La semana pasada</target>
+			</trans-unit>
+			<trans-unit id="live" approved="yes">
+				<source>LIVE</source>
+				<target state="translated">EN VIVO</target>
+			</trans-unit>
+			<trans-unit id="logForNonPageRelatedActionsOrRootLevelOrPage" approved="yes">
+				<source>Log %s from %s to %s</source>
+				<target state="translated">Mostrar registro de %s desde %s hasta %s</target>
+			</trans-unit>
+			<trans-unit id="max" approved="yes">
+				<source>Max:</source>
+				<target state="translated">Máximo:</target>
+			</trans-unit>
+			<trans-unit id="msg_1_0_1" approved="yes">
+				<source>Referer host '%s' and server host '%s' did not match!</source>
+				<target state="translated">¡El anfitrión referente '%s' y el anfitrión servidor '%s' no coinciden!</target>
+				<alt-trans xml:space="preserve" origin="ultrabyte">
+					<target>¡El anfitrión referente '%s' y el anfitrión servidor '%s' no coinciden!</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="msg_1_1_11" approved="yes">
+				<source>Attempt to insert record on page '%s' (%s) where this table, %s, is not allowed</source>
+				<target state="translated">Se intentó agregar un registro en la página '%s' (%s) donde esta tabla, %s, no está permitida</target>
+			</trans-unit>
+			<trans-unit id="msg_1_1_12" approved="yes">
+				<source>Attempt to insert a record on page '%s' (%s) from table '%s' without permissions. Or non-existing page.</source>
+				<target state="translated">Se intentó agregar un registro en la página '%s' (%s) de la tabla '%s' sin permiso. O la página no existe.</target>
+			</trans-unit>
+			<trans-unit id="msg_1_2_1" approved="yes">
+				<source>Attempt to modify table '%s' without permission</source>
+				<target state="translated">Intento de modificar la tabla '%s' sin permiso</target>
+			</trans-unit>
+			<trans-unit id="msg_1_2_10" approved="yes">
+				<source>Record '%s' (%s) was updated.</source>
+				<target state="translated">Se actualizó el registro '%s' (%s).</target>
+			</trans-unit>
+			<trans-unit id="msg_1_2_12" approved="yes">
+				<source>MySQL error: '%s' (%s)</source>
+				<target state="translated">Error de MySQL: '%s' (%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_1_2_2" approved="yes">
+				<source>Attempt to modify record '%s' (%s) without permission. Or non-existing page.</source>
+				<target state="translated">Se intentó modificar el registro '%s' (%s) sin permiso. O la página no existe.</target>
+			</trans-unit>
+			<trans-unit id="msg_1_4_1" approved="yes">
+				<source>Attempt to move record '%s' (%s) to after a non-existing record (uid=%s)</source>
+				<target state="translated">Se intentó mover el registro '%s' (%s) después de un registro no existente (uid=%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_1_4_10">
+				<source>Attempt to move page '%s' (%s) to inside of its own rootline (at page '%s' (%s))</source>
+				<target>Se intentó mover la página '%s' (%s) al interior de su propia línea raíz (en la página '%s' (%s))</target>
+			</trans-unit>
+			<trans-unit id="msg_1_4_11" approved="yes">
+				<source>Attempt to insert record on page '%s' (%s) where this table, %s, is not allowed</source>
+				<target state="translated">Se intentó ingresar un registro en la página '%s' (%s) donde esta table, %s, no está permitida</target>
+			</trans-unit>
+			<trans-unit id="msg_1_4_12">
+				<source>Attempt to insert a record on page '%s' (%s) from table '%s' without permissions. Or non-existing page.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg_1_4_13">
+				<source>Attempt to move record '%s' (%s) to after another record, although the table has no sorting row.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg_1_4_14" approved="yes">
+				<source>Attempt to move record '%s' (%s) without having permissions to do so</source>
+				<target state="translated">Intento de mover el registro '%s' (%s) sin tener permiso para ello</target>
+			</trans-unit>
+			<trans-unit id="msg_1_4_2" approved="yes">
+				<source>Moved record '%s' (%s) to page '%s' (%s)</source>
+				<target state="translated">Se movió el registro '%s' (%s) a la página '%s' (%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_1_4_3" approved="yes">
+				<source>Moved record '%s' (%s) from page '%s' (%s)</source>
+				<target state="translated">Se movió el registro '%s' (%s) desde la página '%s' (%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_1_4_4" approved="yes">
+				<source>Moved record '%s' (%s) on page '%s' (%s)</source>
+				<target state="translated">Se movió el registro '%s' (%s) en la página '%s' (%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_1_5_1" approved="yes">
+				<source>You cannot change the 'doktype' of page '%s' to the desired value.</source>
+				<target state="translated">No puede cambiar el 'doktype' de la página '%s' al valor deseado.</target>
+			</trans-unit>
+			<trans-unit id="msg_1_5_10" approved="yes">
+				<source>Could not delete file '%s' (does not exist). (%s)</source>
+				<target state="translated">No se podría eliminar el archivo '%s' (no existe). (%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_1_5_11" approved="no">
+				<source>Copying file '%s' failed!: No destination file (%s) possible!. (%s)</source>
+				<target state="needs-translation">¡La copia del archivo '%s' falló! No es posible ningún archivo de destino (%s). (%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_1_5_12" approved="yes">
+				<source>File extension '%s' is not allowed. (%s)</source>
+				<target state="translated">La extensión del archivo '%s' no está permitida. (%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_1_5_13" approved="yes">
+				<source>File size (%s) of file '%s' exceeds limit (%s). (%s)</source>
+				<target state="translated">El tamaño (%s) del archivo '%s' excede el límite (%s). (%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_1_5_14" approved="yes">
+				<source>The destination (%s) or the source file (%s) does not exist. (%s)</source>
+				<target state="translated">El destino (%s) o el archivo de origen (%s) no existe. (%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_1_5_15">
+				<source>Copying to file '%s' failed! (%s)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg_1_5_16">
+				<source>Copying file '%s' failed!: The destination path (%s) may be write protected. Please make it write enabled!. (%s)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="msg_1_5_2" approved="yes">
+				<source>'doktype' of page '%s' could not be changed because the page contains records from disallowed tables; %s</source>
+				<target state="translated">El 'doktype' de la página '%s' no podría cambiarse porque la página contiene registros de tablas no permitidas; %s</target>
+			</trans-unit>
+			<trans-unit id="msg_1_5_3" approved="yes">
+				<source>Too few items in the list of values. (%s)</source>
+				<target state="translated">Muy pocos elementos en la lista de valores. (%s)</target>
+			</trans-unit>
+			<trans-unit id="msg_2_9_1" approved="yes">
+				<source>File saved to '%s', bytes: %s, MD5: %s </source>
+				<target state="translated">El archivo fue guardado en '%s', bytes: %s, MD5: %s</target>
+			</trans-unit>
+			<trans-unit id="noLimit" approved="yes">
+				<source>No limit</source>
+				<target state="translated">Sin límite</target>
+			</trans-unit>
+			<trans-unit id="overview" approved="yes">
+				<source>Overview</source>
+				<target state="translated">Generalidades</target>
+			</trans-unit>
+			<trans-unit id="pagenameWithUID" approved="yes">
+				<source>%s" [UID: %s]</source>
+				<target state="translated">%s" [UID: %s]</target>
+			</trans-unit>
+			<trans-unit id="self">
+				<source>Self</source>
+				<target>Auto</target>
+			</trans-unit>
+			<trans-unit id="set" approved="yes">
+				<source>Set</source>
+				<target state="translated">Establecer</target>
+			</trans-unit>
+			<trans-unit id="showHistory" approved="yes">
+				<source>Show History</source>
+				<target state="translated">Mostrar el historial</target>
+			</trans-unit>
+			<trans-unit id="systemmessage.errorsInPeriod">
+				<source>We have found %1$d errors. Please check your &lt;a href="%2$s"&gt;system log&lt;/a&gt;.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="thisMonth" approved="yes">
+				<source>This month</source>
+				<target state="translated">Este mes</target>
+			</trans-unit>
+			<trans-unit id="thisWeek" approved="yes">
+				<source>This week</source>
+				<target state="translated">Esta semana</target>
+			</trans-unit>
+			<trans-unit id="time" approved="yes">
+				<source>Time:</source>
+				<target state="translated">Hora:</target>
+			</trans-unit>
+			<trans-unit id="timeInfo" approved="yes">
+				<source>These pages have log messages from %s to %s</source>
+				<target state="translated">Estas páginas tienen mensajes de registro desde el %s hasta el %s</target>
+			</trans-unit>
+			<trans-unit id="type_1" approved="yes">
+				<source>DB</source>
+				<target state="translated">BD</target>
+			</trans-unit>
+			<trans-unit id="type_2">
+				<source>FILE</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="type_254" approved="yes">
+				<source>SETTING</source>
+				<target state="translated">CONFIGURACIÓN</target>
+			</trans-unit>
+			<trans-unit id="type_255">
+				<source>LOGIN</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="type_3" approved="yes">
+				<source>CACHE</source>
+				<target state="translated">CACHÉ</target>
+			</trans-unit>
+			<trans-unit id="type_4">
+				<source>EXTENSION</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="type_5">
+				<source>ERROR</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="user" approved="yes">
+				<source>User:</source>
+				<target state="translated">Usuario:</target>
+			</trans-unit>
+			<trans-unit id="userDefined" approved="yes">
+				<source>User defined</source>
+				<target state="translated">Definido por el usuario</target>
+			</trans-unit>
+			<trans-unit id="userGroup" approved="yes">
+				<source>Group:</source>
+				<target state="translated">Grupo:</target>
+			</trans-unit>
+			<trans-unit id="users" approved="yes">
+				<source>Users:</source>
+				<target state="translated">Usuarios:</target>
+			</trans-unit>
+			<trans-unit id="viaUser">
+				<source>via</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="workspace" approved="yes">
+				<source>Workspace:</source>
+				<target state="translated">Área de trabajo:</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

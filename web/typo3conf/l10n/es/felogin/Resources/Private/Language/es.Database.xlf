@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-09-07T01:09:40Z" product-name="felogin">
+		<header/>
+		<body>
+			<trans-unit id="felogin_forgotHash">
+				<source>Forgot hash</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="jean_ribet">
+					<target>Forgot hash</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="felogin_redirectPid" approved="yes">
+				<source>Redirect at Login to Page (felogin)</source>
+				<target state="translated">Redirigir a la página de inicio de sesión (felogin)</target>
+			</trans-unit>
+			<trans-unit id="tt_content.CType_pi1" approved="yes">
+				<source>Website User Login</source>
+				<target state="translated">Inicio de sesión del usuario del Website</target>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.error_header" approved="yes">
+				<source>Login Error Header</source>
+				<target state="translated">Encabezado de inicio de sesión fallido</target>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.error_message" approved="yes">
+				<source>Login Error Message</source>
+				<target state="translated">Mensaje de Inicio de sesión fallido</target>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.field_manualOrder">
+				<source>Using fieldlists below:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.field_orderDetails">
+				<source>User Fields/details:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.field_orderList">
+				<source>User Fields/list:</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.forgot_header">
+				<source>Forgot Password Header</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Cabecera de recuperación de contraseña</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.forgot_message">
+				<source>Forgot Password Message</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>Mensaje de recuperación de contraseña</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.general_header" approved="yes">
+				<source>General Header</source>
+				<target state="translated">Encabezado general</target>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.general_message" approved="yes">
+				<source>General Message</source>
+				<target state="translated">Mensaje General</target>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.groupSelection">
+				<source>FE group selection:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="jean_ribet">
+					<target>Selección FE group:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.groupSelection_noGroup">
+				<source>no group</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="jean_ribet">
+					<target>no group</target>
+				</alt-trans>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>sin grupo</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.groupSelectmode">
+				<source>FE group select mode:</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="jean_ribet">
+					<target>FE group select mode:</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.groupSelectmode_DontShowSelected">
+				<source>Dont show selected</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="jean_ribet">
+					<target>No mostrar seleccionado</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.groupSelectmode_FromTS">
+				<source>(from Typoscript)</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="jean_ribet">
+					<target>(desde Typoscript)</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.groupSelectmode_showAll">
+				<source>Show all</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="jean_ribet">
+					<target>Mostrar todo</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.groupSelectmode_showSelected">
+				<source>Show selected</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="jean_ribet">
+					<target>Mostrar seleccionado</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.logout_header">
+				<source>Logout Header</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.logout_message">
+				<source>Logout Message</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="jean_ribet">
+					<target>Mensaje fin de sesión</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectDisable">
+				<source>Disable Redirect</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectFirstMethod">
+				<source>Use First Supported Mode from Selection</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirect_header" approved="yes">
+				<source>Redirect Header</source>
+				<target state="translated">Encabezado de redireccionamiento</target>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirect_message" approved="yes">
+				<source>Redirect Message</source>
+				<target state="translated">Mensaje de redireccionamiento</target>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectMode">
+				<source>Redirect Mode</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectMode.I.0">
+				<source>Defined by Usergroup Record</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectMode.I.1">
+				<source>Defined by User Record</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectMode.I.2">
+				<source>After Login (TS or Flexform)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectMode.I.3">
+				<source>After Logout (TS or Flexform)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectMode.I.4">
+				<source>After Login Error (TS or Flexform)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectMode.I.5">
+				<source>Defined by GET/POST Parameters</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectMode.I.6">
+				<source>Defined by Referrer</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectMode.I.7">
+				<source>Defined by Domain Entries</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectPageLogin">
+				<source>After Successful Login Redirect to Page</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectPageLoginError">
+				<source>After Failed Login Redirect to Page</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.redirectPageLogout">
+				<source>After Logout Redirect to Page</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.sheet_general">
+				<source>General</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="f_llanquipichun">
+					<target>General</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.sheet_messages">
+				<source>Messages</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="jean_ribet">
+					<target>Mensaje</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.sheet_redirect">
+				<source>Redirects</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="jean_ribet">
+					<target>Redirección</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.show_forgot_password">
+				<source>Display Password Recovery Link</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="jean_ribet">
+					<target>Desplegar enlace de recuperación de contraseña</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.show_logoutFormAfterLogin">
+				<source>Disable redirect after successful login, but display logout-form</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="jean_ribet">
+					<target>Desplegar formulario de fin de sesión después de iniciar sesión</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.show_permalogin">
+				<source>Display Remember Login Option</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="jean_ribet">
+					<target>Desplegar la opción de recordar el inicio de sesión</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.status_header">
+				<source>Status Display Header</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.status_message">
+				<source>Status Display Message</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.success_header" approved="yes">
+				<source>Login Success Header</source>
+				<target state="translated">Encabezado de inicio de sesión correcto</target>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.success_message" approved="yes">
+				<source>Login Success Message</source>
+				<target state="translated">Mensaje de inicio de sesión correcto</target>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.template_file" approved="yes">
+				<source>Template File</source>
+				<target state="translated">Archivo de plantilla:</target>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.user_storage">
+				<source>User Storage Page</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.welcome_header" approved="yes">
+				<source>Welcome Header</source>
+				<target state="translated">Encabezado de bienvenida</target>
+			</trans-unit>
+			<trans-unit id="tt_content.pi_flexform.welcome_message" approved="yes">
+				<source>Welcome Message</source>
+				<target state="translated">Mensaje de bienvenida</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

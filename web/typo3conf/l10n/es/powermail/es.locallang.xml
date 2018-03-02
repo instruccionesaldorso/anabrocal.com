@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="es" type="array">
+      <label index="pi1_title">Powermail</label>
+      <label index="pi1_plus_wiz_description">Formulario de email de extensión de gran alcance y fácil con base de datos de almacenamiento, validación Javascript y muchos más ...</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

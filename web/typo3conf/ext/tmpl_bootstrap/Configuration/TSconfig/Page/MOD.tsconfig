@@ -1,0 +1,30 @@
+mod {
+    SHARED {
+        defaultLanguageLabel = Español
+        defaultLanguageFlag = es
+    }
+    web_layout {
+        BackendLayouts {
+            Page {
+                title = Page
+                config {
+                    backend_layout {
+                        colCount = 1
+                        rowCount = 1
+                        rows {
+                            1 {
+                                columns {
+                                    1 {
+                                        name = Content
+                                        colPos = 0
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+                icon = EXT:tmpl_bootstrap/Resources/Public/Images/Icons/BackendLayouts/Page.png
+            }
+        }
+    }
+}

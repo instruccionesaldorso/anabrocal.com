@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-05-11T03:29:14Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="action-items">
+				<source>Action items</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="BlockStyle-Tooltip" approved="yes">
+				<source>Apply style to the containing block</source>
+				<target state="translated">Aplicar estilo al contenedor del bloque</target>
+			</trans-unit>
+			<trans-unit id="component-items" approved="yes">
+				<source>Component items</source>
+				<target state="translated">Elementos componentes</target>
+			</trans-unit>
+			<trans-unit id="detail" approved="yes">
+				<source>Detail</source>
+				<target state="translated">Detalle</target>
+			</trans-unit>
+			<trans-unit id="Element style" approved="yes">
+				<source>Block element style</source>
+				<target state="translated">Estilo del bloque de elementos</target>
+			</trans-unit>
+			<trans-unit id="frame-frame1" approved="yes">
+				<source>Frame with grey background</source>
+				<target state="translated">Marco con fondo gris</target>
+			</trans-unit>
+			<trans-unit id="frame-frame2" approved="yes">
+				<source>Frame with yellow background</source>
+				<target state="translated">Marco con fondo amarillo</target>
+			</trans-unit>
+			<trans-unit id="important" approved="yes">
+				<source>Important</source>
+				<target state="translated">Importante</target>
+			</trans-unit>
+			<trans-unit id="name-of-person" approved="yes">
+				<source>Name of person</source>
+				<target state="translated">Nombre de la persona</target>
+			</trans-unit>
+			<trans-unit id="No style" approved="yes">
+				<source>No block style</source>
+				<target state="translated">Bloque sin estilo</target>
+			</trans-unit>
+			<trans-unit id="Remove style" approved="yes">
+				<source>Remove block style</source>
+				<target state="translated">Eliminar el estilo del bloque</target>
+			</trans-unit>
+			<trans-unit id="Technische Universitat Ilmenau" approved="yes">
+				<source>Technische Universität Ilmenau</source>
+				<target state="translated">Universidad Técnica de Ilmenau</target>
+			</trans-unit>
+			<trans-unit id="Unknown style" approved="yes">
+				<source>Unknown block style</source>
+				<target state="translated">Estilo del bloque desconocido</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

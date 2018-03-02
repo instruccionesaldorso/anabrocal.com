@@ -1,0 +1,16 @@
+<html xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" data-namespace-typo3-fluid="true">
+<f:if condition="{data.header_layout} != 100">
+    <f:if condition="{data.header} || {data.subheader} || {data.date}">
+        <div class="row">
+            <div class="col-xs-12 col-sm-6">
+                <f:render partial="Header/Header" arguments="{
+				header: data.header,
+				layout: data.header_layout,
+				positionClass: '{f:if(condition: data.header_position, then: \'ce-headline-{data.header_position}\')}',
+				link: data.header_link,
+				default: settings.defaultHeaderType}" />
+            </div>
+        </div>
+    </f:if>
+</f:if>
+</html>

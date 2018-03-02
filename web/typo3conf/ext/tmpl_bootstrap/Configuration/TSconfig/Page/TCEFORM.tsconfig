@@ -1,0 +1,9 @@
+TCEFORM.tt_content {
+    CType.removeItems = image,textpic,table,uploads,bullets,html
+    header_layout {
+        altLabels {
+            2 = h2
+        }
+        removeItems = 0,1,3,4,5
+    }
+}

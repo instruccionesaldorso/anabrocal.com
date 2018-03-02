@@ -1,0 +1,21 @@
+plugin.tx_powermail {
+    settings {
+    misc.htmlForHtmlFields = 1
+        javascript.addAdditionalJavaScript = 0
+        styles.bootstrap {
+            formClasses =
+            fieldAndLabelWrappingClasses = form-group
+            fieldWrappingClasses = col-xs-12 col-sm-4
+            labelClasses = col-xs-12
+            numberOfColumns = 1
+            submitClasses = btn btn-default
+        }
+    }
+    view {
+        templateRootPath = {$plugin.tx_tmplbootstrap.view.templateRootPath}Extensions/powermail/
+        partialRootPath = {$plugin.tx_tmplbootstrap.view.partialRootPath}Extensions/powermail/
+        layoutRootPath = {$plugin.tx_tmplbootstrap.view.layoutRootPath}Extensions/powermail/
+    }
+}
+
+plugin.tx_powermail.settings.BasicCss =

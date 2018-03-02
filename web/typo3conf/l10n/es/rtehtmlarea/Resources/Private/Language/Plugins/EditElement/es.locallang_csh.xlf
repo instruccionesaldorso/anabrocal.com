@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-05-11T03:29:18Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id=".alttitle" approved="yes">
+				<source>htmlArea RTE &gt; Edit Element</source>
+				<target state="translated">htmlArea RTE &gt; Editar Elementos</target>
+			</trans-unit>
+			<trans-unit id="className.alttitle" approved="yes">
+				<source>Class attribute</source>
+				<target state="translated">Clase del atributo</target>
+			</trans-unit>
+			<trans-unit id="className.description" approved="yes">
+				<source>Choose a CSS class selector to be assigned to the element.</source>
+				<target state="translated">Elija un selector de clase CSS para asignar al elemento.</target>
+			</trans-unit>
+			<trans-unit id=".description" approved="yes">
+				<source>The "Edit element" dialogue allows to edit the general attributes of an element in the RTE editing area.</source>
+				<target state="translated">El diálogo "Editar elemento" permite editar los atributos generales de un elemento en el área de edición RTE.</target>
+			</trans-unit>
+			<trans-unit id=".details" xml:space="preserve" approved="yes">
+				<source>Clicking the "Edit element" icon in the RTE tool bar opens a dialogue that allows to edit the general attributes of an element.
+The dialogue allows to edit the id, title, class, lang and dir attributes, as well as the microdata attributes of the element. It also allows to specify handlers for keyboard and mouse events.</source>
+			<target state="translated">Al hacer clic en el icono "Editar elemento" de la barra de herramientas, se abre un diálogo que permite editar los atributos generales de un elemento.
+El diálogo permite editar el identificador, título, clase, atributos lang y dir del elemento. También permite especificar los controladores de los eventos de teclado y ratón.</target></trans-unit>
+			<trans-unit id="events.alttitle" approved="yes">
+				<source>Event handlers</source>
+				<target state="translated">Controladores de eventos</target>
+			</trans-unit>
+			<trans-unit id="events.description">
+				<source>Using this fieldset, edit handlers for keyboard and mouse events.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="id.alttitle" approved="yes">
+				<source>Id attribute</source>
+				<target state="translated">Identificación del atributo</target>
+			</trans-unit>
+			<trans-unit id="id.description" approved="yes">
+				<source>Enter or edit the value of the id attribute of the element.</source>
+				<target state="translated">Ingrese o edite el valor del atributo id del elemento.</target>
+			</trans-unit>
+			<trans-unit id=".image" approved="no">
+				<source>EXT:rtehtmlarea/Resources/Public/Images/Plugins/EditElement/element-edit.png</source>
+				<target state="needs-translation">EXT:rtehtmlarea/extensions/EditElement/skin/images/element-edit.png</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id=".image_descr" approved="yes">
+				<source>"Edit element" icon in the editor tool bar.</source>
+				<target state="translated">Icono "Editar elemento" de la barra de herramientas del editor.</target>
+			</trans-unit>
+			<trans-unit id="onclick.alttitle" approved="no">
+				<source>Onclick event handler</source>
+				<target state="needs-translation">Controlador de eventos onclick</target>
+			</trans-unit>
+			<trans-unit id="onclick.description" approved="yes">
+				<source>Enter or edit the script to be run on a mouse click.</source>
+				<target state="translated">Introducir o editar la secuencia de comandos que se ejecutan en un solo clic del ratón.</target>
+			</trans-unit>
+			<trans-unit id="ondblclick.alttitle" approved="no">
+				<source>Ondblclick event handler</source>
+				<target state="needs-translation">Controlador de eventos Ondblclick</target>
+			</trans-unit>
+			<trans-unit id="ondblclick.description" approved="yes">
+				<source>Enter or edit the script to be run on a mouse double-click.</source>
+				<target state="translated">Introducir o editar la secuencia de comandos que se ejecutan en un doble clic del mouse.</target>
+			</trans-unit>
+			<trans-unit id="onkeydown.alttitle" approved="no">
+				<source>Onkeydown event handler</source>
+				<target state="needs-translation">Controlador de eventos Onmousedown</target>
+				<note>80%</note>
+			</trans-unit>
+			<trans-unit id="onkeydown.description" approved="no">
+				<source>Enter or edit the script to be run when a key is pressed.</source>
+				<target state="needs-translation">Ingrese o edite el script que se ejecuta cuando un botón del ratón está presionado.</target>
+				<note>83%</note>
+			</trans-unit>
+			<trans-unit id="onkeypress.alttitle" approved="no">
+				<source>Onkeypress event handler</source>
+				<target state="needs-translation">Controlador de eventos Onmouseup</target>
+				<note>78% 79%</note>
+			</trans-unit>
+			<trans-unit id="onkeypress.description" approved="no">
+				<source>Enter or edit the script to be run when a key is pressed and released.</source>
+				<target state="needs-translation">Ingrese o edite el script que se ejecuta cuando un botón del ratón es liberado.</target>
+				<note>77%</note>
+			</trans-unit>
+			<trans-unit id="onkeyup.alttitle" approved="no">
+				<source>Onkeyup event handler</source>
+				<target state="needs-translation">Controlador de eventos Onmouseup</target>
+				<note>78%</note>
+			</trans-unit>
+			<trans-unit id="onkeyup.description" approved="no">
+				<source>Enter or edit the script to be run when a key is pressed and released.</source>
+				<target state="needs-translation">Ingrese o edite el script que se ejecuta cuando un botón del ratón es liberado.</target>
+				<note>77%</note>
+			</trans-unit>
+			<trans-unit id="onmousedown.alttitle" approved="no">
+				<source>Onmousedown event handler</source>
+				<target state="needs-translation">Controlador de eventos Onmousedown</target>
+			</trans-unit>
+			<trans-unit id="onmousedown.description" approved="yes">
+				<source>Enter or edit the script to be run when a mouse button is pressed.</source>
+				<target state="translated">Ingrese o edite el script que se ejecuta cuando un botón del ratón está presionado.</target>
+			</trans-unit>
+			<trans-unit id="onmousemove.alttitle" approved="no">
+				<source>Onmousemove event handler</source>
+				<target state="needs-translation">Controlador de eventos onmousemove</target>
+			</trans-unit>
+			<trans-unit id="onmousemove.description" approved="yes">
+				<source>Enter or edit the script to be run when the mouse pointer moves.</source>
+				<target state="translated">Ingrese o edite el script que se ejecuta cuando se mueve el puntero del ratón.</target>
+			</trans-unit>
+			<trans-unit id="onmouseout.alttitle" approved="no">
+				<source>Onmouseout event handler</source>
+				<target state="needs-translation">Controlador de eventos Onmouseout</target>
+			</trans-unit>
+			<trans-unit id="onmouseout.description" approved="yes">
+				<source>Enter or edit the script to be run when mouse pointer moves out of the element.</source>
+				<target state="translated">Ingrese o edite el script que se ejecuta cuando el puntero del ratón se mueve fuera del elemento.</target>
+			</trans-unit>
+			<trans-unit id="onmouseover.alttitle" approved="no">
+				<source>Onmouseover event handler</source>
+				<target state="needs-translation">Controlador de eventos Onmouseover</target>
+			</trans-unit>
+			<trans-unit id="onmouseover.description" approved="yes">
+				<source>Enter or edit the script to be run when mouse pointer moves over the element.</source>
+				<target state="translated">Ingrese o edite el script que se ejecuta cuando el puntero del ratón se mueve sobre el elemento.</target>
+			</trans-unit>
+			<trans-unit id="onmouseup.alttitle" approved="no">
+				<source>Onmouseup event handler</source>
+				<target state="needs-translation">Controlador de eventos Onmouseup</target>
+			</trans-unit>
+			<trans-unit id="onmouseup.description" approved="yes">
+				<source>Enter or edit the script to be run when a mouse button is released.</source>
+				<target state="translated">Ingrese o edite el script que se ejecuta cuando un botón del ratón es liberado.</target>
+			</trans-unit>
+			<trans-unit id=".seeAlso" xml:space="preserve" approved="yes">
+				<source>xEXT_rtehtmlarea_EditElement:id,
+xEXT_rtehtmlarea_EditElement:title,
+xEXT_rtehtmlarea_EditElement:className,
+xEXT_rtehtmlarea_Language:languageCombo,
+xEXT_rtehtmlarea_Language:directionCombo,
+xEXT_rtehtmlarea_MicrodataSchema,
+xEXT_rtehtmlarea_EditElement:events</source>
+				<target state="translated">xEXT_rtehtmlarea_EditElement:id,
+xEXT_rtehtmlarea_EditElement:title,
+xEXT_rtehtmlarea_EditElement:className,
+xEXT_rtehtmlarea_Language:languageCombo,
+xEXT_rtehtmlarea_Language:directionCombo,
+xEXT_rtehtmlarea_EditElement:events</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+			<trans-unit id="title.alttitle" approved="yes">
+				<source>Title attribute</source>
+				<target state="translated">Atributo title</target>
+			</trans-unit>
+			<trans-unit id="title.description" approved="yes">
+				<source>Enter or edit the value of the title attribute of the element.</source>
+				<target state="translated">Introducir o modificar el valor del atributo title del elemento.</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,14 @@
+{
+    "tt_content": {
+        "elements": {
+            "topcontent": {
+                "label": "LLL:EXT:tmpl_bootstrap\/Resources\/Private\/Language\/locallang_be.xlf:topcontent.title",
+                "key": "topcontent",
+                "shortLabel": "",
+                "description": "LLL:EXT:tmpl_bootstrap\/Resources\/Private\/Language\/locallang_be.xlf:topcontent.description",
+                "icon": "fa-heart",
+                "color": "#ff0000"
+            }
+        }
+    }
+}

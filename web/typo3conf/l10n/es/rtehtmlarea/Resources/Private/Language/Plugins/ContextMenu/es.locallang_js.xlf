@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-05-11T03:29:11Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Check Link" approved="yes">
+				<source>Chec_k Link</source>
+				<target state="translated">_Comprobar el enlace</target>
+			</trans-unit>
+			<trans-unit id="Copy" approved="yes">
+				<source>Copy</source>
+				<target state="translated">Copiar</target>
+			</trans-unit>
+			<trans-unit id="Create a link" approved="yes">
+				<source>Create a link</source>
+				<target state="translated">Insertar un enlace</target>
+			</trans-unit>
+			<trans-unit id="Current URL is" approved="yes">
+				<source>Current URL is</source>
+				<target state="translated">El URL actual es:</target>
+			</trans-unit>
+			<trans-unit id="Cut" approved="yes">
+				<source>Cut</source>
+				<target state="translated">Cortar</target>
+			</trans-unit>
+			<trans-unit id="Element" approved="yes">
+				<source>Element</source>
+				<target state="translated">Elemento</target>
+			</trans-unit>
+			<trans-unit id="How did you get here? (Please report!)" approved="yes">
+				<source>How did you get here? (Please report!)</source>
+				<target state="translated">¿Cómo llegó usted aquí­? (¡Cuéntenos, por favor!)</target>
+			</trans-unit>
+			<trans-unit id="Image Properties" approved="yes">
+				<source>_Image Properties</source>
+				<target state="translated">Propiedades de la _imagen</target>
+			</trans-unit>
+			<trans-unit id="Insert a paragraph after the current node" approved="yes">
+				<source>Insert a paragraph after the current node</source>
+				<target state="translated">Insertar párrafo detrás el nodo actual</target>
+			</trans-unit>
+			<trans-unit id="Insert a paragraph before the current node" approved="yes">
+				<source>Insert a paragraph before the current node</source>
+				<target state="translated">Insertar párrafo delante el nodo actual</target>
+			</trans-unit>
+			<trans-unit id="Insert paragraph after" approved="yes">
+				<source>Insert paragraph after</source>
+				<target state="translated">Insertar párrafo detrás</target>
+			</trans-unit>
+			<trans-unit id="Insert paragraph before" approved="yes">
+				<source>Insert paragraph before</source>
+				<target state="translated">Insertar párrafo delante</target>
+			</trans-unit>
+			<trans-unit id="JustifyCenter-title" approved="yes">
+				<source>Justify Center</source>
+				<target state="translated">Centrar</target>
+			</trans-unit>
+			<trans-unit id="JustifyCenter-tooltip" approved="yes">
+				<source>Centers the text</source>
+				<target state="translated">Centra el texto</target>
+			</trans-unit>
+			<trans-unit id="JustifyFull-title" approved="yes">
+				<source>Justify Full</source>
+				<target state="translated">Justificar</target>
+			</trans-unit>
+			<trans-unit id="JustifyFull-tooltip" approved="yes">
+				<source>Aligns text both to the left and the right</source>
+				<target state="translated">Alinea el texto tanto a la derecha como a la izquierda</target>
+			</trans-unit>
+			<trans-unit id="JustifyLeft-title" approved="yes">
+				<source>Justify Left</source>
+				<target state="translated">Alinear a la izquierda</target>
+			</trans-unit>
+			<trans-unit id="JustifyLeft-tooltip" approved="yes">
+				<source>Aligns text to the left</source>
+				<target state="translated">Alinea el texto a la izquierda</target>
+			</trans-unit>
+			<trans-unit id="JustifyRight-title" approved="yes">
+				<source>Justify Right</source>
+				<target state="translated">Alinear a la derecha</target>
+			</trans-unit>
+			<trans-unit id="JustifyRight-tooltip" approved="yes">
+				<source>Aligns text to the right</source>
+				<target state="translated">Alinea el texto a la derecha</target>
+			</trans-unit>
+			<trans-unit id="Link points to:" approved="yes">
+				<source>Link points to:</source>
+				<target state="translated">El enlace actual llega a</target>
+			</trans-unit>
+			<trans-unit id="Make link" approved="yes">
+				<source>Make lin_k</source>
+				<target state="translated">Insertar enlace</target>
+			</trans-unit>
+			<trans-unit id="Modify Link" approved="yes">
+				<source>_Modify Link</source>
+				<target state="translated">_Modificar el enlace</target>
+			</trans-unit>
+			<trans-unit id="Modify URL" approved="yes">
+				<source>Modify URL</source>
+				<target state="translated">Cambiar el URL</target>
+			</trans-unit>
+			<trans-unit id="Opens this link in a new window" approved="yes">
+				<source>Opens this link in a new window</source>
+				<target state="translated">Abre el enlace en una ventana nueva</target>
+			</trans-unit>
+			<trans-unit id="Paste" approved="yes">
+				<source>Paste</source>
+				<target state="translated">Pegar</target>
+			</trans-unit>
+			<trans-unit id="Please confirm remove" approved="yes">
+				<source>Please confirm that you want to remove this element:</source>
+				<target state="translated">¿Seguro que desea borrar este elemento?</target>
+			</trans-unit>
+			<trans-unit id="Please confirm unlink" approved="yes">
+				<source>Please confirm that you want to unlink this element.</source>
+				<target state="translated">¿Seguro que desea borrar este enlace?</target>
+			</trans-unit>
+			<trans-unit id="Remove Link" approved="yes">
+				<source>_Remove Link</source>
+				<target state="translated">_Borrar el enlace</target>
+			</trans-unit>
+			<trans-unit id="Remove the" approved="yes">
+				<source>Remove the</source>
+				<target state="translated">Borrar el</target>
+			</trans-unit>
+			<trans-unit id="Remove this node from the document" approved="yes">
+				<source>Removes this node from the document</source>
+				<target state="translated">Borra del documento el nodo actual</target>
+			</trans-unit>
+			<trans-unit id="Show the image properties dialog" approved="yes">
+				<source>Show the image properties dialog</source>
+				<target state="translated">Abre ventana para ver o editar las propiedades de la imagen</target>
+			</trans-unit>
+			<trans-unit id="TO-cell-delete-title" approved="yes">
+				<source>Delete Cell</source>
+				<target state="translated">Borrar celda</target>
+			</trans-unit>
+			<trans-unit id="TO-cell-delete-tooltip" approved="yes">
+				<source>Deletes the current cell</source>
+				<target state="translated">Borra la celda actual</target>
+			</trans-unit>
+			<trans-unit id="TO-cell-insert-after-title" approved="yes">
+				<source>Insert cell after</source>
+				<target state="translated">Insertar celda detrás</target>
+			</trans-unit>
+			<trans-unit id="TO-cell-insert-after-tooltip" approved="yes">
+				<source>Inserts a new cell after the current one</source>
+				<target state="translated">Inserta una nueva celda detrás de la actual</target>
+			</trans-unit>
+			<trans-unit id="TO-cell-insert-before-title" approved="yes">
+				<source>Insert cell before</source>
+				<target state="translated">Insertar celda delante</target>
+			</trans-unit>
+			<trans-unit id="TO-cell-insert-before-tooltip" approved="yes">
+				<source>Inserts a new cell before the current one</source>
+				<target state="translated">Inserta una nueva celda delante de la actual</target>
+			</trans-unit>
+			<trans-unit id="TO-cell-merge-title" approved="yes">
+				<source>Merge Cells</source>
+				<target state="translated">Unir celdas</target>
+			</trans-unit>
+			<trans-unit id="TO-cell-merge-tooltip" approved="yes">
+				<source>Merges the selected cells</source>
+				<target state="translated">Une las celdas actual</target>
+			</trans-unit>
+			<trans-unit id="TO-cell-prop-title" approved="yes">
+				<source>C_ell Properties</source>
+				<target state="translated">Propiedades de la ce_lda</target>
+			</trans-unit>
+			<trans-unit id="TO-cell-prop-tooltip" approved="yes">
+				<source>Shows the Table Cell Properties dialogue</source>
+				<target state="translated">Abre una ventana para ver o editar las propiedades de la celda seleccionada</target>
+			</trans-unit>
+			<trans-unit id="TO-cell-split-title" approved="yes">
+				<source>Split Cell</source>
+				<target state="translated">Dividir celda</target>
+			</trans-unit>
+			<trans-unit id="TO-cell-split-tooltip" approved="yes">
+				<source>Splits the current cell</source>
+				<target state="translated">Divide la celda actual</target>
+			</trans-unit>
+			<trans-unit id="TO-col-delete-title" approved="yes">
+				<source>De_lete Column</source>
+				<target state="translated">Borrar columna</target>
+			</trans-unit>
+			<trans-unit id="TO-col-delete-tooltip" approved="yes">
+				<source>Deletes the current column</source>
+				<target state="translated">Borra la columna seleccionada</target>
+			</trans-unit>
+			<trans-unit id="TO-col-insert-after-title" approved="yes">
+				<source>Insert C_olumn After</source>
+				<target state="translated">Insertar columna detrás</target>
+			</trans-unit>
+			<trans-unit id="TO-col-insert-after-tooltip" approved="yes">
+				<source>Inserts a new column after the current one</source>
+				<target state="translated">Inserta una columna detrás la columna actual</target>
+			</trans-unit>
+			<trans-unit id="TO-col-insert-before-title" approved="yes">
+				<source>Insert _Column Before</source>
+				<target state="translated">Insertar columna delante</target>
+			</trans-unit>
+			<trans-unit id="TO-col-insert-before-tooltip" approved="yes">
+				<source>Inserts a new column before the current one</source>
+				<target state="translated">Inserta una columna delante la columna actual</target>
+			</trans-unit>
+			<trans-unit id="TO-col-prop-title" approved="yes">
+				<source>Column Cells Properties</source>
+				<target state="translated">Propiedades de la las celdas de la columna</target>
+			</trans-unit>
+			<trans-unit id="TO-col-prop-tooltip" approved="yes">
+				<source>Shows the Column Cells Properties dialogue</source>
+				<target state="translated">Abre una ventana para ver o editar las propiedades de la celda seleccionada</target>
+				<note>83%</note>
+			</trans-unit>
+			<trans-unit id="TO-col-split-title" approved="yes">
+				<source>Split Column</source>
+				<target state="translated">Dividir columna</target>
+			</trans-unit>
+			<trans-unit id="TO-col-split-tooltip" approved="yes">
+				<source>Splits the current column</source>
+				<target state="translated">Divide la columna seleccionada</target>
+			</trans-unit>
+			<trans-unit id="TO-row-delete-title" approved="yes">
+				<source>_Delete Row</source>
+				<target state="translated">Borrar fila</target>
+			</trans-unit>
+			<trans-unit id="TO-row-delete-tooltip" approved="yes">
+				<source>Deletes the current row</source>
+				<target state="translated">Borra la fila seleccionada</target>
+			</trans-unit>
+			<trans-unit id="TO-row-insert-above-title" approved="yes">
+				<source>I_nsert Row Before</source>
+				<target state="translated">Insertar fila encima</target>
+			</trans-unit>
+			<trans-unit id="TO-row-insert-above-tooltip" approved="yes">
+				<source>Inserts a new row before the current one</source>
+				<target state="translated">Inserta una fila encima la fila actual</target>
+			</trans-unit>
+			<trans-unit id="TO-row-insert-under-title" approved="yes">
+				<source>In_sert Row After</source>
+				<target state="translated">Insertar fila debajo</target>
+			</trans-unit>
+			<trans-unit id="TO-row-insert-under-tooltip" approved="yes">
+				<source>Inserts a new row after the current one</source>
+				<target state="translated">Inserta una fila debajo la fila actual</target>
+			</trans-unit>
+			<trans-unit id="TO-row-prop-title" approved="yes">
+				<source>Ro_w Properties</source>
+				<target state="translated">Propiedades de la _fila</target>
+			</trans-unit>
+			<trans-unit id="TO-row-prop-tooltip" approved="yes">
+				<source>Shows the Table Row Properties dialogue</source>
+				<target state="translated">Abre una ventana para ver o editar las propiedades de la fila seleccionada</target>
+			</trans-unit>
+			<trans-unit id="TO-row-split-title" approved="yes">
+				<source>Split Row</source>
+				<target state="translated">Dividir fila</target>
+			</trans-unit>
+			<trans-unit id="TO-row-split-tooltip" approved="yes">
+				<source>Splits the current row</source>
+				<target state="translated">Divide la fila seleccionada</target>
+			</trans-unit>
+			<trans-unit id="TO-table-prop-title" approved="yes">
+				<source>_Table Properties</source>
+				<target state="translated">Propiedades de la tabla</target>
+			</trans-unit>
+			<trans-unit id="TO-table-prop-tooltip" approved="yes">
+				<source>Shows the Table Properties dialogue</source>
+				<target state="translated">Abre una ventana para ver o editar las propiedades de la tabla seleccionada</target>
+			</trans-unit>
+			<trans-unit id="TO-table-restyle-title" approved="yes">
+				<source>Re-apply table styles</source>
+				<target state="translated">Volver a aplicar estilos de tabla</target>
+			</trans-unit>
+			<trans-unit id="TO-table-restyle-tooltip" approved="yes">
+				<source>Re-applies the odd-even styles on the table</source>
+				<target state="translated">Re-aplica los estilos impares de la tabla</target>
+			</trans-unit>
+			<trans-unit id="TO-toggle-borders-title" approved="yes">
+				<source>Toggle borders</source>
+				<target state="translated">Activar/desactivar bordes</target>
+			</trans-unit>
+			<trans-unit id="TO-toggle-borders-tooltip" approved="yes">
+				<source>Toggle borders</source>
+				<target state="translated">Activar/desctivar bordes</target>
+			</trans-unit>
+			<trans-unit id="Unlink the current element" approved="yes">
+				<source>Unlink the current element</source>
+				<target state="translated">Borrar el elemento actual</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

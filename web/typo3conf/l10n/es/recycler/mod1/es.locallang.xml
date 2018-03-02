@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="es" type="array">
+			<label index="description">La papelera te permite seleccionar cualquier elemento borrado y restaurarlo. Puedes recuperar elementos recursívamente si el padre de los elementos también está marcado como borrado</label>
+			<label index="js.label_boxLabel_undelete_recursive">Recuperar recursivamente</label>
+			<label index="js.label_clear">Limpiar</label>
+			<label index="js.label_crdate">Creado</label>
+			<label index="js.label_deleteButton_text">Eliminar</label>
+			<label index="js.label_deleteButton_tooltip">Borrar elementos seleccionados</label>
+			<label index="js.label_deletedTab">Datos borrados</label>
+			<label index="js.label_doDelete_confirmText">¿Borrar este registros y si es una página todos los subregistros? &lt;br/&gt; Este cambio no se puede deshacer porque los elimina de la base de datos</label>
+			<label index="js.label_error_NoSelectedRows_msg">Debes seleccionar una fila!</label>
+			<label index="js.label_error_NoSelectedRows_title">Ninguna fila seleccionada</label>
+			<label index="js.label_filter">Filtrar</label>
+			<label index="js.label_filter_emptyText">Palabra clave</label>
+			<label index="js.label_loadMessage">Espere.. &lt;br/&gt;Hay que cargar los registros!</label>
+			<label index="js.label_lostandfound">Objetos perdidos</label>
+			<label index="js.label_no">No</label>
+			<label index="js.label_noValueFound">No hay registros para {0}</label>
+			<label index="js.label_owner">Propietario</label>
+			<label index="js.label_pagingEmpty">No hay registros que mostrar</label>
+			<label index="js.label_pagingMessage">Mostrando registros {0} - {1} de {2}</label>
+			<label index="js.label_records">Registros</label>
+			<label index="js.label_search">Buscar:</label>
+			<label index="js.label_sure">¿Está Seguro?</label>
+			<label index="js.label_table">Tabla</label>
+			<label index="js.label_tableMenu_emptyText">Elige una tabla...</label>
+			<label index="js.label_tableMenu_label">Tabla:</label>
+			<label index="js.label_text_delete">Borrar registros de las tablas:</label>
+			<label index="js.label_text_undelete">Recuperar registros de las tablas:</label>
+			<label index="js.label_title_delete">¿Borrar?</label>
+			<label index="js.label_title_undelete">¿Recuperar?</label>
+			<label index="js.label_tstamp">Última edicación</label>
+			<label index="js.label_undeleteButton_text">Recuperar</label>
+			<label index="js.label_undeleteButton_tooltip">Recuperar elementos seleccionados</label>
+			<label index="js.label_yes">Sí</label>
+			<label index="label_alltables">Todas las tablas</label>
+			<label index="title">Papelera</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

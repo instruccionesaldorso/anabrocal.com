@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-05-11T03:29:15Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="DefinitionItem-helpText" approved="yes">
+				<source>Toggles term and definition elements</source>
+				<target state="translated">Cambiar el término y los elementos de la definición</target>
+			</trans-unit>
+			<trans-unit id="DefinitionItem-Tooltip" approved="yes">
+				<source>Toggle term and definition</source>
+				<target state="translated">Cambiar término y definición</target>
+			</trans-unit>
+			<trans-unit id="DefinitionList-helpText" approved="yes">
+				<source>Makes a definition list from the current selection</source>
+				<target state="translated">Hace una lista de definiciones de la selección actual</target>
+			</trans-unit>
+			<trans-unit id="DefinitionList-Tooltip" approved="yes">
+				<source>Definition list</source>
+				<target state="translated">Definición de la lista</target>
+			</trans-unit>
+			<trans-unit id="Indent-helpText" approved="yes">
+				<source>Increases text indentation</source>
+				<target state="translated">Aumenta la sangría de texto</target>
+			</trans-unit>
+			<trans-unit id="Indent-Tooltip" approved="yes">
+				<source>Increase indent</source>
+				<target state="translated">Aumentar sangría</target>
+			</trans-unit>
+			<trans-unit id="No block" approved="yes">
+				<source>No block format</source>
+				<target state="translated">Bloque sin formato</target>
+			</trans-unit>
+			<trans-unit id="Outdent-helpText" approved="yes">
+				<source>Reduces text indentation</source>
+				<target state="translated">Reduce la sangría del texto</target>
+			</trans-unit>
+			<trans-unit id="Outdent-Tooltip" approved="yes">
+				<source>Reduce indent</source>
+				<target state="translated">Reduce la sangría</target>
+			</trans-unit>
+			<trans-unit id="Remove block" approved="yes">
+				<source>Remove block format</source>
+				<target state="translated">Eliminar formato del bloue</target>
+			</trans-unit>
+			<trans-unit id="Technische Universitat Ilmenau" approved="yes">
+				<source>Technische Universität Ilmenau</source>
+				<target state="translated">Universidad Técnica de Ilmenau</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

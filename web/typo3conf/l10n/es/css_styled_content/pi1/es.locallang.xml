@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="es" type="array">
+			<label index="eIcon.bodytext">Editar cuerpo</label>
+			<label index="eIcon.bullets">Editar lista de viñetas</label>
+			<label index="eIcon.caption">Editar título de las imagenes</label>
+			<label index="eIcon.caption_position"/>
+			<label index="eIcon.filelist">Editar lista de ficheros</label>
+			<label index="eIcon.form">Editar formulario de email</label>
+			<label index="eIcon.header">Editar cabecera</label>
+			<label index="eIcon.html">Editar contenido HTML puro</label>
+			<label index="eIcon.images">Editar imagenes</label>
+			<label index="eIcon.login">Editar elemento de acceso</label>
+			<label index="eIcon.menuSitemap">Editar menu/mapa del sitio</label>
+			<label index="eIcon.multimedia">Editar contenido multimedia</label>
+			<label index="eIcon.page">Página:</label>
+			<label index="eIcon.plugin">Cambiar/configurar plugin</label>
+			<label index="eIcon.recordList">Editar lista de registros</label>
+			<label index="eIcon.search">Editar elemento de búsqueda</label>
+			<label index="eIcon.subheader">Editar subtítulo</label>
+			<label index="eIcon.table">Editar tabla</label>
+			<label index="label.toTop">Al principio</label>
+			<label index="login.login">Conectarse</label>
+			<label index="login.logout">Desconectarse</label>
+			<label index="login.password">Contraseña:</label>
+			<label index="login.username">Usuario:</label>
+			<label index="menu.bypassNavigation"/>
+			<label index="search.emptySearch">No se encontraron resultados para su búsqueda.</label>
+			<label index="search.headersKeywords">Titulos y palabras clave</label>
+			<label index="search.pageContent">Contenido de la página</label>
+			<label index="search.resultRange">Resultados de la búsqueda: ###RANGELOW###-###RANGEHIGH### de ###TOTAL###</label>
+			<label index="search.searchButton">Buscar ahora!</label>
+			<label index="search.searchIn">Buscar en:</label>
+			<label index="search.searchResultNext">Siguiente</label>
+			<label index="search.searchResultPrev">Anterior</label>
+			<label index="search.searchWord">Palabra de búsqueda:</label>
+			<label index="uploads.icon"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="es" type="array">
+      <label index="mlang_tabs_tab">Powermail</label>
+      <label index="mlang_labels_tabdescr">Lista de todos los correos registrados en la base de datos. Posibilidad de filtrar y exportar a CSV (Excel).</label>
+      <label index="mlang_labels_tablabel">Lista Powermail</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

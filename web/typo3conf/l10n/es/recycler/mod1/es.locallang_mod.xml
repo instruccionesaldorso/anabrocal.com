@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="es" type="array">
+			<label index="mlang_labels_tabdescr">La papelera ofrece la posibilidad de restaurar registros borrados o eliminarlos de la base de datos permanentemente. Estas acciones se pueden aplicar a un registro individual, múltiples registros y recursívamente a todos los registros hijos (ejp. restaurar una página puede restaurar todos los elementos de contenido en dicha página). Filtrando por página y tabla se obtiene una vista rápida de los registros eliminados antes de tomar cualquier acción sobre ellos.</label>
+			<label index="mlang_labels_tablabel">Papelera de TYPO3</label>
+			<label index="mlang_tabs_tab">Papelera</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" datatype="plaintext" original="messages" date="2017-01-03T09:00:00Z" product-name="tmpl_bootstrap">
+        <header/>
+        <body>
+            <trans-unit id="topcontent.title">
+                <source>Top content</source>
+            </trans-unit>
+            <trans-unit id="topcontent.description">
+                <source>Creates a top content element</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

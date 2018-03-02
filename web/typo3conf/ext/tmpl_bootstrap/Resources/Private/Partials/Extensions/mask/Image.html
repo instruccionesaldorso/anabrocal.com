@@ -1,0 +1,12 @@
+{namespace v=FluidTYPO3\Vhs\ViewHelpers}
+
+<f:link.page pageUid="{pageUid}">
+    <v:content.render pageUid="{pageUid}" sortDirection="'sorting'" render="0" limit="1" as="records">
+        <v:content.resources.fal table="tt_content" field="assets" record="{records.0}" as="images">
+            <div class="image-container">
+                <f:image src="{f:uri.image(src: images.0.url, treatIdAsReference:1)}" alt="{images.0.name}" title="{images.0.title}" class="img-responsive" width="390c" height="436c" />
+                <f:image src="build/images/c{pageUid}.svg" class="img-responsive over p{pageUid}" width="390c" height="436c" />
+            </div>
+        </v:content.resources.fal>
+    </v:content.render>
+</f:link.page>

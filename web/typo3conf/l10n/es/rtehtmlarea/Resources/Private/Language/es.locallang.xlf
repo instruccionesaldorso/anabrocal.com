@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-05-11T03:29:14Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Address" approved="yes">
+				<source>Address</source>
+				<target state="translated">Dirección</target>
+			</trans-unit>
+			<trans-unit id="deprecatedPropertyMessage" approved="no">
+				<source>Page TSConfig property "%1$s" used on page id #%4$s is DEPRECATED and will be removed in TYPO3 %3$s. Use "%2$s" instead.</source>
+				<target state="needs-translation">Página de propiedades TSConfig "%1$s" que se utiliza en el identificador de página #%4$ s es obsoleto y será eliminado en TYPO3 %3$s. Utilice "%2$s" en su lugar.</target>
+			</trans-unit>
+			<trans-unit id="Heading 1" approved="yes">
+				<source>Heading 1</source>
+				<target state="translated">Encabezado 1</target>
+			</trans-unit>
+			<trans-unit id="Heading 2" approved="yes">
+				<source>Heading 2</source>
+				<target state="translated">Encabezado 2</target>
+			</trans-unit>
+			<trans-unit id="Heading 3" approved="yes">
+				<source>Heading 3</source>
+				<target state="translated">Encabezado 3</target>
+			</trans-unit>
+			<trans-unit id="Heading 4" approved="yes">
+				<source>Heading 4</source>
+				<target state="translated">Encabezado 4</target>
+			</trans-unit>
+			<trans-unit id="Heading 5" approved="yes">
+				<source>Heading 5</source>
+				<target state="translated">Encabezado 5</target>
+			</trans-unit>
+			<trans-unit id="Heading 6" approved="yes">
+				<source>Heading 6</source>
+				<target state="translated">Encabezado 6</target>
+			</trans-unit>
+			<trans-unit id="No font" approved="yes">
+				<source>No font</source>
+				<target state="translated">Sin tipografía</target>
+			</trans-unit>
+			<trans-unit id="Normal" approved="yes">
+				<source>Normal</source>
+				<target state="translated">Normal</target>
+			</trans-unit>
+			<trans-unit id="No size" approved="yes">
+				<source>No font size</source>
+				<target state="translated">Sin tamaño de tipografía</target>
+			</trans-unit>
+			<trans-unit id="Please wait" approved="yes">
+				<source>The editor is being loaded. Please wait...</source>
+				<target state="translated">El editor se está cargando. Espere por favor…</target>
+			</trans-unit>
+			<trans-unit id="Preformatted" approved="yes">
+				<source>Preformatted</source>
+				<target state="translated">Preformateado</target>
+			</trans-unit>
+			<trans-unit id="rteHeight" approved="yes">
+				<source>Height of the RTE in pixels</source>
+				<target state="translated">Alto del RTE en píxeles</target>
+			</trans-unit>
+			<trans-unit id="rteMaxHeight" approved="no">
+				<source>Maximal height of resizeable RTE in pixels</source>
+				<target state="needs-translation">Alto máximo para el tamaño variable del RTE en píxeles</target>
+			</trans-unit>
+			<trans-unit id="rteResize" approved="yes">
+				<source>Make RTE resizable</source>
+				<target state="translated">Hacer RTE de tamaño variable</target>
+			</trans-unit>
+			<trans-unit id="rteSettings" approved="yes">
+				<source>Rich Text Editor</source>
+				<target state="translated">Editor de texto enriquecido</target>
+			</trans-unit>
+			<trans-unit id="rteWidth" approved="yes">
+				<source>Width of the RTE in pixels or percentage</source>
+				<target state="translated">Ancho del RTE en píxeles o porcentaje</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

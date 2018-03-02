@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-05-11T03:29:11Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Access-to-clipboard-denied" approved="yes">
+				<source>Content could not be pasted as plain text because permission to access the clipboard was denied.</source>
+				<target state="translated">El contenido no puede ser pegado como texto sin formato, porque el permiso para acceder al portapapeles se le negó.</target>
+			</trans-unit>
+			<trans-unit id="disablepasteFormat" approved="yes">
+				<source>Disable paste structure and basic format</source>
+				<target state="translated">Deshabilitar la estructura de pegado y el formato básico</target>
+			</trans-unit>
+			<trans-unit id="disablepasteStructure" approved="yes">
+				<source>Disable paste structure only</source>
+				<target state="translated">Deshabilitar sólo la estructura de pegado</target>
+			</trans-unit>
+			<trans-unit id="disableplainText" approved="yes">
+				<source>Disable paste as plain text</source>
+				<target state="translated">Deshabilitar pegar como texto sin formato</target>
+			</trans-unit>
+			<trans-unit id="enablepasteFormat" approved="yes">
+				<source>Enable paste structure and basic format</source>
+				<target state="translated">Activar la estructura de pegado y el formato básico</target>
+			</trans-unit>
+			<trans-unit id="enablepasteStructure" approved="yes">
+				<source>Enable paste structure only</source>
+				<target state="translated">Activar sólo la estructura de pegado</target>
+			</trans-unit>
+			<trans-unit id="enableplainText" approved="yes">
+				<source>Enable paste as plain text</source>
+				<target state="translated">Habilitar pegar como texto sin formato</target>
+			</trans-unit>
+			<trans-unit id="Paste-as-Plain-Text" approved="yes">
+				<source>Paste as plain text</source>
+				<target state="translated">Pegar como texto sin formato</target>
+			</trans-unit>
+			<trans-unit id="PasteBehaviourTooltip" approved="yes">
+				<source>Select alternate paste behaviour</source>
+				<target state="translated">Seleccione el funcionamiento alternativo de pegado</target>
+			</trans-unit>
+			<trans-unit id="pasteFormat" approved="yes">
+				<source>Paste structure and basic format</source>
+				<target state="translated">Pegar estructura y formato básico</target>
+			</trans-unit>
+			<trans-unit id="pasteInPastingPad" approved="yes">
+				<source>Paste the content into this pasting pad and click OK.</source>
+				<target state="translated">Pegar el contenido en esta plataforma de pegar y haga clic en Aceptar.</target>
+			</trans-unit>
+			<trans-unit id="pasteStructure" approved="yes">
+				<source>Paste structure only</source>
+				<target state="translated">Pegar sólo la estructura</target>
+			</trans-unit>
+			<trans-unit id="PasteToggleTooltip" approved="yes">
+				<source>Toggle paste behaviour</source>
+				<target state="translated">Cambiar a funcionalidad de pegado</target>
+			</trans-unit>
+			<trans-unit id="plainText" approved="yes">
+				<source>Paste as plain text</source>
+				<target state="translated">Pegar como texto sin formato</target>
+			</trans-unit>
+			<trans-unit id="rteCleanPasteBehaviour" approved="yes">
+				<source>Clean paste behaviour</source>
+				<target state="translated">Limpiar la funcionalidad de pegado</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

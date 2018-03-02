@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-05-11T03:29:11Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="className" approved="yes">
+				<source>Class</source>
+				<target state="translated">Clase</target>
+			</trans-unit>
+			<trans-unit id="editElement" approved="yes">
+				<source>Edit element</source>
+				<target state="translated">Editar elementos</target>
+			</trans-unit>
+			<trans-unit id="events" approved="yes">
+				<source>Events</source>
+				<target state="translated">Eventos</target>
+			</trans-unit>
+			<trans-unit id="general" approved="yes">
+				<source>General</source>
+				<target state="translated">General</target>
+			</trans-unit>
+			<trans-unit id="id" approved="yes">
+				<source>Id</source>
+				<target state="translated">Id</target>
+			</trans-unit>
+			<trans-unit id="identification" approved="yes">
+				<source>Identification</source>
+				<target state="translated">Identificación</target>
+			</trans-unit>
+			<trans-unit id="onclick" approved="yes">
+				<source>Onclick</source>
+				<target state="translated">Al hacer clic</target>
+			</trans-unit>
+			<trans-unit id="ondblclick">
+				<source>Ondblclick</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="onkeydown">
+				<source>Onkeydown</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="onkeypress">
+				<source>Onkeypress</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="onkeyup">
+				<source>Onkeyup</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="onmousedown">
+				<source>Onmousedown</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="onmousemove">
+				<source>Onmousemove</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="onmouseout">
+				<source>Onmouseout</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="onmouseover">
+				<source>Onmouseover</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="onmouseup">
+				<source>Onmouseup</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="title" approved="yes">
+				<source>Title</source>
+				<target state="translated">Título</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

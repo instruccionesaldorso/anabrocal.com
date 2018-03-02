@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-05-11T03:29:12Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="#064" approved="yes">
+				<source>At</source>
+				<target state="translated">En (@)</target>
+			</trans-unit>
+			<trans-unit id="aacute" approved="yes">
+				<source>Small a with acute accent</source>
+				<target state="translated">Minúscula con acento agudo</target>
+			</trans-unit>
+			<trans-unit id="Aacute" approved="yes">
+				<source>Capital a with acute accent</source>
+				<target state="translated">Mayúscula con acento agudo</target>
+			</trans-unit>
+			<trans-unit id="acirc" approved="yes">
+				<source>Small a with circumflex accent</source>
+				<target state="translated">Minúscula con acento circunflejo</target>
+			</trans-unit>
+			<trans-unit id="Acirc" approved="yes">
+				<source>Capital a with circumflex accent</source>
+				<target state="translated">Mayúscula con acento circunflejo</target>
+			</trans-unit>
+			<trans-unit id="acute" approved="yes">
+				<source>Spacing acute</source>
+				<target state="translated">Espaciado tilde aguda (´)</target>
+			</trans-unit>
+			<trans-unit id="aelig" approved="yes">
+				<source>Small ligature ae</source>
+				<target state="translated">Minúscula con ligadura ae</target>
+			</trans-unit>
+			<trans-unit id="AElig" approved="yes">
+				<source>Capital ligature ae</source>
+				<target state="translated">Mayúscula con ligadura ae</target>
+			</trans-unit>
+			<trans-unit id="agrave" approved="yes">
+				<source>Small a with grave accent</source>
+				<target state="translated">Minúscula con acento grave</target>
+			</trans-unit>
+			<trans-unit id="Agrave" approved="yes">
+				<source>Capital a with grave accent</source>
+				<target state="translated">Mayúscula con acento grave</target>
+			</trans-unit>
+			<trans-unit id="alefsym" approved="yes">
+				<source>Alef (first transfinite cardinal)</source>
+				<target state="translated">Alef (primera transfinito cardinal) (א)</target>
+			</trans-unit>
+			<trans-unit id="alpha" approved="yes">
+				<source>Greek small letter alpha</source>
+				<target state="translated">Letra minúscula griega Alpha (α)</target>
+			</trans-unit>
+			<trans-unit id="Alpha" approved="yes">
+				<source>Greek capital letter alpha</source>
+				<target state="translated">Letra mayúscula griega Alpha (Α)</target>
+			</trans-unit>
+			<trans-unit id="and" approved="yes">
+				<source>Logical and</source>
+				<target state="translated">Lógico y (∧)</target>
+			</trans-unit>
+			<trans-unit id="ang" approved="yes">
+				<source>Angle</source>
+				<target state="translated">Ángulo (∠)</target>
+			</trans-unit>
+			<trans-unit id="aring" approved="yes">
+				<source>Small a with ring</source>
+				<target state="translated">Minúscula con anillo</target>
+			</trans-unit>
+			<trans-unit id="Aring" approved="yes">
+				<source>Capital a with ring</source>
+				<target state="translated">Mayúscula con anillo</target>
+			</trans-unit>
+			<trans-unit id="asymp" approved="yes">
+				<source>Almost equal to, asymptotic to</source>
+				<target state="translated">Casi igual a, asintótica a (≈)</target>
+			</trans-unit>
+			<trans-unit id="atilde" approved="yes">
+				<source>Small a with tilde</source>
+				<target state="translated">Minúscula con tilde</target>
+			</trans-unit>
+			<trans-unit id="Atilde" approved="yes">
+				<source>Capital a with tilde</source>
+				<target state="translated">Mayúscula con tilde</target>
+			</trans-unit>
+			<trans-unit id="auml" approved="yes">
+				<source>Small a with umlaut/diaeresis</source>
+				<target state="translated">Minúscula con metafonía / diéresis</target>
+			</trans-unit>
+			<trans-unit id="Auml" approved="yes">
+				<source>Capital a with umlaut/diaeresis</source>
+				<target state="translated">Mayúscula con metafonía / diéresis</target>
+			</trans-unit>
+			<trans-unit id="bdquo" approved="yes">
+				<source>Double low-9 quotation mark</source>
+				<target state="translated">Comilla doble baja („)</target>
+			</trans-unit>
+			<trans-unit id="beta" approved="yes">
+				<source>Greek small letter beta</source>
+				<target state="translated">Letra minúscula griega beta (β)</target>
+			</trans-unit>
+			<trans-unit id="Beta" approved="yes">
+				<source>Greek capital letter beta</source>
+				<target state="translated">Letra mayúscula griega beta (Β)</target>
+			</trans-unit>
+			<trans-unit id="brvbar" approved="yes">
+				<source>Broken vertical bar</source>
+				<target state="translated">Barra vertical partida (¦)</target>
+			</trans-unit>
+			<trans-unit id="bull" approved="yes">
+				<source>Bullet</source>
+				<target state="translated">Topo/punto ( • )</target>
+			</trans-unit>
+			<trans-unit id="cap" approved="yes">
+				<source>Intersection</source>
+				<target state="translated">Intersección /cruce (∩)</target>
+			</trans-unit>
+			<trans-unit id="ccedil" approved="yes">
+				<source>Small c with cedilla</source>
+				<target state="translated">Minúscula c con cedilla</target>
+			</trans-unit>
+			<trans-unit id="Ccedil" approved="yes">
+				<source>Capital c with cedilla</source>
+				<target state="translated">Mayúscula C con cedilla</target>
+			</trans-unit>
+			<trans-unit id="cedil" approved="yes">
+				<source>Spacing cedilla</source>
+				<target state="translated">Espacio cedilla (¸)</target>
+			</trans-unit>
+			<trans-unit id="cent" approved="yes">
+				<source>Cent</source>
+				<target state="translated">Centavos ( ¢ )</target>
+			</trans-unit>
+			<trans-unit id="CharacterMapTooltip" approved="yes">
+				<source>Insert special character</source>
+				<target state="translated">Insertar carácter especial</target>
+			</trans-unit>
+			<trans-unit id="chi" approved="yes">
+				<source>Greek small letter chi</source>
+				<target state="translated">Letra minúscula griega chi (χ)</target>
+			</trans-unit>
+			<trans-unit id="Chi" approved="yes">
+				<source>Greek capital letter chi</source>
+				<target state="translated">Letra mayúscula griega chi (Χ)</target>
+			</trans-unit>
+			<trans-unit id="circ" approved="yes">
+				<source>Modifier letter circumflex accent</source>
+				<target state="translated">Modificar letra con acento circunflejo</target>
+			</trans-unit>
+			<trans-unit id="Close" approved="yes">
+				<source>Close</source>
+				<target state="translated">Cerrar</target>
+			</trans-unit>
+			<trans-unit id="clubs" approved="yes">
+				<source>Club</source>
+				<target state="translated">Trébol (♣)</target>
+			</trans-unit>
+			<trans-unit id="cong" approved="yes">
+				<source>Congruent to</source>
+				<target state="translated">Congruente con (≅)</target>
+			</trans-unit>
+			<trans-unit id="copy" approved="yes">
+				<source>Copyright</source>
+				<target state="translated">Copyright ( © )</target>
+			</trans-unit>
+			<trans-unit id="crarr" approved="yes">
+				<source>Carriage return arrow</source>
+				<target state="translated">Flecha de retorno del carro de impresión (↵)</target>
+			</trans-unit>
+			<trans-unit id="cup" approved="yes">
+				<source>Union</source>
+				<target state="translated">Unión (∪)</target>
+			</trans-unit>
+			<trans-unit id="curren" approved="yes">
+				<source>Currency</source>
+				<target state="translated">Moneda ( ¤ )</target>
+			</trans-unit>
+			<trans-unit id="dagger" approved="yes">
+				<source>Dagger</source>
+				<target state="translated">Cruz ( † )</target>
+			</trans-unit>
+			<trans-unit id="Dagger" approved="yes">
+				<source>Double dagger</source>
+				<target state="translated">Doble cruz ( ‡ )</target>
+			</trans-unit>
+			<trans-unit id="darr" approved="yes">
+				<source>Downwards arrow</source>
+				<target state="translated">Flecha hacia abajo (↓)</target>
+			</trans-unit>
+			<trans-unit id="dArr" approved="yes">
+				<source>Downwards double arrow</source>
+				<target state="translated">Doble flecha hacia abajo</target>
+			</trans-unit>
+			<trans-unit id="deg" approved="yes">
+				<source>Degree</source>
+				<target state="translated">Grado ( ° )</target>
+			</trans-unit>
+			<trans-unit id="delta" approved="yes">
+				<source>Greek small letter delta</source>
+				<target state="translated">Letra minúscula griega delta (δ)</target>
+			</trans-unit>
+			<trans-unit id="Delta" approved="yes">
+				<source>Greek capital letter delta</source>
+				<target state="translated">Letra mayúscula griega delta (Δ)</target>
+			</trans-unit>
+			<trans-unit id="diams" approved="yes">
+				<source>Diamond</source>
+				<target state="translated">Diamante (♦)</target>
+			</trans-unit>
+			<trans-unit id="divide" approved="yes">
+				<source>Division</source>
+				<target state="translated">División (÷)</target>
+			</trans-unit>
+			<trans-unit id="eacute" approved="yes">
+				<source>Small e with acute accent</source>
+				<target state="translated">Minúscula e con acento agudo</target>
+			</trans-unit>
+			<trans-unit id="Eacute" approved="yes">
+				<source>Capital e with acute accent</source>
+				<target state="translated">Mayúscula E con acento agudo</target>
+			</trans-unit>
+			<trans-unit id="ecirc" approved="yes">
+				<source>Small e with circumflex accent</source>
+				<target state="translated">Minúscula e con acento circunflejo</target>
+			</trans-unit>
+			<trans-unit id="Ecirc" approved="yes">
+				<source>Capital e with circumflex accent</source>
+				<target state="translated">Mayúscula E con acento circunflejo</target>
+			</trans-unit>
+			<trans-unit id="egrave" approved="yes">
+				<source>Small e with grave accent</source>
+				<target state="translated">Minúscula e con acento grave</target>
+			</trans-unit>
+			<trans-unit id="Egrave" approved="yes">
+				<source>Capital e with grave accent</source>
+				<target state="translated">Mayúscula E con acento grave</target>
+			</trans-unit>
+			<trans-unit id="empty" approved="yes">
+				<source>Empty set</source>
+				<target state="translated">Conjunto vacío (∅)</target>
+			</trans-unit>
+			<trans-unit id="emsp" approved="yes">
+				<source>Em space</source>
+				<target state="translated">Espacio Em (equivale al tamaño de la M mayúscula)</target>
+			</trans-unit>
+			<trans-unit id="ensp" approved="yes">
+				<source>En space</source>
+				<target state="translated">Espacio En (ocupa sólo la mitad de un tamaño de punto, el nombre de la unidad de medida en la tipografía.)</target>
+			</trans-unit>
+			<trans-unit id="epsilon" approved="yes">
+				<source>Greek small letter epsilon</source>
+				<target state="translated">Letra minúscula griega epsilon (ε)</target>
+			</trans-unit>
+			<trans-unit id="Epsilon" approved="yes">
+				<source>Greek capital letter epsilon</source>
+				<target state="translated">Letra mayúscula griega epsilon (Ε)</target>
+			</trans-unit>
+			<trans-unit id="equiv" approved="yes">
+				<source>Equivalent</source>
+				<target state="translated">Equivalente (≡)</target>
+			</trans-unit>
+			<trans-unit id="eta" approved="yes">
+				<source>Greek small letter eta</source>
+				<target state="translated">Letra minúscula griega eta (η)</target>
+			</trans-unit>
+			<trans-unit id="Eta" approved="yes">
+				<source>Greek capital letter eta</source>
+				<target state="translated">Letra mayúscula griega eta (Η)</target>
+			</trans-unit>
+			<trans-unit id="eth" approved="yes">
+				<source>Small eth, Icelandic</source>
+				<target state="translated">Minúscula eth, islandés</target>
+			</trans-unit>
+			<trans-unit id="ETH" approved="yes">
+				<source>Capital eth, Icelandic</source>
+				<target state="translated">Mayúscula eth, islandés</target>
+			</trans-unit>
+			<trans-unit id="euml" approved="yes">
+				<source>Small e with umlaut/diaeresis</source>
+				<target state="translated">Minúscula e con metafonía/diéresis</target>
+			</trans-unit>
+			<trans-unit id="Euml" approved="yes">
+				<source>Capital e with umlaut/diaeresis</source>
+				<target state="translated">Mayúscula E con metafonía/diéresis</target>
+			</trans-unit>
+			<trans-unit id="euro" approved="yes">
+				<source>Euro</source>
+				<target state="translated">Euro (€)</target>
+			</trans-unit>
+			<trans-unit id="exist" approved="yes">
+				<source>There exists</source>
+				<target state="translated">Existe (∃)</target>
+			</trans-unit>
+			<trans-unit id="fnof" approved="yes">
+				<source>Function</source>
+				<target state="translated">Función</target>
+			</trans-unit>
+			<trans-unit id="forall" approved="yes">
+				<source>For all</source>
+				<target state="translated">Para todos (∀)</target>
+			</trans-unit>
+			<trans-unit id="frac12" approved="yes">
+				<source>Fraction 1/2</source>
+				<target state="translated">Fracción 1/2 (½)</target>
+			</trans-unit>
+			<trans-unit id="frac14" approved="yes">
+				<source>Fraction 1/4</source>
+				<target state="translated">Fracción 1/4 (¼)</target>
+			</trans-unit>
+			<trans-unit id="frac34" approved="yes">
+				<source>Fraction 3/4</source>
+				<target state="translated">Fracción 3/4 (¾)</target>
+			</trans-unit>
+			<trans-unit id="frasl" approved="yes">
+				<source>Fraction slash</source>
+				<target state="translated">Barra de fracción (/)</target>
+			</trans-unit>
+			<trans-unit id="gamma" approved="yes">
+				<source>Greek small letter gamma</source>
+				<target state="translated">Letra minúscula griega gamma (γ)</target>
+			</trans-unit>
+			<trans-unit id="Gamma" approved="yes">
+				<source>Greek capital letter gamma</source>
+				<target state="translated">Letra mayúscula griega gamma (Γ)</target>
+			</trans-unit>
+			<trans-unit id="ge" approved="yes">
+				<source>Greater than or equal to</source>
+				<target state="translated">Mayor o igual a (≥)</target>
+			</trans-unit>
+			<trans-unit id="general" approved="yes">
+				<source>General</source>
+				<target state="translated">General</target>
+			</trans-unit>
+			<trans-unit id="graphical" approved="yes">
+				<source>Shapes and arrows</source>
+				<target state="translated">Formas y flechas</target>
+			</trans-unit>
+			<trans-unit id="harr" approved="yes">
+				<source>Left right arrow</source>
+				<target state="translated">Flecha hacia derecha e izquierda ↔</target>
+			</trans-unit>
+			<trans-unit id="hArr" approved="yes">
+				<source>Left right double arrow</source>
+				<target state="translated">Doble flecha hacia derecha e izquierda</target>
+			</trans-unit>
+			<trans-unit id="hearts" approved="yes">
+				<source>Heart</source>
+				<target state="translated">Corazón (♥)</target>
+			</trans-unit>
+			<trans-unit id="hellip" approved="yes">
+				<source>Horizontal ellipsis</source>
+				<target state="translated">Puntos suspensivos horizontales</target>
+			</trans-unit>
+			<trans-unit id="HTML value:" approved="yes">
+				<source>HTML value:</source>
+				<target state="translated">Valor HTML:</target>
+			</trans-unit>
+			<trans-unit id="iacute" approved="yes">
+				<source>Small i with acute accent</source>
+				<target state="translated">Minúscula i con acento agudo</target>
+			</trans-unit>
+			<trans-unit id="Iacute" approved="yes">
+				<source>Capital i with acute accent</source>
+				<target state="translated">Mayúscula I con acento agudo</target>
+			</trans-unit>
+			<trans-unit id="icirc" approved="yes">
+				<source>Small i with circumflex accent</source>
+				<target state="translated">Minúscula i con acento circunflejo</target>
+			</trans-unit>
+			<trans-unit id="Icirc" approved="yes">
+				<source>Capital i with circumflex accent</source>
+				<target state="translated">Mayúscula I con acento circunflejo</target>
+			</trans-unit>
+			<trans-unit id="iexcl" approved="yes">
+				<source>Inverted exclamation mark</source>
+				<target state="translated">Signo de exclamación invertido ( ¡ )</target>
+			</trans-unit>
+			<trans-unit id="igrave" approved="yes">
+				<source>Small i with grave accent</source>
+				<target state="translated">Minúscula i con acento grave</target>
+			</trans-unit>
+			<trans-unit id="Igrave" approved="yes">
+				<source>Capital i with grave accent</source>
+				<target state="translated">Mayúscula I con acento grave</target>
+			</trans-unit>
+			<trans-unit id="image" approved="yes">
+				<source>Imaginary part of complex number</source>
+				<target state="translated">Parte imaginaria del número complejo</target>
+			</trans-unit>
+			<trans-unit id="infin" approved="yes">
+				<source>Infinity</source>
+				<target state="translated">Infinito (∞)</target>
+			</trans-unit>
+			<trans-unit id="InsertCharacter-Tooltip" approved="yes">
+				<source>Insert special character</source>
+				<target state="translated">Insertar carácter especial</target>
+			</trans-unit>
+			<trans-unit id="InsertSoftHyphen-Tooltip">
+				<source>Insert soft hyphen</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="Insert special character" approved="yes">
+				<source>Insert special character</source>
+				<target state="translated">Insertar carácter especial</target>
+			</trans-unit>
+			<trans-unit id="int" approved="yes">
+				<source>Integral</source>
+				<target state="translated">Integral (∫)</target>
+			</trans-unit>
+			<trans-unit id="iota" approved="yes">
+				<source>Greek small letter iota</source>
+				<target state="translated">Letra minúscula griega iota (ι)</target>
+			</trans-unit>
+			<trans-unit id="Iota" approved="yes">
+				<source>Greek capital letter iota</source>
+				<target state="translated">Letra mayúscula griega iota (Ι)</target>
+			</trans-unit>
+			<trans-unit id="iquest" approved="yes">
+				<source>Inverted question mark</source>
+				<target state="translated">Signo de interrogación invertido ( ¿ )</target>
+			</trans-unit>
+			<trans-unit id="isin" approved="yes">
+				<source>Is element of</source>
+				<target state="translated">Pertenece/ es elemento de (∈)</target>
+			</trans-unit>
+			<trans-unit id="iuml" approved="yes">
+				<source>Small i with umlaut/diaeresis</source>
+				<target state="translated">Minúscula i con metafonía/diéresis</target>
+			</trans-unit>
+			<trans-unit id="Iuml" approved="yes">
+				<source>Capital i with umlaut/diaeresis</source>
+				<target state="translated">Mayúscula I con metafonía/diéresis</target>
+			</trans-unit>
+			<trans-unit id="kappa" approved="yes">
+				<source>Greek small letter kappa</source>
+				<target state="translated">Letra minúscula griega kappa (κ)</target>
+			</trans-unit>
+			<trans-unit id="Kappa" approved="yes">
+				<source>Greek capital letter kappa</source>
+				<target state="translated">Letra mayúscula griega kappa (Κ)</target>
+			</trans-unit>
+			<trans-unit id="lambda" approved="yes">
+				<source>Greek small letter lambda</source>
+				<target state="translated">Letra minúscula griega lambda (λ)</target>
+			</trans-unit>
+			<trans-unit id="Lambda" approved="yes">
+				<source>Greek capital letter lambda</source>
+				<target state="translated">Letra mayúscula griega lambda (Λ)</target>
+			</trans-unit>
+			<trans-unit id="laquo" approved="yes">
+				<source>Left angle quotation mark</source>
+				<target state="translated">Comillas dobles ángulo izquierdo (‹‹)</target>
+			</trans-unit>
+			<trans-unit id="larr" approved="yes">
+				<source>Leftwards arrow</source>
+				<target state="translated">Flecha hacia la izquierda ←</target>
+			</trans-unit>
+			<trans-unit id="lArr" approved="yes">
+				<source>Leftwards double arrow</source>
+				<target state="translated">Doble flecha hacia la izquierda</target>
+			</trans-unit>
+			<trans-unit id="ldquo" approved="yes">
+				<source>Left double quotation mark</source>
+				<target state="translated">Comilla doble a la izquierda (“)</target>
+			</trans-unit>
+			<trans-unit id="le" approved="yes">
+				<source>Less than or equal to</source>
+				<target state="translated">Menor o igual a (≤)</target>
+			</trans-unit>
+			<trans-unit id="lowast" approved="yes">
+				<source>Asterisk operator</source>
+				<target state="translated">Asterisco operador (*)</target>
+			</trans-unit>
+			<trans-unit id="loz" approved="yes">
+				<source>Lozenge</source>
+				<target state="translated">Rombo ( ◊ )</target>
+			</trans-unit>
+			<trans-unit id="lsaquo" approved="yes">
+				<source>Single left angle quotation</source>
+				<target state="translated">Comilla simple ángulo izquierdo (‹)</target>
+			</trans-unit>
+			<trans-unit id="lsquo" approved="yes">
+				<source>Left single quotation mark</source>
+				<target state="translated">Comilla sencilla a la izquierda</target>
+			</trans-unit>
+			<trans-unit id="mathematical" approved="yes">
+				<source>Mathematical</source>
+				<target state="translated">Matemático</target>
+			</trans-unit>
+			<trans-unit id="mdash" approved="yes">
+				<source>Em dash</source>
+				<target state="translated">Raya o guion largo (—)</target>
+			</trans-unit>
+			<trans-unit id="micro" approved="yes">
+				<source>Micro</source>
+				<target state="translated">micro- (μ)</target>
+			</trans-unit>
+			<trans-unit id="minus" approved="yes">
+				<source>Minus sign</source>
+				<target state="translated">Signo menos (-)</target>
+			</trans-unit>
+			<trans-unit id="mu" approved="yes">
+				<source>Greek small letter mu</source>
+				<target state="translated">Letra minúscula griega mu (μ)</target>
+			</trans-unit>
+			<trans-unit id="Mu" approved="yes">
+				<source>Greek capital letter mu</source>
+				<target state="translated">Letra mayúscula griega mu (Μ)</target>
+			</trans-unit>
+			<trans-unit id="nabla" approved="yes">
+				<source>Gradient</source>
+				<target state="translated">Gradiente / inclinación (∇)</target>
+			</trans-unit>
+			<trans-unit id="nbsp" approved="yes">
+				<source>Non-breaking space</source>
+				<target state="translated">Sin espacios de separación</target>
+			</trans-unit>
+			<trans-unit id="ndash" approved="yes">
+				<source>En dash</source>
+				<target state="translated">Raya o guion corto (–)</target>
+			</trans-unit>
+			<trans-unit id="ne" approved="yes">
+				<source>Not equal to</source>
+				<target state="translated">No es igual a (≠)</target>
+			</trans-unit>
+			<trans-unit id="ni" approved="yes">
+				<source>Contains as member</source>
+				<target state="translated">Contiene (∋)</target>
+			</trans-unit>
+			<trans-unit id="not" approved="yes">
+				<source>Negation</source>
+				<target state="translated">Negación (¬)</target>
+			</trans-unit>
+			<trans-unit id="notin" approved="yes">
+				<source>Is not an element of</source>
+				<target state="translated">No pertenece (∉)</target>
+			</trans-unit>
+			<trans-unit id="nsub" approved="yes">
+				<source>Not subset of</source>
+				<target state="translated">No es subconjunto de (⊄)</target>
+			</trans-unit>
+			<trans-unit id="ntilde" approved="yes">
+				<source>Small n with tilde</source>
+				<target state="translated">Minúscula n con tilde</target>
+			</trans-unit>
+			<trans-unit id="Ntilde" approved="yes">
+				<source>Capital n with tilde</source>
+				<target state="translated">Mayúscula N con tilde</target>
+			</trans-unit>
+			<trans-unit id="nu" approved="yes">
+				<source>Greek small letter nu</source>
+				<target state="translated">Letra minúscula griega nu (ν)</target>
+			</trans-unit>
+			<trans-unit id="Nu" approved="yes">
+				<source>Greek capital letter nu</source>
+				<target state="translated">Letra mayúscula griega nu (Ν)</target>
+			</trans-unit>
+			<trans-unit id="oacute" approved="yes">
+				<source>Small o with acute accent</source>
+				<target state="translated">Minúscula o con acento agudo</target>
+			</trans-unit>
+			<trans-unit id="Oacute" approved="yes">
+				<source>Capital o with acute accent</source>
+				<target state="translated">Mayúscula O con acento agudo</target>
+			</trans-unit>
+			<trans-unit id="ocirc" approved="yes">
+				<source>Small o with circumflex accent</source>
+				<target state="translated">Minúscula o con acento circunflejo</target>
+			</trans-unit>
+			<trans-unit id="Ocirc" approved="yes">
+				<source>Capital o with circumflex accent</source>
+				<target state="translated">Mayúscula O con acento circunflejo</target>
+			</trans-unit>
+			<trans-unit id="oelig" approved="yes">
+				<source>Small ligature OE</source>
+				<target state="translated">Minúscula con ligadura OE</target>
+			</trans-unit>
+			<trans-unit id="OElig" approved="yes">
+				<source>Capital ligature OE</source>
+				<target state="translated">Mayúscula con ligadura OE</target>
+			</trans-unit>
+			<trans-unit id="ograve" approved="yes">
+				<source>Small o with grave accent</source>
+				<target state="translated">Minúscula o con acento grave</target>
+			</trans-unit>
+			<trans-unit id="Ograve" approved="yes">
+				<source>Capital o with grave accent</source>
+				<target state="translated">Mayúscula O con acento grave</target>
+			</trans-unit>
+			<trans-unit id="omega" approved="yes">
+				<source>Greek small letter omega</source>
+				<target state="translated">Letra mayúscula griega omega (ω)</target>
+			</trans-unit>
+			<trans-unit id="Omega" approved="yes">
+				<source>Greek capital letter omega</source>
+				<target state="translated">Letra mayúscula griega omega (Ω)</target>
+			</trans-unit>
+			<trans-unit id="omicron" approved="yes">
+				<source>Greek small letter omicron</source>
+				<target state="translated">Letra minúscula griega omicron (ο)</target>
+			</trans-unit>
+			<trans-unit id="Omicron" approved="yes">
+				<source>Greek capital letter omicron</source>
+				<target state="translated">Letra mayúscula griega omicron (Ο)</target>
+			</trans-unit>
+			<trans-unit id="oplus" approved="yes">
+				<source>Direct sum</source>
+				<target state="translated">Suma directa (⊕)</target>
+			</trans-unit>
+			<trans-unit id="or" approved="yes">
+				<source>Logical or</source>
+				<target state="translated">Lógico o (∨)</target>
+			</trans-unit>
+			<trans-unit id="ordf" approved="yes">
+				<source>Feminine ordinal indicator</source>
+				<target state="translated">Indicador ordinal femenino</target>
+			</trans-unit>
+			<trans-unit id="ordm" approved="yes">
+				<source>Masculine ordinal indicator</source>
+				<target state="translated">Indicador ordinal masculino</target>
+			</trans-unit>
+			<trans-unit id="oslash" approved="yes">
+				<source>Small o with slash</source>
+				<target state="translated">Minúscula o con barra</target>
+			</trans-unit>
+			<trans-unit id="Oslash" approved="yes">
+				<source>Capital o with slash</source>
+				<target state="translated">Mayúscula O con barra</target>
+			</trans-unit>
+			<trans-unit id="otilde" approved="yes">
+				<source>Small o with tilde</source>
+				<target state="translated">Minúscula o con tilde</target>
+			</trans-unit>
+			<trans-unit id="Otilde" approved="yes">
+				<source>Capital o with tilde</source>
+				<target state="translated">Mayúscula O con tilde</target>
+			</trans-unit>
+			<trans-unit id="otimes" approved="yes">
+				<source>Vector product</source>
+				<target state="translated">Producto vector (⊗)</target>
+			</trans-unit>
+			<trans-unit id="ouml" approved="yes">
+				<source>Small o with umlaut/diaeresis</source>
+				<target state="translated">Minúscula o con metafonía/diéresis</target>
+			</trans-unit>
+			<trans-unit id="Ouml" approved="yes">
+				<source>Capital o with umlaut/diaeresis</source>
+				<target state="translated">Mayúscula O con metafonía/diéresis</target>
+			</trans-unit>
+			<trans-unit id="para" approved="yes">
+				<source>Paragraph</source>
+				<target state="translated">Párrafo</target>
+			</trans-unit>
+			<trans-unit id="part" approved="yes">
+				<source>Partial differential</source>
+				<target state="translated">Derivadas parciales</target>
+			</trans-unit>
+			<trans-unit id="permil" approved="yes">
+				<source>Per mille</source>
+				<target state="translated">Por mil (‰)</target>
+			</trans-unit>
+			<trans-unit id="perp" approved="yes">
+				<source>Orthogonal to, perpendicular to</source>
+				<target state="translated">Ortogonal a, perpendiculares a (⊥)</target>
+			</trans-unit>
+			<trans-unit id="phi" approved="yes">
+				<source>Greek small letter phi</source>
+				<target state="translated">Letra minúscula griega phi (φ)</target>
+			</trans-unit>
+			<trans-unit id="Phi" approved="yes">
+				<source>Greek capital letter phi</source>
+				<target state="translated">Letra mayúscula griega phi (Φ)</target>
+			</trans-unit>
+			<trans-unit id="pi" approved="yes">
+				<source>Greek small letter pi</source>
+				<target state="translated">Letra minúscula griega pi (π)</target>
+			</trans-unit>
+			<trans-unit id="Pi" approved="yes">
+				<source>Greek capital letter pi</source>
+				<target state="translated">Letra mayúscula griega pi (Π)</target>
+			</trans-unit>
+			<trans-unit id="piv" approved="yes">
+				<source>Greek pi symbol</source>
+				<target state="translated">Símbolo pi griego</target>
+			</trans-unit>
+			<trans-unit id="plusmn" approved="yes">
+				<source>Plus-or-minus sign</source>
+				<target state="translated">Signo más o menos (±)</target>
+			</trans-unit>
+			<trans-unit id="pound" approved="yes">
+				<source>Pound</source>
+				<target state="translated">Libra (£)</target>
+			</trans-unit>
+			<trans-unit id="prime" approved="yes">
+				<source>Prime, minutes, feet</source>
+				<target state="translated">Prime, Minutos, pies... ( ′)</target>
+			</trans-unit>
+			<trans-unit id="Prime" approved="yes">
+				<source>Double prime, seconds, inches</source>
+				<target state="translated">Doble prime , segundos, pulgadas ( ″ )</target>
+			</trans-unit>
+			<trans-unit id="prod" approved="yes">
+				<source>Product</source>
+				<target state="translated">Producto (∏)</target>
+			</trans-unit>
+			<trans-unit id="prop" approved="yes">
+				<source>Proportional to</source>
+				<target state="translated">Proporcional a (∝)</target>
+			</trans-unit>
+			<trans-unit id="psi" approved="yes">
+				<source>Greek small letter psi</source>
+				<target state="translated">Letra minúscula griega psi (ψ)</target>
+			</trans-unit>
+			<trans-unit id="Psi" approved="yes">
+				<source>Greek capital letter psi</source>
+				<target state="translated">Letra mayúscula griega psi (Ψ)</target>
+			</trans-unit>
+			<trans-unit id="quot" approved="yes">
+				<source>Quotation mark</source>
+				<target state="translated">Comilla</target>
+			</trans-unit>
+			<trans-unit id="radic" approved="yes">
+				<source>Square root</source>
+				<target state="translated">Raíz cuadrada (√)</target>
+			</trans-unit>
+			<trans-unit id="raquo" approved="yes">
+				<source>Right angle quotation mark</source>
+				<target state="translated">Comillas dobles ángulo derecho (››)</target>
+			</trans-unit>
+			<trans-unit id="rarr" approved="yes">
+				<source>Rightwards arrow</source>
+				<target state="translated">Flecha hacia la derecha →</target>
+			</trans-unit>
+			<trans-unit id="rArr" approved="yes">
+				<source>Rightwards double arrow</source>
+				<target state="translated">Doble flecha hacia la derecha</target>
+			</trans-unit>
+			<trans-unit id="rdquo" approved="yes">
+				<source>Right double quotation mark</source>
+				<target state="translated">Comilla doble a la derecha (”)</target>
+			</trans-unit>
+			<trans-unit id="real" approved="yes">
+				<source>Real part of complex number</source>
+				<target state="translated">Parte real del número complejo</target>
+			</trans-unit>
+			<trans-unit id="reg" approved="yes">
+				<source>Registered trademark</source>
+				<target state="translated">Marca registrada ( ® )</target>
+			</trans-unit>
+			<trans-unit id="rho" approved="yes">
+				<source>Greek small letter rho</source>
+				<target state="translated">Letra minúscula griega rho (ρ)</target>
+			</trans-unit>
+			<trans-unit id="Rho" approved="yes">
+				<source>Greek capital letter rho</source>
+				<target state="translated">Letra mayúscula griega rho (Ρ)</target>
+			</trans-unit>
+			<trans-unit id="rsaquo" approved="yes">
+				<source>Single right angle quotation</source>
+				<target state="translated">Comilla simple ángulo derecho (›)</target>
+			</trans-unit>
+			<trans-unit id="rsquo" approved="yes">
+				<source>Right single quotation mark</source>
+				<target state="translated">Comilla sencilla a la derecha</target>
+			</trans-unit>
+			<trans-unit id="sbquo" approved="yes">
+				<source>Single low-9 quotation mark</source>
+				<target state="translated">Comilla sencilla baja (‚)</target>
+			</trans-unit>
+			<trans-unit id="scaron" approved="yes">
+				<source>Small s with caron</source>
+				<target state="translated">Minúscula S con carón o acento anticircunflejo</target>
+			</trans-unit>
+			<trans-unit id="Scaron" approved="yes">
+				<source>Capital s with caron</source>
+				<target state="translated">Mayúscula S con carón o acento anticircunflejo</target>
+			</trans-unit>
+			<trans-unit id="sdot" approved="yes">
+				<source>Dot operator</source>
+				<target state="translated">Punto del operador (⋅)</target>
+			</trans-unit>
+			<trans-unit id="sect" approved="yes">
+				<source>Section</source>
+				<target state="translated">Sección (§)</target>
+			</trans-unit>
+			<trans-unit id="shy" approved="yes">
+				<source>Soft hyphen</source>
+				<target state="translated">Guión de separación</target>
+			</trans-unit>
+			<trans-unit id="sigma" approved="yes">
+				<source>Greek small letter sigma</source>
+				<target state="translated">Letra minúscula griega sigma (σ)</target>
+			</trans-unit>
+			<trans-unit id="Sigma" approved="yes">
+				<source>Greek capital letter sigma</source>
+				<target state="translated">Letra mayúscula griega sigma (Σ)</target>
+			</trans-unit>
+			<trans-unit id="sigmaf" approved="yes">
+				<source>Greek small letter final sigma</source>
+				<target state="translated">Letra minúscula griega sigma final (ς)</target>
+			</trans-unit>
+			<trans-unit id="sim" approved="yes">
+				<source>Varies with, similar to</source>
+				<target state="translated">Varía con, similar a (∼)</target>
+			</trans-unit>
+			<trans-unit id="spades" approved="yes">
+				<source>Spade</source>
+				<target state="translated">Picas (♠)</target>
+			</trans-unit>
+			<trans-unit id="sub" approved="yes">
+				<source>Proper subset of</source>
+				<target state="translated">Subconjunto apropiado de (⊂)</target>
+			</trans-unit>
+			<trans-unit id="sube" approved="yes">
+				<source>Subset of or equal to</source>
+				<target state="translated">Subconjunto de o igual a (⊆)</target>
+			</trans-unit>
+			<trans-unit id="sum" approved="yes">
+				<source>Sum</source>
+				<target state="translated">Suma (∑)</target>
+			</trans-unit>
+			<trans-unit id="sup" approved="yes">
+				<source>Proper superset of</source>
+				<target state="translated">Superconjunto de (⊃)</target>
+			</trans-unit>
+			<trans-unit id="sup1" approved="yes">
+				<source>Superscript 1</source>
+				<target state="translated">Superíndice 1 (¹)</target>
+			</trans-unit>
+			<trans-unit id="sup2" approved="yes">
+				<source>Superscript 2</source>
+				<target state="translated">Superíndice 2 (²)</target>
+			</trans-unit>
+			<trans-unit id="sup3" approved="yes">
+				<source>Superscript 3</source>
+				<target state="translated">Superíndice 3 (³)</target>
+			</trans-unit>
+			<trans-unit id="supe" approved="yes">
+				<source>Superset of or equal to</source>
+				<target state="translated">Superconjunto o igual que (⊇)</target>
+			</trans-unit>
+			<trans-unit id="szlig" approved="yes">
+				<source>Small sharp s, German</source>
+				<target state="translated">Minúscula con s doble (sz, ß), alemán</target>
+			</trans-unit>
+			<trans-unit id="tau" approved="yes">
+				<source>Greek small letter tau</source>
+				<target state="translated">Letra minúscula griega tau (τ)</target>
+			</trans-unit>
+			<trans-unit id="Tau" approved="yes">
+				<source>Greek capital letter tau</source>
+				<target state="translated">Letra mayúscula griega tau (Τ)</target>
+			</trans-unit>
+			<trans-unit id="there4" approved="yes">
+				<source>Therefore</source>
+				<target state="translated">Por lo tanto (∴)</target>
+			</trans-unit>
+			<trans-unit id="theta" approved="yes">
+				<source>Greek small letter theta</source>
+				<target state="translated">Letra minúscula griega theta (θ)</target>
+			</trans-unit>
+			<trans-unit id="Theta" approved="yes">
+				<source>Greek capital letter theta</source>
+				<target state="translated">Letra mayúscula griega theta (Θ)</target>
+			</trans-unit>
+			<trans-unit id="thetasym" approved="yes">
+				<source>Greek small letter theta symbol</source>
+				<target state="translated">Símbolo de la letra minúscula griega theta (Θ)</target>
+			</trans-unit>
+			<trans-unit id="thinsp" approved="yes">
+				<source>Thin space</source>
+				<target state="translated">Separación estrecha (suele emplearse para separar miles sin crear ambigüedades)</target>
+			</trans-unit>
+			<trans-unit id="thorn" approved="yes">
+				<source>Small thorn, Icelandic</source>
+				<target state="translated">Minúscula THORN (Þ), islandés</target>
+			</trans-unit>
+			<trans-unit id="THORN" approved="yes">
+				<source>Capital THORN, Icelandic</source>
+				<target state="translated">Mayúscula THORN (Þ), islandés</target>
+			</trans-unit>
+			<trans-unit id="tilde" approved="yes">
+				<source>Small tilde</source>
+				<target state="translated">Virgulilla, tilde de la ñ (~)</target>
+			</trans-unit>
+			<trans-unit id="times" approved="yes">
+				<source>Multiplication</source>
+				<target state="translated">Multiplicación (×)</target>
+			</trans-unit>
+			<trans-unit id="trade" approved="yes">
+				<source>Trademark</source>
+				<target state="translated">Marca ( ™ )</target>
+			</trans-unit>
+			<trans-unit id="uacute" approved="yes">
+				<source>Small u with acute accent</source>
+				<target state="translated">Minúscula U con acento agudo</target>
+			</trans-unit>
+			<trans-unit id="Uacute" approved="yes">
+				<source>Capital u with acute accent</source>
+				<target state="translated">Mayúscula U con acento agudo</target>
+			</trans-unit>
+			<trans-unit id="uarr" approved="yes">
+				<source>Upwards arrow</source>
+				<target state="translated">Flecha hacia arriba (↑)</target>
+			</trans-unit>
+			<trans-unit id="uArr" approved="yes">
+				<source>Upwards double arrow</source>
+				<target state="translated">Doble flecha hacia arriba</target>
+			</trans-unit>
+			<trans-unit id="ucirc" approved="yes">
+				<source>Small u with circumflex accent</source>
+				<target state="translated">Minúscula U con acento circunflejo</target>
+			</trans-unit>
+			<trans-unit id="Ucirc" approved="yes">
+				<source>Capital u with circumflex accent</source>
+				<target state="translated">Mayúscula U con acento circunflejo</target>
+			</trans-unit>
+			<trans-unit id="ugrave" approved="yes">
+				<source>Small u with grave accent</source>
+				<target state="translated">Minúscula U con acento grave</target>
+			</trans-unit>
+			<trans-unit id="Ugrave" approved="yes">
+				<source>Capital u with grave accent</source>
+				<target state="translated">Mayúscula U con acento grave</target>
+			</trans-unit>
+			<trans-unit id="uml" approved="yes">
+				<source>Spacing diaeresis</source>
+				<target state="translated">Espaciado diéresis (¨)</target>
+			</trans-unit>
+			<trans-unit id="upsih" approved="yes">
+				<source>Greek upsilon with hook symbol</source>
+				<target state="translated">Upsilom griega con el símbolo de gancho</target>
+			</trans-unit>
+			<trans-unit id="upsilon" approved="yes">
+				<source>Greek small letter upsilon</source>
+				<target state="translated">Letra minúscula griega upsilon (υ)</target>
+			</trans-unit>
+			<trans-unit id="Upsilon" approved="yes">
+				<source>Greek capital letter upsilon</source>
+				<target state="translated">Letra mayúscula griega upsilon (Υ)</target>
+			</trans-unit>
+			<trans-unit id="uuml" approved="yes">
+				<source>Small u with umlaut/diaeresis</source>
+				<target state="translated">Minúscula U con metafonía/diéresis</target>
+			</trans-unit>
+			<trans-unit id="Uuml" approved="yes">
+				<source>Capital u with umlaut/diaeresis</source>
+				<target state="translated">Mayúscula U con metafonía/diéresis</target>
+			</trans-unit>
+			<trans-unit id="weierp" approved="yes">
+				<source>Power set (Weierstrass p)</source>
+				<target state="translated">La p de Weierstrass (℘ ), también llamada pe (una letra pe estilizada), es utilizada para identificar los conceptos matemáticos: Función elíptica de Weierstrass y el Conjunto potencia</target>
+			</trans-unit>
+			<trans-unit id="xi" approved="yes">
+				<source>Greek small letter xi</source>
+				<target state="translated">Letra minúscula griega xi (ξ)</target>
+			</trans-unit>
+			<trans-unit id="Xi" approved="yes">
+				<source>Greek capital letter xi</source>
+				<target state="translated">Letra mayúscula griega xi (Ξ)</target>
+			</trans-unit>
+			<trans-unit id="yacute" approved="yes">
+				<source>Small y with acute accent</source>
+				<target state="translated">Minúscula Y con acento agudo</target>
+			</trans-unit>
+			<trans-unit id="Yacute" approved="yes">
+				<source>Capital y with acute accent</source>
+				<target state="translated">Mayúscula Y con acento agudo</target>
+			</trans-unit>
+			<trans-unit id="yen" approved="yes">
+				<source>Yen</source>
+				<target state="translated">Yen (¥)</target>
+			</trans-unit>
+			<trans-unit id="yuml" approved="yes">
+				<source>Small y with umlaut/diaeresis</source>
+				<target state="translated">Minúscula Y con metafonía/diéresis</target>
+			</trans-unit>
+			<trans-unit id="Yuml" approved="yes">
+				<source>Capital y with umlaut/diaeresis</source>
+				<target state="translated">Mayúscula Y con metafonía/diéresis</target>
+			</trans-unit>
+			<trans-unit id="zeta" approved="yes">
+				<source>Greek small letter zeta</source>
+				<target state="translated">Letra minúscula griega zeta (ζ)</target>
+			</trans-unit>
+			<trans-unit id="Zeta" approved="yes">
+				<source>Greek capital letter zeta</source>
+				<target state="translated">Letra mayúscula griega zeta (Ζ)</target>
+			</trans-unit>
+			<trans-unit id="zwj" approved="yes">
+				<source>Zero width joiner</source>
+				<target state="translated">La entidad zwnj (zero width non-joiner) se utiliza para evitar el comportamiento de unión en aquellos contextos en que la unión ocurre pero no debería. La entidad zwj (zero width joiner) hace lo contrario: fuerza la unión cuando no ocurre aunque debería.</target>
+			</trans-unit>
+			<trans-unit id="zwnj" approved="yes">
+				<source>Zero width non-joiner</source>
+				<target state="translated">La entidad zwnj (zero width non-joiner) se utiliza para evitar el comportamiento de unión en aquellos contextos en que la unión ocurre pero no debería. La entidad zwj (zero width joiner) hace lo contrario: fuerza la unión cuando no ocurre aunque debería.</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

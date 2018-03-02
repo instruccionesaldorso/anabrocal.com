@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="es" type="array">
+			<label index="catdocDisabled">Herramientas catdoc (Word-archivos) deshabilitadas</label>
+			<label index="catdocNotFound">'catdoc herramienta para la lectura de las palabras de archivos no se encontró en la ruta '%scatdoc'</label>
+			<label index="extension.CSV"/>
+			<label index="extension.DOC"/>
+			<label index="extension.HTML"/>
+			<label index="extension.images"/>
+			<label index="extension.ODP"/>
+			<label index="extension.ODS"/>
+			<label index="extension.ODT"/>
+			<label index="extension.PDF"/>
+			<label index="extension.PP"/>
+			<label index="extension.RTF"/>
+			<label index="extension.SXC"/>
+			<label index="extension.SXI"/>
+			<label index="extension.SXW"/>
+			<label index="extension.TXT"/>
+			<label index="extension.XLS"/>
+			<label index="extension.XML"/>
+			<label index="ignoreExtensions">La extensión %s fue ignorada</label>
+			<label index="mod2_indexed_search">Estadísticas de la búsqueda indexada</label>
+			<label index="mod_indexed_search">Búsqueda indexada</label>
+			<label index="pdfToolsDisabled">Deshabilitadas Herramientas de PDF</label>
+			<label index="pdfToolsFailed">PDF a texto ha fallado en este documento: '%s'. Tal vez el archivo PDF está bloqueado para la impresión o cifrado.</label>
+			<label index="pdfToolsNotFound">Las herramientas PDF no se encuentra en las rutas '%1$spdftotext' y/o '%1$spdfinfo'"</label>
+			<label index="ppthtmlDisabled">Herramientas ppthtml (Powerpoint-files) deshabilitadas</label>
+			<label index="ppthtmlNotFound">'ppthtml" herramienta para la lectura de archivos de PowerPoint no se encontró en la ruta '%sppthtml'</label>
+			<label index="unrtfDisabled"/>
+			<label index="unrtfNotFound">'catdoc herramienta para la lectura de las palabras de archivos no se encontró en la ruta '%scatdoc'</label>
+			<label index="unzipDisabled"/>
+			<label index="unzipNotFound"/>
+			<label index="xlhtmlDisabled">herramienta xlhtml (ficheros Execel) deshabilitada</label>
+			<label index="xlhtmlNotFound">'catdoc herramienta para la lectura de las palabras de archivos no se encontró en la ruta '%scatdoc'</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,8 @@
+styles {
+    content.textmedia.maxW = 500
+    templates {
+        templateRootPath = {$plugin.tx_tmplbootstrap.view.templateRootPath}ContentElements/
+        partialRootPath = {$plugin.tx_tmplbootstrap.view.partialRootPath}ContentElements/
+        layoutRootPath = {$plugin.tx_tmplbootstrap.view.layoutRootPath}ContentElements/
+    }
+}

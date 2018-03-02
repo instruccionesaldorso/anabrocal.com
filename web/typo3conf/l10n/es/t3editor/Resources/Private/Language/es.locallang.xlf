@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-09-07T04:58:08Z" product-name="t3editor">
+		<header/>
+		<body>
+			<trans-unit id="constants" approved="yes">
+				<source>Constants</source>
+				<target state="translated">Constantes</target>
+			</trans-unit>
+			<trans-unit id="deactivate" approved="yes">
+				<source>Deactivate t3editor</source>
+				<target state="translated">Desactivar t3editor</target>
+			</trans-unit>
+			<trans-unit id="delimiter" approved="yes">
+				<source>:</source>
+				<target state="translated">:</target>
+			</trans-unit>
+			<trans-unit id="file" approved="yes">
+				<source>File</source>
+				<target state="translated">Archivo</target>
+			</trans-unit>
+			<trans-unit id="js.label_documentModified" approved="yes">
+				<source>document has been modified</source>
+				<target state="translated">el documento ha sido modificado</target>
+			</trans-unit>
+			<trans-unit id="js.label_errorWhileSaving" approved="yes">
+				<source>An error occurred while saving the data.</source>
+				<target state="translated">Ha ocurrido un error al guardar los datos.</target>
+			</trans-unit>
+			<trans-unit id="js.label_lines" approved="yes">
+				<source>lines</source>
+				<target state="translated">líneas</target>
+			</trans-unit>
+			<trans-unit id="noPermission" approved="yes">
+				<source>Access denied: No permission to template records.</source>
+				<target state="translated">Acceso denegado: No tiene permiso para el registro de plantilla.</target>
+			</trans-unit>
+			<trans-unit id="pageIDInteger" approved="yes">
+				<source>Syntax error: Parameter pageID must be a valid integer.</source>
+				<target state="translated">Error de sintaxis: el parámetro ID de la página debe ser un entero válido.</target>
+			</trans-unit>
+			<trans-unit id="setup" approved="yes">
+				<source>Setup</source>
+				<target state="translated">Setup</target>
+			</trans-unit>
+			<trans-unit id="template" approved="yes">
+				<source>Template</source>
+				<target state="translated">Plantilla</target>
+			</trans-unit>
+			<trans-unit id="typeIDMissing" approved="yes">
+				<source>Syntax error: At least parameter typeID has to be supplied.</source>
+				<target state="translated">Error de sintaxis: Por lo menos debe indicar el parámetro TypeID</target>
+			</trans-unit>
+			<trans-unit id="unknownContentType" approved="yes">
+				<source>Unknown content type:</source>
+				<target state="translated">Tipo de contenido desconocido</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

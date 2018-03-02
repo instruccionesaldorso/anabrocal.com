@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="es" type="array">
+			<label index="mlang_labels_tabdescr">Este módulo permite administrar la configuración del motor de indexación que esta incluido en el website de frontend.Ud. puede ver las estadísticas de las páginas indexadas. La función de indexado debe estar habilitada en el template TypoScript.&lt;br /&gt;&lt;em&gt;¡Acceso solamente para usuarios 'administrador'!&lt;/em&gt;</label>
+			<label index="mlang_labels_tablabel">Ver las estadísticas del motor de indexación</label>
+			<label index="mlang_tabs_tab">Indexando</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

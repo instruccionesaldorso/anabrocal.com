@@ -1,0 +1,10 @@
+# Setting up logo
+lib.logo = IMAGE
+lib.logo {
+    file = build/images/logo.svg
+    altText = Ana Brocal
+    stdWrap.typolink {
+        parameter = {$plugin.tx_tmplbootstrap.settings.frontendPids.home}
+        title = {$plugin.tx_tmplbootstrap.settings.logoTitle}
+    }
+}

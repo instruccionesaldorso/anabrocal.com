@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-05-11T03:29:15Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="acronym.description" approved="yes">
+				<source>Enter the short form of the term.</source>
+				<target state="translated">Escriba la forma abreviada de la palabra.</target>
+			</trans-unit>
+			<trans-unit id=".description" approved="yes">
+				<source>An 'Abbreviation' associates a short form to a given term. The abbreviation may be defined for a specific language.</source>
+				<target state="translated">La "Abreviatura" se asocia a la forma abreviada de un término dado. La abreviatura se puede definir para un idioma específico.</target>
+			</trans-unit>
+			<trans-unit id=".details" xml:space="preserve" approved="yes">
+				<source>Defined abbreviations are used in the htmlArea RTE Abbreviation dialogue.
+A defined abbreviation may further be configured so as to be made available only when editing content in a given language.</source>
+			<target state="translated">Definir abreviaturas que se usarán en el diálogo de Abreviatura htmlArea RTE.
+Una abreviatura puede definirse con mayor precisión cuando se edita el contenido de una determinada lengua.</target></trans-unit>
+			<trans-unit id="endtime.description" xml:space="preserve" approved="yes">
+				<source>Enter a date and time at which you want the abbreviation to stop being available to non-admin users.
+If no time is specified, the abbreviation is indefinitely available to the users of the RTE, unless it is hidden.</source>
+			<target state="translated">Introduzca una fecha y hora en que desea que la abreviatura deje de estar a disposición de los usuarios no administradores.
+Si no se hubiese especificado, la abreviatura estará por tiempo indefinido a disposición de los usuarios de la evaluación en tiempo real, a menos que se oculte.</target></trans-unit>
+			<trans-unit id="hidden.description" approved="yes">
+				<source>Check this option if you wish to disable the availability of this entry to non-admin users.</source>
+				<target state="translated">Marque esta opción si desea desactivar la disponibilidad de esta entrada a usuarios no administradores.</target>
+			</trans-unit>
+			<trans-unit id=".seeAlso" approved="no">
+				<source>xEXT_rtehtmlarea_Abbreviation</source>
+				<target state="needs-translation">xEXT_rtehtmlarea_Acronym</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id="starttime.description" xml:space="preserve" approved="yes">
+				<source>Enter a time at which you want the abbreviation to start being available to non-admin users.
+If no time is specified, the abbreviation becomes immediately available to the users of the RTE, if not hidden.</source>
+			<target state="translated">Introduzca un tiempo en el que desea que la abreviatura comience a estar disponible para usuarios no administradores.
+Si no se especifica el tiempo, la abreviatura se pone inmediatamente a disposición de los usuarios de la RTE, si no está oculta.</target></trans-unit>
+			<trans-unit id="static_lang_isocode.description" approved="yes">
+				<source>Select the language for which the abbreviation is defined.</source>
+				<target state="translated">Seleccione el idioma para el que se define de la abreviatura.</target>
+			</trans-unit>
+			<trans-unit id="static_lang_isocode.details" approved="yes">
+				<source>The selected language will be used as the value of the language attribute of the HTML element inserted in the content element by the RTE.</source>
+				<target state="translated">El idioma seleccionado será utilizado como el valor del atributo de idioma del elemento HTML insertado en el elemento de contenido del RTE.</target>
+			</trans-unit>
+			<trans-unit id="sys_language_uid.description" approved="yes">
+				<source>Select the language of content elements in which the abbreviation may be used.</source>
+				<target state="translated">Seleccione el idioma de los elementos contenidos en los que puede ser utilizada la abreviatura.</target>
+			</trans-unit>
+			<trans-unit id="term.description" approved="yes">
+				<source>Enter the term to be abbreviated.</source>
+				<target state="translated">Introduzca el término a abreviar.</target>
+			</trans-unit>
+			<trans-unit id="type.description" approved="yes">
+				<source>Select the type of abbreviation.</source>
+				<target state="translated">Seleccione el tipo de abreviatura.</target>
+			</trans-unit>
+			<trans-unit id="type.details" approved="yes">
+				<source>A defined abbreviation may be of two types: abbreviation or acronym. These correspond to HTML elements abbr and acronym. Note however that acronym is deprecated in recent versions of HTML.</source>
+				<target state="translated">Una abreviatura puede ser de dos tipos: abreviatura o siglas/acrónimos. Estos corresponden a elementos HTML abbr y acrónimos. Note sin embargo que el acrónimo está en desuso en las últimas versiones de HTML.</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

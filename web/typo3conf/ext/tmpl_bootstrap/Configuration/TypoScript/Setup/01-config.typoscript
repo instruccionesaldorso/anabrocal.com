@@ -1,0 +1,23 @@
+config {
+    disablePrefixComment = 1
+    uniqueLinkVars = 1
+    compressJs = 0
+    compressCss = 0
+    removeDefaultJS = external
+    sendCacheHeaders = 1
+    doctype = html5
+    xmlprologue = none
+    htmlTag_setParams = lang="es"
+    locale_all = es_ES.UTF-8
+    absRefPrefix = /
+    # Suppress default title tag
+    noPageTitle = 2
+    headerComment (
+        Sergio Catalá
+info@instruccionesaldorso.com
+    )
+}
+
+[globalVar = GP:L = 1]
+    config.locale_all = en_EN.UTF-8
+[end]

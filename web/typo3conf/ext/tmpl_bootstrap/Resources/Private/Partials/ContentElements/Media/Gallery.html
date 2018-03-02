@@ -1,0 +1,18 @@
+<html xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" xmlns:ce="http://typo3.org/ns/TYPO3/CMS/FluidStyledContent/ViewHelpers" data-namespace-typo3-fluid="true">
+<f:if condition="{gallery.rows}">
+    <div class="gallery" data-ce-columns="{gallery.count.columns}" data-ce-images="{gallery.count.files}">
+        <f:for each="{gallery.rows}" as="row">
+            <div class="row">
+                <f:for each="{row.columns}" as="column">
+                    <f:if condition="{column.media}">
+                        <div class="col-xs-12 col-sm-6">
+                            <f:render partial="Media/Type" arguments="{file: column.media, dimensions: column.dimensions, data: data, settings: settings}" />
+                        </div>
+                    </f:if>
+                </f:for>
+            </div>
+        </f:for>
+
+    </div>
+</f:if>
+</html>

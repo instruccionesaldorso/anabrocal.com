@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-05-11T03:29:14Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Allow-Clipboard-Helper-Add-On-Title" approved="yes">
+				<source>Firefox Add-on AllowClipboard Helper</source>
+				<target state="translated">Añadir y permitir el asistente Clipboard de Firefox</target>
+			</trans-unit>
+			<trans-unit id="Firefox-Security-Prefs-Question-Title" approved="yes">
+				<source>Firefox Clipboard Access Security Settings</source>
+				<target state="translated">Configuración del acceso de seguridad Clipboard de Firefox</target>
+			</trans-unit>
+			<trans-unit id="Technische Universitat Ilmenau" approved="yes">
+				<source>Technische Universität Ilmenau</source>
+				<target state="translated">Universidad Técnica de Ilmenau</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

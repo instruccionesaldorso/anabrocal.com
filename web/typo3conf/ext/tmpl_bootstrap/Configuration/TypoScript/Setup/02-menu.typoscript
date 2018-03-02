@@ -1,0 +1,22 @@
+# Setting up menu (no responsive)
+lib.menu = HMENU
+lib.menu {
+    stdWrap.wrap = <ul class="nav nav-stacked">|</ul>
+    entryLevel = 0
+    1 = TMENU
+    1 {
+        noBlur = 1
+        expAll = 1
+        NO = 1
+        NO {
+            wrapItemAndSub = <li>|</li>|*||*|<li class="pre-last">|</li>||<li class="last">|</li>
+            ATagParams.dataWrap = title="{field:title}"
+        }
+        ACT < .NO
+        ACT = 1
+        ACT {
+            wrapItemAndSub = <li class="active"><span class="glyphicon glyphicon-minus"></span>|</li>|*||*|<li class="pre-last active"><span class="glyphicon glyphicon-minus"></span>|</li>||<li class="last active"><span class="glyphicon glyphicon-minus"></span>|</li>
+            doNotLinkIt = 1
+        }
+    }
+}

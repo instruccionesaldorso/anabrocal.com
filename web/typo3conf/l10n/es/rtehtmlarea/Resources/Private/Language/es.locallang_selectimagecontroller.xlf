@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-05-11T03:29:14Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="alt" approved="yes">
+				<source>Alternate text</source>
+				<target state="translated">Texto alternativo</target>
+			</trans-unit>
+			<trans-unit id="border" approved="yes">
+				<source>Border</source>
+				<target state="translated">Borde</target>
+			</trans-unit>
+			<trans-unit id="bytes" approved="yes">
+				<source>bytes</source>
+				<target state="translated">bytes</target>
+			</trans-unit>
+			<trans-unit id="class" approved="yes">
+				<source>Style</source>
+				<target state="translated">Estilo</target>
+			</trans-unit>
+			<trans-unit id="currentImage" approved="yes">
+				<source>Current Image</source>
+				<target state="translated">Imagen actual</target>
+			</trans-unit>
+			<trans-unit id="dragDropImage" approved="yes">
+				<source>Drag and Drop</source>
+				<target state="translated">Arrastrar y soltar</target>
+			</trans-unit>
+			<trans-unit id="float" approved="yes">
+				<source>Float</source>
+				<target state="translated">Flotar</target>
+			</trans-unit>
+			<trans-unit id="folderTree" approved="yes">
+				<source>Folder tree</source>
+				<target state="translated">Árbol de carpertas</target>
+			</trans-unit>
+			<trans-unit id="height" approved="yes">
+				<source>Height</source>
+				<target state="translated">Altura</target>
+			</trans-unit>
+			<trans-unit id="images" approved="yes">
+				<source>Images</source>
+				<target state="translated">Imágenes</target>
+			</trans-unit>
+			<trans-unit id="left" approved="yes">
+				<source>Left</source>
+				<target state="translated">A la izquierda</target>
+			</trans-unit>
+			<trans-unit id="magicImage" approved="yes">
+				<source>New Magic Image</source>
+				<target state="translated">Nueva imagen Mágica</target>
+			</trans-unit>
+			<trans-unit id="magicImage_msg" approved="yes">
+				<source>In "Magic" mode you can select any kind of image with any dimensions. The image is automatically converted to a web image format and any adjustments you make to the size of the image is post processed in order to optimize size and quality.</source>
+				<target state="translated">En el modo "Mágico" puede seleccionar cualquier tipo de imagen de cualquier tamaño. La imagen será convertida automáticamente a un formato adecuado para la web y ante cualquier ajuste que realice al tamaño de la imagen, ésta será procesada con el fin de optimizar tamaño y calidad.</target>
+			</trans-unit>
+			<trans-unit id="margin_lr" approved="yes">
+				<source>Margin left/right</source>
+				<target state="translated">Margen izquierdo/derecho</target>
+			</trans-unit>
+			<trans-unit id="margin_tb" approved="yes">
+				<source>Margin top/bottom</source>
+				<target state="translated">Margen superior/inferior</target>
+			</trans-unit>
+			<trans-unit id="nonFloating" approved="yes">
+				<source>Non-floating</source>
+				<target state="translated">No flotante</target>
+			</trans-unit>
+			<trans-unit id="notSet" approved="yes">
+				<source>Not set</source>
+				<target state="translated">No especificado</target>
+			</trans-unit>
+			<trans-unit id="padding_bottom" approved="yes">
+				<source>Bottom padding</source>
+				<target state="translated">Padding inferior</target>
+			</trans-unit>
+			<trans-unit id="padding_left" approved="yes">
+				<source>Left padding</source>
+				<target state="translated">Padding izquierdo</target>
+			</trans-unit>
+			<trans-unit id="padding_right" approved="yes">
+				<source>Right padding</source>
+				<target state="translated">Padding derecho</target>
+			</trans-unit>
+			<trans-unit id="padding_top" approved="yes">
+				<source>Top padding</source>
+				<target state="translated">Padding superior</target>
+			</trans-unit>
+			<trans-unit id="path" approved="yes">
+				<source>Path</source>
+				<target state="translated">Ruta</target>
+			</trans-unit>
+			<trans-unit id="pixels" approved="yes">
+				<source>pixels</source>
+				<target state="translated">píxeles</target>
+			</trans-unit>
+			<trans-unit id="plainImage" approved="yes">
+				<source>New Plain Image</source>
+				<target state="translated">Nueva imagen simple</target>
+			</trans-unit>
+			<trans-unit id="plainImage_msg" approved="no">
+				<source>In "Plain" mode you can insert only web image formats (jpg,jpeg,gif,png) up to %1$sx%2$s pixels. This method is designed for images which are optimized for web already.</source>
+				<target state="needs-translation">En el modo "Simple" puede insertar solamente formatos de imagen para la web (JPG, GIF y PNG) hasta de 640x480 pixeles. Este método está diseñado para imágenes que ya están optimizados para ser publicadas en la web.</target>
+			</trans-unit>
+			<trans-unit id="right" approved="yes">
+				<source>Right</source>
+				<target state="translated">A la derecha</target>
+			</trans-unit>
+			<trans-unit id="title" approved="yes">
+				<source>Title</source>
+				<target state="translated">Título</target>
+			</trans-unit>
+			<trans-unit id="update" approved="yes">
+				<source>Update</source>
+				<target state="translated">Actualizar</target>
+			</trans-unit>
+			<trans-unit id="uploadImage" approved="yes">
+				<source>Upload Image</source>
+				<target state="translated">Enviar imagen</target>
+			</trans-unit>
+			<trans-unit id="width" approved="yes">
+				<source>Width</source>
+				<target state="translated">Anchura</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

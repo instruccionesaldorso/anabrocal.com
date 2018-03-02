@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-05-11T03:29:18Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id=".alttitle" approved="yes">
+				<source>htmlArea RTE</source>
+				<target state="translated">Área HTML del RTE</target>
+			</trans-unit>
+			<trans-unit id="beUserSettings.alttitle">
+				<source>BE User settings</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="beUserSettings.description">
+				<source>BE User settings let you specify some options of the RTE.</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="beUserSettings.seeAlso">
+				<source>xEXT_rtehtmlarea_General:rteWidth,xEXT_rtehtmlarea_General:rteHeight,xEXT_rtehtmlarea_General:rteResize,xEXT_rtehtmlarea_General:rteMaxHeight,xEXT_rtehtmlarea_PlainText:behaviour,_MOD_user_setup</source>
+				<target/>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id=".description" approved="no">
+				<source>htmlArea RTE is a free, open-source editor for &lt;textarea&gt; fields featuring tight integration with TYPO3.</source>
+				<target state="needs-translation">htmlArea RTE es libre, de código abierto, basado en el editor de campos ExtJS &lt;textarea&gt; que ofrecen una estrecha integración con TYPO3.</target>
+			</trans-unit>
+			<trans-unit id=".details" approved="no">
+				<source>htmlArea RTE supports the following browsers: Firefox 1.5+, SeaMonkey 1.0+, Safari 3.0.4+, Google Chrome 1.0+ and Opera 9.62+ on any platform, and Internet Explorer 9.0+ on Windows.</source>
+				<target state="needs-translation">htmlArea RTE soporta los siguientes navegadores: Firefox 1.5 +, SeaMonkey 1.0 +, Safari 3.0.4 +, Google Chrome y Opera 1.0 + 9.62 + en cualquier plataforma, e Internet Explorer 6.0 o superior en Windows.</target>
+			</trans-unit>
+			<trans-unit id="rteHeight.alttitle" approved="yes">
+				<source>Default height of the RTE in px</source>
+				<target state="translated">Altura predeterminada del RTE en píxeles</target>
+			</trans-unit>
+			<trans-unit id="rteHeight.description" approved="yes">
+				<source>This option lets you specify the initial height of the RTE.</source>
+				<target state="translated">Esta opción le permite especificar la altura inicial del RTE.</target>
+			</trans-unit>
+			<trans-unit id="rteHeight.details" xml:space="preserve" approved="yes">
+				<source>The option specifies the height of the RTE when it is initially displayed. The height of the RTE must be specified as a fixed number of pixels not as a percentage.
+The value you set should allow sufficient height for the tool bar, the editing area and the status bar of the RTE.</source>
+			<target state="translated">La opción especifica la altura de la evaluación en tiempo real cuando se muestra inicialmente. La altura de la RTE debe especificarse como un número fijo de píxeles, no como un porcentaje.
+El valor que estableció debería permitir que una altura suficiente para que se muestre la barra de herramientas, el área de edición y la barra de estado del RTE.</target></trans-unit>
+			<trans-unit id="rteMaxHeight.alttitle" approved="no">
+				<source>Maximal height of resizeable RTE in pixels</source>
+				<target state="needs-translation">Altura máxima del RTE que puede cambiar el tamaño en píxeles</target>
+			</trans-unit>
+			<trans-unit id="rteMaxHeight.description" approved="yes">
+				<source>The value you set should allow sufficient height for the tool bar, the editing area and the status bar of the RTE. Default value is 2000.</source>
+				<target state="translated">El valor que estableció debería permitir que una altura suficiente para mostrar la barra de herramientas, el área de edición y la barra de estado de la RTE. El valor por defecto es 2000.</target>
+			</trans-unit>
+			<trans-unit id="rteResize.alttitle" approved="yes">
+				<source>Make RTE resizable</source>
+				<target state="translated">Haga RTE de tamaño variable</target>
+			</trans-unit>
+			<trans-unit id="rteResize.description" approved="yes">
+				<source>This option will make RTE-enabled fields resizable. A resize handle will appear at the bottom right corner of the RTE.</source>
+				<target state="translated">Esta opción habilitará que el RTE tenga campos de tamaño variable. Un controlador de tamaño aparecerá en la esquina inferior derecha del RTE.</target>
+			</trans-unit>
+			<trans-unit id="rteWidth.alttitle" approved="yes">
+				<source>Default width of the RTE in px or %</source>
+				<target state="translated">Anchura por defecto de la RTE en px o %</target>
+			</trans-unit>
+			<trans-unit id="rteWidth.description" approved="yes">
+				<source>This option lets you specify the initial width of the RTE.</source>
+				<target state="translated">Esta opción le permite especificar el ancho inicial del RTE.</target>
+			</trans-unit>
+			<trans-unit id="rteWidth.details" approved="yes">
+				<source>The option specifies the width of the RTE when it is initially displayed. The width may be specified as a fixed number of pixels or as a percentage.</source>
+				<target state="translated">La opción especifica la anchura de la RTE cuando se muestra inicialmente. La anchura puede ser especificada como un número fijo de píxeles o como un porcentaje.</target>
+			</trans-unit>
+			<trans-unit id=".seeAlso" xml:space="preserve">
+				<source>xEXT_rtehtmlarea_General:beUserSettings,
+xEXT_rtehtmlarea_EditElement,
+xEXT_rtehtmlarea_Language,
+xEXT_rtehtmlarea_PlainText,
+xEXT_rtehtmlarea_RemoveFormat</source>
+				<target/><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

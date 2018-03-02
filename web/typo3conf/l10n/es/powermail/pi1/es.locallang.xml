@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="es" type="array">
+      <label index="powermailmarker_notitle">ERROR: No hay título para el campo actual que se encuentra en base de datos (%s)</label>
+      <label index="locallangmarker_confirmation_question">¿ Son los datos correctos?</label>
+      <label index="locallangmarker_confirmation_back">Volver</label>
+      <label index="locallangmarker_confirmation_files">Archivo adjunto %s:</label>
+      <label index="locallangmarker_confirmation_submit">Enviar datos</label>
+      <label index="locallangmarker_email_receiver">Gracias por su EMAIL:</label>
+      <label index="locallangmarker_email_sender">Tiene EMAIL nuevo:</label>
+      <label index="locallangmarker_mandatory_message">Se han encontrado errores:</label>
+      <label index="locallangmarker_mandatory_emptyfield">Este campo es obligatorio:</label>
+      <label index="locallangmarker_mandatory_submit">Volver al formulario</label>
+      <label index="locallangmarker_error_validemail">La dirección de EMAIL es incorrecta:</label>
+      <label index="locallangmarker_error_file_main">Este archivo no hay podido descargarse:</label>
+      <label index="locallangmarker_error_file_toolarge">El archivo es demasiado grande:</label>
+      <label index="locallangmarker_error_file_extension">Este tipo de extension no está permitida:</label>
+      <label index="locallangmarker_error_file_mimetype">El archivo cargado no se ajusta a la mímica de verificación:</label>
+      <label index="error_check_recipient">Dirección EMAIL del destinatario</label>
+      <label index="error_check_noTS">¡Falta TypoScript de PowerMail!</label>
+      <label index="error_captcha_empty">Falta código</label>
+      <label index="error_captcha_wrong">Código erroneo</label>
+      <label index="error_backend_noip">IP cargada desconectada</label>
+      <label index="error_validemail">Dirección de Email no válida</label>
+      <label index="error_nomx">La dirección de email no existe</label>
+      <label index="error_unique_field">%s was already used</label>
+      <label index="error_unique_ip">IP address %s already made an entry</label>
+      <label index="error_expression_validation">Validación fallida</label>
+      <label index="error_templateNotFound">Plantilla no encontrada, haga clic en Ruta de sus plantillas de PowerMail</label>
+      <label index="error_captchaWrongExt">ERROR PowerMail: ¡La extensión captcha elegida "%s" no se carga! Elija otra extensión captcha en las constantes PowerMail o instalar la extensión "%s".</label>
+      <label index="error_captchaNoExtFound">Por favor, instale una extensión captcha como captcha sr_freecap, jm_recaptcha o wt_calculating_captcha!</label>
+      <label index="multiple_forward">siguiente</label>
+      <label index="multiple_back">Anterior</label>
+      <label index="pagebrowser_inner">de</label>
+      <label index="JSvalidation_label_required">Este campo es obligatorio</label>
+      <label index="JSvalidation_label_please_correct">Por favor, corrija este valor</label>
+      <label index="JSvalidation_label_validate_number">Por favor introduzca un número correcto en este campo</label>
+      <label index="JSvalidation_label_validate_digits">Por favor utilice números en este campo. Evitar espacios, comas, puntos, etc…</label>
+      <label index="JSvalidation_label_validate_alpha">Por favor utilice letras (a-z) en este campo</label>
+      <label index="JSvalidation_label_validate_alphanum">Por favor utilice únicamente letras (a-z) o números (0-9) en este campo. Espacios u otros caracteres no están permitidos</label>
+      <label index="JSvalidation_label_validate_date">Por favor introduzca un fecha correcta</label>
+      <label index="JSvalidation_label_validate_datetime">Por favor, introduzca una fecha y hora válidas</label>
+      <label index="JSvalidation_label_validate_email">Por favor introduzca una dirección Email correcta (test@test.com)</label>
+      <label index="JSvalidation_label_validate_url">Por favor introduzca una URL correcta (http://www.test.com)</label>
+      <label index="JSvalidation_label_validate_date_au">Por favor utilice una fecha con formato: dd/mm/yyyy. Por ejemplo 17/03/2006 para el 17 de Marzo, 2006</label>
+      <label index="JSvalidation_label_validate_currency_dollar">Por favor introduzca una cantidad $ correcta. Por ejemplo $100.00</label>
+      <label index="JSvalidation_label_validate_selection">Por favor haga una selección</label>
+      <label index="JSvalidation_label_validate_one_required">Por favor seleccione una de las opciones mostradas arriba</label>
+      <label index="JSvalidation_label_validate_max">Por favor, introduzca un valor superior a $1</label>
+      <label index="JSvalidation_label_validate_min">Por favor, introduzca un valor menor de $1</label>
+      <label index="JSvalidation_dateinput_months">Enero, Febrero, Marzo, Abril, Mayo, Junio, Julio, Agosto, Septiembre, Octubre, Noviembre, Diciembre</label>
+      <label index="JSvalidation_dateinput_shortMonths">en., feb., marzo, abr., mayo, jun., jul., ag., sept., oct., nov., dic.</label>
+      <label index="JSvalidation_dateinput_days">Domingo, Lunes, Martes, Miércoles, Jueves, Viernes, Sábado</label>
+      <label index="JSvalidation_dateinput_shortDays">Do, Lu, Ma, Mi, Ju, Vi, Sa</label>
+      <label index="JSvalidation_dateinput_firstDay">0</label>
+      <label index="JSvalidation_dateinput_format">aaaa-mm-dd</label>
+      <label index="JSvalidation_invalidtime">Fecha no válida</label>
+      <label index="geoip_ip">Dirección IP</label>
+      <label index="geoip_countryCode">Código del país</label>
+      <label index="geoip_countryName">País</label>
+      <label index="geoip_region">Región</label>
+      <label index="geoip_city">Ciudad</label>
+      <label index="geoip_zip">Código Postal</label>
+      <label index="geoip_lng">Longitud</label>
+      <label index="geoip_lat">Latitud</label>
+      <label index="geoip_dmaCode">Código DMA</label>
+      <label index="geoip_areaCode">Código del Área</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

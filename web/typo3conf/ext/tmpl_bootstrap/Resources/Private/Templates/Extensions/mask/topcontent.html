@@ -1,0 +1,9 @@
+<div class="topcontent">
+    <div class="row">
+        <f:for each="{0: '3', 1: '4', 2: '2', 3: '5', 4: '11'}" as="pageUid">
+            <div class="col-xs-12 col-sm-4">
+                <f:render partial="Image" arguments="{pageUid: pageUid}" />
+            </div>
+        </f:for>
+    </div>
+</div>

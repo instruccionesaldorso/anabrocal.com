@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-09-07T01:50:52Z" product-name="indexed_search">
+		<header/>
+		<body>
+			<trans-unit id="index_config" approved="yes">
+				<source>Indexing Configuration</source>
+				<target state="translated">Configuración de indexación</target>
+			</trans-unit>
+			<trans-unit id="index_config.alternative_source_pid" approved="yes">
+				<source>Alternative Source Page:</source>
+				<target state="translated">Fuente alternativo de la página:</target>
+			</trans-unit>
+			<trans-unit id="index_config.chashcalc" approved="yes">
+				<source>Calculate cHash (force caching)?</source>
+				<target state="translated">¿Calcular cHash (forzar cacheado)?</target>
+			</trans-unit>
+			<trans-unit id="index_config.depth" approved="yes">
+				<source>Depth:</source>
+				<target state="translated">Profundidad</target>
+			</trans-unit>
+			<trans-unit id="index_config.depth.I.0" xml:space="preserve" approved="yes">
+				<source>Single page</source>
+			<target state="translated">Solamente una página</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="index_config.depth.I.1" xml:space="preserve" approved="yes">
+				<source>1 Level</source>
+			<target state="translated">1 nivel</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="index_config.depth.I.2" xml:space="preserve" approved="yes">
+				<source>2 Levels</source>
+			<target state="translated">2 niveles</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="index_config.depth.I.3" xml:space="preserve" approved="yes">
+				<source>3 Levels</source>
+			<target state="translated">3 niveles</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="index_config.description" approved="yes">
+				<source>Description:</source>
+				<target state="translated">Descripción:</target>
+			</trans-unit>
+			<trans-unit id="index_config.extensions" approved="yes">
+				<source>Limit to extensions (commalist):</source>
+				<target state="translated">Limitado a las extensiones (separado por comas):</target>
+			</trans-unit>
+			<trans-unit id="index_config.externalUrl" approved="yes">
+				<source>External URL (eg. "http://www.domain.org/"):</source>
+				<target state="translated">URL externa (p.ej. "http://www.domain.org/"):</target>
+			</trans-unit>
+			<trans-unit id="index_config.fields" approved="yes">
+				<source>Fields (first is title):</source>
+				<target state="translated">Campos (el primero es el título):</target>
+			</trans-unit>
+			<trans-unit id="index_config.filepath" approved="yes">
+				<source>Filepath:</source>
+				<target state="translated">Ruta del fichero:</target>
+			</trans-unit>
+			<trans-unit id="index_config.get_params" approved="yes">
+				<source>GET parameter string (with ###UID### substitution):</source>
+				<target state="translated">Cadena de parámetros GET (con sustitución ###UID###):</target>
+			</trans-unit>
+			<trans-unit id="index_config.indexcfgs" approved="yes">
+				<source>Indexing configurations:</source>
+				<target state="translated">Configuraciones de indexación:</target>
+			</trans-unit>
+			<trans-unit id="index_config.parameterCfgs" approved="yes">
+				<source>Parameter combination configuration ([tablename]:&amp;[param]=###UID###):</source>
+				<target state="translated">Combinación de parámetros de configuración ([tablename]:&amp;[param]=###UID###):</target>
+			</trans-unit>
+			<trans-unit id="index_config.recordsbatch" approved="yes">
+				<source>How many records to index a minute (default is 100):</source>
+				<target state="translated">Cuantos registros quieres indexar por minuto (por defecto son 100):</target>
+			</trans-unit>
+			<trans-unit id="index_config.records_indexonchange" approved="yes">
+				<source>Index Records immediately when saved?:</source>
+				<target state="translated">¿Indexar registros inmediatamente cuando son grabados?</target>
+			</trans-unit>
+			<trans-unit id="index_config.rootpage" approved="yes">
+				<source>Root page:</source>
+				<target state="translated">Página raíz:</target>
+			</trans-unit>
+			<trans-unit id="index_config.set_id" approved="yes">
+				<source>Session ID (if &gt; zero, then indexing job is running):</source>
+				<target state="translated">ID de la sesión (si es &gt; cero, entonces la tarea de indización se está ejecutando):</target>
+			</trans-unit>
+			<trans-unit id="index_config.table2index" approved="yes">
+				<source>Table to index:</source>
+				<target state="translated">Tabla a indexar:</target>
+			</trans-unit>
+			<trans-unit id="index_config.timer_frequency" approved="yes">
+				<source>How often would you like a re-index?:</source>
+				<target state="translated">¿Cada cuanto quieres una re-indexación?</target>
+			</trans-unit>
+			<trans-unit id="index_config.timer_frequency.I.0" approved="yes">
+				<source>Every hour</source>
+				<target state="translated">Cada hora</target>
+			</trans-unit>
+			<trans-unit id="index_config.timer_frequency.I.1" approved="yes">
+				<source>Every day (24 hours)</source>
+				<target state="translated">Cada día (24 horas)</target>
+			</trans-unit>
+			<trans-unit id="index_config.timer_frequency.I.2" approved="yes">
+				<source>Every week</source>
+				<target state="translated">Cada semana</target>
+			</trans-unit>
+			<trans-unit id="index_config.timer_next_indexing" approved="yes">
+				<source>Next indexing is scheduled (if empty, then immediately):</source>
+				<target state="translated">La siguiente indexación está programada (si está vacío, entonces será inmediatamente):</target>
+			</trans-unit>
+			<trans-unit id="index_config.timer_offset" approved="yes">
+				<source>Timing offset from midnight:</source>
+				<target state="translated">Desplazamiento de tiempo desde la media noche:</target>
+			</trans-unit>
+			<trans-unit id="index_config.title" approved="yes">
+				<source>Title:</source>
+				<target state="translated">Título:</target>
+			</trans-unit>
+			<trans-unit id="index_config.type" approved="yes">
+				<source>Type:</source>
+				<target state="translated">Tipo:</target>
+			</trans-unit>
+			<trans-unit id="index_config.type.I.1" approved="yes">
+				<source>Database Records</source>
+				<target state="translated">Registros de la base de datos</target>
+			</trans-unit>
+			<trans-unit id="index_config.type.I.2" approved="yes">
+				<source>Filepath on server</source>
+				<target state="translated">Ruta en el servidor</target>
+			</trans-unit>
+			<trans-unit id="index_config.type.I.3" approved="yes">
+				<source>External URL</source>
+				<target state="translated">URL externa</target>
+			</trans-unit>
+			<trans-unit id="index_config.type.I.4" approved="yes">
+				<source>Page tree</source>
+				<target state="translated">Árbol de páginas</target>
+			</trans-unit>
+			<trans-unit id="index_config.type.I.5" approved="yes">
+				<source>Meta configuration</source>
+				<target state="translated">Configuración de etiquetas &lt;meta&gt;</target>
+			</trans-unit>
+			<trans-unit id="index_config.url_deny" approved="yes">
+				<source>Enter sub-URLs in which not to decend:</source>
+				<target state="translated">Introduce sub-URLs a las que no descender:</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

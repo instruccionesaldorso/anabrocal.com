@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-05-11T03:29:17Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="BiDi override">
+				<source>BiDi override</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="Bold" approved="yes">
+				<source>Bold</source>
+				<target state="translated">Negrita</target>
+			</trans-unit>
+			<trans-unit id="Citation" approved="yes">
+				<source>Citation</source>
+				<target state="translated">Cita</target>
+			</trans-unit>
+			<trans-unit id="Code" approved="yes">
+				<source>Code</source>
+				<target state="translated">Código</target>
+			</trans-unit>
+			<trans-unit id="Definition" approved="yes">
+				<source>Definition</source>
+				<target state="translated">Definición</target>
+			</trans-unit>
+			<trans-unit id="Deleted text" approved="yes">
+				<source>Deleted text</source>
+				<target state="translated">Texto borrado</target>
+			</trans-unit>
+			<trans-unit id="Emphasis" approved="yes">
+				<source>Emphasis</source>
+				<target state="translated">Énfasis</target>
+			</trans-unit>
+			<trans-unit id="Inserted text" approved="yes">
+				<source>Inserted text</source>
+				<target state="translated">Texto insertado</target>
+			</trans-unit>
+			<trans-unit id="Italic" approved="yes">
+				<source>Italic</source>
+				<target state="translated">Cursiva</target>
+			</trans-unit>
+			<trans-unit id="Keyboard" approved="yes">
+				<source>Keyboard</source>
+				<target state="translated">Teclado</target>
+			</trans-unit>
+			<trans-unit id="Label" approved="yes">
+				<source>Label</source>
+				<target state="translated">Etiqueta</target>
+			</trans-unit>
+			<trans-unit id="Large text" approved="yes">
+				<source>Large text</source>
+				<target state="translated">Texto grande</target>
+			</trans-unit>
+			<trans-unit id="Monospaced text" approved="yes">
+				<source>Monospaced text</source>
+				<target state="translated">Texto monoespaciado</target>
+			</trans-unit>
+			<trans-unit id="No markup" approved="yes">
+				<source>No text format</source>
+				<target state="translated">Sin formato de texto</target>
+			</trans-unit>
+			<trans-unit id="Quotation" approved="yes">
+				<source>Quotation</source>
+				<target state="translated">Cita</target>
+			</trans-unit>
+			<trans-unit id="Sample" approved="yes">
+				<source>Sample</source>
+				<target state="translated">Ejemplo</target>
+			</trans-unit>
+			<trans-unit id="Small text" approved="yes">
+				<source>Small text</source>
+				<target state="translated">Texto pequeño</target>
+			</trans-unit>
+			<trans-unit id="Strike-through" approved="yes">
+				<source>Strike-through</source>
+				<target state="translated">Tachado</target>
+			</trans-unit>
+			<trans-unit id="Strong emphasis" approved="yes">
+				<source>Strong emphasis</source>
+				<target state="translated">Énfasis fuerte</target>
+			</trans-unit>
+			<trans-unit id="Style container" approved="yes">
+				<source>Style container</source>
+				<target state="translated">Contenedor de estilo</target>
+			</trans-unit>
+			<trans-unit id="Subscript" approved="yes">
+				<source>Subscript</source>
+				<target state="translated">Subíndice</target>
+			</trans-unit>
+			<trans-unit id="Superscript" approved="yes">
+				<source>Superscript</source>
+				<target state="translated">Superíndice</target>
+			</trans-unit>
+			<trans-unit id="Underline" approved="yes">
+				<source>Underline</source>
+				<target state="translated">Subrayado</target>
+			</trans-unit>
+			<trans-unit id="Variable" approved="yes">
+				<source>Variable</source>
+				<target state="translated">Variable</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

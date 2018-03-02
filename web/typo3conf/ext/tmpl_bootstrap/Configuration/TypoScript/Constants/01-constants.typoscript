@@ -1,0 +1,27 @@
+plugin.tx_tmplbootstrap {
+    settings {
+        extPath = tmpl_bootstrap/
+        privateResourcesRootPath = EXT:{$plugin.tx_tmplbootstrap.settings.extPath}Resources/Private/
+        publicResourcesRootPath = EXT:{$plugin.tx_tmplbootstrap.settings.extPath}Resources/Public/
+        frontendPids {
+            home = 1
+        }
+        logoTitle = Ir a la página de inicio
+        description = Página Web de la diseñadora, ilustradora, fotógrafa y ceramista Ana Brocal.
+        keywords = diseño gráfico, ilustración, cerámica, fotografía, pintura, porcelana, objetos, productos, imagen digital, identidad corporativa, packaging, diseño editorial, esmaltes, engobes, escultura, tinta china, acuarela, retratos, paisajes, teatro, conciertos
+    }
+
+    view {
+        templateRootPath = {$plugin.tx_tmplbootstrap.settings.privateResourcesRootPath}Templates/
+        partialRootPath = {$plugin.tx_tmplbootstrap.settings.privateResourcesRootPath}Partials/
+        layoutRootPath = {$plugin.tx_tmplbootstrap.settings.privateResourcesRootPath}Layouts/
+    }
+}
+
+[globalVar = GP:L=1]
+    plugin.tx_tmplbootstrap.settings {
+        logoTitle = Go to homepage
+        description = Designer, illustrator, photographer and potter Ana Brocal's website.
+        keywords = graphic design, illustration, ceramics, photography, painting, porcelain, objects, products, digital image, corporate identity, packaging, editorial design, glazes, slips, sculpture, ink, watercolor, portraits, landscapes, theater, concerts
+    }
+[global]

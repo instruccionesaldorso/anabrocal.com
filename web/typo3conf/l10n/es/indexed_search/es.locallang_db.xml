@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="es" type="array">
+			<label index="index_config">Configuración de indexación</label>
+			<label index="index_config.alternative_source_pid">Fuente alternativo de la página:</label>
+			<label index="index_config.chashcalc">¿Calcular cHash (forzar cacheado)?</label>
+			<label index="index_config.depth">Profundidad</label>
+			<label index="index_config.depth.I.0">Solamente una página</label>
+			<label index="index_config.depth.I.1">1 nivel</label>
+			<label index="index_config.depth.I.2">2 niveles</label>
+			<label index="index_config.depth.I.3">3 niveles</label>
+			<label index="index_config.description">Descripción:</label>
+			<label index="index_config.extensions">Limitado a las extensiones (separado por comas):</label>
+			<label index="index_config.externalUrl">URL externa (p.ej. "http://www.domain.org/"):</label>
+			<label index="index_config.fields">Campos (el primero es el título):</label>
+			<label index="index_config.filepath">Ruta del fichero:</label>
+			<label index="index_config.get_params">Cadena de parámetros GET (con sustitución ###UID###):</label>
+			<label index="index_config.indexcfgs">Configuraciones de indexación:</label>
+			<label index="index_config.parameterCfgs">Combinación de parámetros de configuración ([tablename]:&amp;[param]=###UID###):</label>
+			<label index="index_config.recordsbatch">Cuantos registros quieres indexar por minuto (por defecto son 100):</label>
+			<label index="index_config.records_indexonchange">¿Indexar registros inmediatamente cuando son grabados?</label>
+			<label index="index_config.rootpage">Página raíz:</label>
+			<label index="index_config.set_id">ID de la sesión (si es &gt; cero, entonces la tarea de indización se está ejecutando):</label>
+			<label index="index_config.table2index">Tabla a indexar:</label>
+			<label index="index_config.timer_frequency">¿Cada cuanto quieres una re-indexación?</label>
+			<label index="index_config.timer_frequency.I.0">Cada hora</label>
+			<label index="index_config.timer_frequency.I.1">Cada día (24 horas)</label>
+			<label index="index_config.timer_frequency.I.2">Cada semana</label>
+			<label index="index_config.timer_next_indexing">La siguiente indexación está programada (si está vacío, entonces será inmediatamente):</label>
+			<label index="index_config.timer_offset">Desplazamiento de tiempo desde la media noche:</label>
+			<label index="index_config.title">Título:</label>
+			<label index="index_config.type">Tipo:</label>
+			<label index="index_config.type.I.1">Registros de la base de datos</label>
+			<label index="index_config.type.I.2">Ruta en el servidor</label>
+			<label index="index_config.type.I.3">URL externa</label>
+			<label index="index_config.type.I.4">Árbol de páginas</label>
+			<label index="index_config.type.I.5">Configuración de etiquetas &lt;meta&gt;</label>
+			<label index="index_config.url_deny">Introduce sub-URLs a las que no descender:</label>
+		</languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-05-11T03:29:16Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Bottom:" approved="yes">
+				<source>Bottom:</source>
+				<target state="translated">Abajo:</target>
+			</trans-unit>
+			<trans-unit id="Bottom padding" approved="yes">
+				<source>Bottom padding</source>
+				<target state="translated">Padding inferior</target>
+			</trans-unit>
+			<trans-unit id="image_url" approved="yes">
+				<source>Image URL</source>
+				<target state="translated">URL de la imagen</target>
+			</trans-unit>
+			<trans-unit id="image_url_invalid" approved="yes">
+				<source>The url could not be accessed or is not a valid image.</source>
+				<target state="translated">No se puede acceder a la URL o la imagen no es válida.</target>
+			</trans-unit>
+			<trans-unit id="Left padding" approved="yes">
+				<source>Left padding</source>
+				<target state="translated">Padding izquierdo</target>
+			</trans-unit>
+			<trans-unit id="Right:" approved="yes">
+				<source>Right:</source>
+				<target state="translated">Derecha:</target>
+			</trans-unit>
+			<trans-unit id="Right padding" approved="yes">
+				<source>Right padding</source>
+				<target state="translated">Padding derecho</target>
+			</trans-unit>
+			<trans-unit id="Top:" approved="yes">
+				<source>Top:</source>
+				<target state="translated">Arriba:</target>
+			</trans-unit>
+			<trans-unit id="Top padding" approved="yes">
+				<source>Top padding</source>
+				<target state="translated">Padding superior</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

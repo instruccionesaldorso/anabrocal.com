@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-05-11T03:29:14Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Element style" approved="yes">
+				<source>Inline element style</source>
+				<target state="translated">Estilo del elemento en línea</target>
+			</trans-unit>
+			<trans-unit id="No style" approved="yes">
+				<source>No text style</source>
+				<target state="translated">Sin estilo de texto</target>
+			</trans-unit>
+			<trans-unit id="Remove style" approved="yes">
+				<source>Remove text style</source>
+				<target state="translated">Quitar estilo de texto</target>
+			</trans-unit>
+			<trans-unit id="Technische Universitat Ilmenau" approved="yes">
+				<source>Technische Universität Ilmenau</source>
+				<target state="translated">Universidad Técnica de Ilmenau</target>
+			</trans-unit>
+			<trans-unit id="TextStyle-Tooltip" approved="yes">
+				<source>Apply style to the selected text</source>
+				<target state="translated">Aplicar estilo al texto seleccionado</target>
+			</trans-unit>
+			<trans-unit id="Unknown style" approved="yes">
+				<source>Unknown text style</source>
+				<target state="translated">Estilo de texto desconocido</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

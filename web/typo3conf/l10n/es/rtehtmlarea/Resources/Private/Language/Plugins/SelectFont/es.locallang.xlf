@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-05-11T03:29:10Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Arial" approved="yes">
+				<source>Arial</source>
+				<target state="translated">Arial</target>
+			</trans-unit>
+			<trans-unit id="Arial Black" approved="yes">
+				<source>Arial Black</source>
+				<target state="translated">Arial Black</target>
+			</trans-unit>
+			<trans-unit id="Courier" approved="yes">
+				<source>Courier</source>
+				<target state="translated">Courier</target>
+			</trans-unit>
+			<trans-unit id="Default font" approved="yes">
+				<source>Default font</source>
+				<target state="translated">Fuente predeterminada</target>
+			</trans-unit>
+			<trans-unit id="Default size" approved="yes">
+				<source>Default size</source>
+				<target state="translated">Tamaño predeterminado</target>
+			</trans-unit>
+			<trans-unit id="Extra large" approved="yes">
+				<source>Extra large</source>
+				<target state="translated">Extra grande</target>
+			</trans-unit>
+			<trans-unit id="Extra small" approved="yes">
+				<source>Extra small</source>
+				<target state="translated">Extra pequeña</target>
+			</trans-unit>
+			<trans-unit id="Garamond" approved="yes">
+				<source>Garamond</source>
+				<target state="translated">Garamond</target>
+			</trans-unit>
+			<trans-unit id="Large" approved="yes">
+				<source>Large</source>
+				<target state="translated">Grande</target>
+			</trans-unit>
+			<trans-unit id="Lucida Handwriting" approved="yes">
+				<source>Lucida Handwriting</source>
+				<target state="translated">Lucida Handwriting</target>
+			</trans-unit>
+			<trans-unit id="Medium" approved="yes">
+				<source>Medium</source>
+				<target state="translated">Mediana</target>
+			</trans-unit>
+			<trans-unit id="No font" approved="yes">
+				<source>No font</source>
+				<target state="translated">Sin fuente</target>
+			</trans-unit>
+			<trans-unit id="No size" approved="yes">
+				<source>No font size</source>
+				<target state="translated">Sin tamaño de fuente</target>
+			</trans-unit>
+			<trans-unit id="Small" approved="yes">
+				<source>Small</source>
+				<target state="translated">Pequeña</target>
+			</trans-unit>
+			<trans-unit id="Times New Roman" approved="yes">
+				<source>Times New Roman</source>
+				<target state="translated">Times New Roman</target>
+			</trans-unit>
+			<trans-unit id="Verdana" approved="yes">
+				<source>Verdana</source>
+				<target state="translated">Verdana</target>
+			</trans-unit>
+			<trans-unit id="Very large" approved="yes">
+				<source>Very large</source>
+				<target state="translated">Muy grande</target>
+			</trans-unit>
+			<trans-unit id="Very small" approved="yes">
+				<source>Very small</source>
+				<target state="translated">Muy pequeña</target>
+			</trans-unit>
+			<trans-unit id="Webdings" approved="yes">
+				<source>Webdings</source>
+				<target state="translated">Webdings</target>
+			</trans-unit>
+			<trans-unit id="Wingdings" approved="yes">
+				<source>Wingdings</source>
+				<target state="translated">Wingdings</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

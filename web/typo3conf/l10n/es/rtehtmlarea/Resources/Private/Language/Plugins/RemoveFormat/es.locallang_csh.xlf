@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-05-11T03:29:17Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="all.alttitle" approved="yes">
+				<source>Remove format on all contents</source>
+				<target state="translated">Quitar formato en todos los contenidos</target>
+			</trans-unit>
+			<trans-unit id="all.description" approved="yes">
+				<source>Select this option to perform the format removal operation on the whole contents of the editing area.</source>
+				<target state="translated">Seleccione esta opción para realizar la operación de quitar el formato en la totalidad del contenido del área de edición.</target>
+			</trans-unit>
+			<trans-unit id="allHtml.alttitle" approved="yes">
+				<source>Remove all HTML format</source>
+				<target state="translated">Eliminar todo el formato HTML</target>
+			</trans-unit>
+			<trans-unit id="allHtml.description" approved="yes">
+				<source>Check this option if you wish to remove all HTML format.</source>
+				<target state="translated">Marque esta opción si desea eliminar todo el formato HTML.</target>
+			</trans-unit>
+			<trans-unit id="allHtml.details" approved="yes">
+				<source>This option removes all HTML markup from the selected text.</source>
+				<target state="translated">Esta opción elimina todas las etiquetas HTML del texto seleccionado.</target>
+			</trans-unit>
+			<trans-unit id="_all.seeAlso" approved="yes">
+				<source>xEXT_rtehtmlarea_RemoveFormat:area</source>
+				<target state="translated">xEXT_rtehtmlarea_RemoveFormat:area</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id=".alttitle" approved="yes">
+				<source>htmlArea RTE &gt; Remove Format</source>
+				<target state="translated">htmlArea RTE&gt; Eliminar Formato</target>
+			</trans-unit>
+			<trans-unit id="area.alttitle" approved="yes">
+				<source>Select the area to be cleaned</source>
+				<target state="translated">Seleccione el área a limpiar</target>
+			</trans-unit>
+			<trans-unit id="area.description" approved="yes">
+				<source>The format removal operation may be applied either to the currently highlighted text or to the whole contents of the editing area.</source>
+				<target state="translated">La tarea de eliminar formato puede ser aplicada tanto en el texto resaltado como en la totalidad del contenido del área de edición.</target>
+			</trans-unit>
+			<trans-unit id="area.details" approved="yes">
+				<source>Use one of these two radio buttons to select the area to which you wish to apply the format removal operation.</source>
+				<target state="translated">Utilice uno de estos dos botones para seleccionar el área en la que desea aplicar la eliminación de formato.</target>
+			</trans-unit>
+			<trans-unit id=".description" approved="yes">
+				<source>The Remove Format feature offers options for cleaning up the HTML markup of the text being edited.</source>
+				<target state="translated">La función Eliminar Formato ofrece opciones para limpiar el código HTML del texto que se está editando.</target>
+			</trans-unit>
+			<trans-unit id=".details" xml:space="preserve" approved="yes">
+				<source>This feature may be useful in order to clean up text that was copied from some external source and pasted into the editing area.
+
+The feature is accessed by clicking on the "Remove format" button in the editor tool bar.
+
+In the dialogue window that opens when the button is clicked:
+- First, select the area to be cleaned;
+- Second, choose the format removal options that you wish to be applied to the selected area;
+- Press the OK button for the format removal operation to be performed. The dialogue window will be automatically closed.</source>
+			<target state="translated">Esta característica puede ser útil para limpiar el texto que se ha copiado de alguna fuente externa y se pega en el área de edición.
+
+Se accede a la función haciendo clic en el botón "Eliminar formato" de la barra de herramientas del editor.
+
+En la ventana de diálogo que se abre cuando se pulsa el botón:
+- En primer lugar, seleccionar el área a limpiar;
+- En segundo lugar, elija las opciones de eliminación de formato que desea aplicar a la zona seleccionada;
+- Pulse el botón OK para realizar la tarea de eliminar el formato. La ventana de diálogo se cerrará automáticamente.</target></trans-unit>
+			<trans-unit id="htmlFormat.alttitle" approved="yes">
+				<source>Remove all HTML inline markup and style</source>
+				<target state="translated">Eliminar todo el código HTML marcado y el estilo</target>
+			</trans-unit>
+			<trans-unit id="htmlFormat.description" approved="yes">
+				<source>Check this option if you wish to remove all HTML inline markup and style.</source>
+				<target state="translated">Marque esta opción si desea eliminar todas las etiquetas HTML y el estilo.</target>
+			</trans-unit>
+			<trans-unit id="htmlFormat.details" xml:space="preserve" approved="yes">
+				<source>This option removes:
+- the following HTML elements, but keeps their textual contents: abbr, acronym, b, big, cite, code, em, font, i, q, s, samp, small, span, strike, strong, sub, sup, tt, u, var;
+- the following attributes on all HTML elements: align, bgcolor, cellpadding, cellspacing, class, frame, style.</source>
+			<target state="translated">Esta opción elimina:
+- Los siguientes elementos HTML, pero mantiene sus contenidos textuales:  abbr, acronym, b, big, cite, code, em, font, i, q, s, samp, small, span, strike, strong, sub, sup, tt, u, var;
+- Los siguientes atributos de todos los elementos HTML: align, bgcolor, cellpadding, cellspacing, class, frame, style.</target></trans-unit>
+			<trans-unit id=".image" approved="no">
+				<source>EXT:rtehtmlarea/Resources/Public/Images/Plugins/RemoveFormat/remove-format.gif</source>
+				<target state="needs-translation">EXT:rtehtmlarea/extensions/RemoveFormat/skin/images/remove-format.gif</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id=".image_descr" approved="yes">
+				<source>Remove format icon in the editor tool bar.</source>
+				<target state="translated">Icono Eliminar formato en la barra de herramientas del editor.</target>
+			</trans-unit>
+			<trans-unit id="images.alttitle" approved="yes">
+				<source>Remove images</source>
+				<target state="translated">Eliminar imágenes</target>
+			</trans-unit>
+			<trans-unit id="images.description" approved="yes">
+				<source>Check this option if you wish to remove all images.</source>
+				<target state="translated">Marque esta opción si desea eliminar todas las imágenes.</target>
+			</trans-unit>
+			<trans-unit id="images.details" approved="yes">
+				<source>This option removes all images from the selected text.</source>
+				<target state="translated">Esta opción elimina todas las imágenes del texto seleccionado.</target>
+			</trans-unit>
+			<trans-unit id="msWordFormat.alttitle" approved="yes">
+				<source>Remove all MS Word markup and style</source>
+				<target state="translated">Eliminar todas las etiquetas de MS Word y el estilo</target>
+			</trans-unit>
+			<trans-unit id="msWordFormat.description" approved="yes">
+				<source>Check this option if you wish to remove all MS Word markup and style.</source>
+				<target state="translated">Marque esta opción si desea eliminar todas las etiquetas de MS Word y estilo.</target>
+			</trans-unit>
+			<trans-unit id="msWordFormat.details" xml:space="preserve" approved="yes">
+				<source>This option removes:
+- all attributes on the following elements: b, em, i, li, p, strong, ul;
+- the following attributes on all HTML elements: align, class, style;
+- the following elements, but keeps their textual contents: div, f, formulas, link, lock, meta, path, shape, shapetype, span, stroke, ?xml, any element containing ":" in its name;
+- the following elements and their contents: style, title;
+- HTML comments;
+- img, imagedata tags;
+- xml tags;
+- the following elements whenever they have no textual contents: b, big, i, s, small, strike, tt, u;
+- double opening and double closing tags;
+- multiples spaces, replacing them by single spaces.</source>
+			<target state="translated">Esta opción elimina: \ n- Todos los atributos de los elementos siguientes: b, em, i, li, p, strong, ul;
+- Los siguientes atributos de todos los elementos HTML: align, class, style;
+- Los siguientes elementos, pero mantiene sus contenidos textuales: : div, f, formulas, link, lock, meta, path, shape, shapetype, span, stroke, ?xml, cualquier elemento que contenga ":" en su nombre;
+- Los siguientes elementos y sus contenidos: style, title;
+- Los comentarios de HTML;
+- Imgágenes, etiquetas ImageData;
+- Etiquetas XML;
+- Los siguientes elementos siempre que no tengan contenidos textuales:  b, big, i, s, small, strike, tt, u;
+- Las etiquetas de doble apertura y doble cierre;
+- Múltiples espacios, sustituyéndolos por espacios únicos.</target></trans-unit>
+			<trans-unit id="nonBreakingSpace.alttitle" approved="yes">
+				<source>Replace non-breaking spaces</source>
+				<target state="translated">Evitar división de palabras</target>
+			</trans-unit>
+			<trans-unit id="nonBreakingSpace.description" approved="yes">
+				<source>Check this option if you wish to replace non-breaking spaces with normal spaces.</source>
+				<target state="translated">Marque esta opción si desea que se reemplacen las palabras divididas en dos líneas por la palabra completa, evitando la separación de la palabra por un guión</target>
+			</trans-unit>
+			<trans-unit id="nonBreakingSpace.details" approved="yes">
+				<source>This option replaces any non-breaking space with a simple normal space.</source>
+				<target state="translated">Esta opción reemplaza cualquier espacio de no separación con un espacio normal simple.</target>
+			</trans-unit>
+			<trans-unit id="options.alttitle" approved="yes">
+				<source>Select the types of format to be removed</source>
+				<target state="translated">Seleccione los tipos de formato que deben ser eliminados</target>
+			</trans-unit>
+			<trans-unit id="options.description" approved="yes">
+				<source>The format removal operation may remove various types of format.</source>
+				<target state="translated">La tarea de quitar formato puede eliminar diversos tipos de formato.</target>
+			</trans-unit>
+			<trans-unit id="options.details" approved="yes">
+				<source>Check one or more of these check boxes to select the type(s) of format you wish to be removed.</source>
+				<target state="translated">Marque una o más de estas casillas de verificación para seleccionar el tipo(s) de formato que desea eliminar.</target>
+			</trans-unit>
+			<trans-unit id="options.seeAlso" approved="yes">
+				<source>xEXT_rtehtmlarea_RemoveFormat:htmlFormat,xEXT_rtehtmlarea_RemoveFormat:msWordFormat,xEXT_rtehtmlarea_RemoveFormat:typographicalPunctuation,xEXT_rtehtmlarea_RemoveFormat:nonBreakingSpace,xEXT_rtehtmlarea_RemoveFormat:images,xEXT_rtehtmlarea_RemoveFormat:allHtml</source>
+				<target state="translated">xEXT_rtehtmlarea_RemoveFormat:htmlFormat,xEXT_rtehtmlarea_RemoveFormat:msWordFormat,xEXT_rtehtmlarea_RemoveFormat:typographicalPunctuation,xEXT_rtehtmlarea_RemoveFormat:nonBreakingSpace,xEXT_rtehtmlarea_RemoveFormat:images,xEXT_rtehtmlarea_RemoveFormat:allHtml</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id=".seeAlso" approved="yes">
+				<source>xEXT_rtehtmlarea_RemoveFormat:area,xEXT_rtehtmlarea_RemoveFormat:options</source>
+				<target state="translated">xEXT_rtehtmlarea_RemoveFormat:area,xEXT_rtehtmlarea_RemoveFormat:options</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id="selection.alttitle" approved="yes">
+				<source>Remove format on selected text only</source>
+				<target state="translated">Quitar sólo el formato del texto seleccionado</target>
+			</trans-unit>
+			<trans-unit id="selection.description" approved="yes">
+				<source>Select this option to perform the format removal operation on the currently selected text only.</source>
+				<target state="translated">Seleccione esta opción para realizar la operación de eliminación de formato en el texto seleccionado solamente.</target>
+			</trans-unit>
+			<trans-unit id="_selection.seeAlso" approved="yes">
+				<source>xEXT_rtehtmlarea_RemoveFormat:area</source>
+				<target state="translated">xEXT_rtehtmlarea_RemoveFormat:area</target>
+				<note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+				<note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+			</trans-unit>
+			<trans-unit id="typographicalPunctuation.alttitle" approved="yes">
+				<source>Replace typographical punctuation</source>
+				<target state="translated">Reemplazar caracteres tipográficos HTML por ASCII</target>
+			</trans-unit>
+			<trans-unit id="typographicalPunctuation.description" approved="yes">
+				<source>Check this option if you wish to replace typographical punctuation with ASCII character codes.</source>
+				<target state="translated">Marque esta opción si desea reemplazar los caracteres tipográficos HTML por los códigos de caracteres ASCII (p.ej: &amp;aacute; por á, &amp;ntilde; por ñ)</target>
+			</trans-unit>
+			<trans-unit id="typographicalPunctuation.details" xml:space="preserve">
+				<source>This option replaces typographical punctuation entities with ASCII character codes. The following substitutions are performed:
+- replace horizontal ellipsis with three periods;
+- replace en-dash and em-dash with hyphen;
+- replace double low-9, left double and right double quotation mark with double quote;
+- replace left single, right single and single low-9 quotation mark with single quote;
+- replace single left/right-pointing angle quotation mark with single quote;
+- replace left/right-pointing double angle quotation mark (also known as left/right pointing guillemet) with double quote;
+- replace grave accent (spacing grave) and acute accent (spacing acute) with single quote.</source>
+			<target/></trans-unit>
+		</body>
+	</file>
+</xliff>

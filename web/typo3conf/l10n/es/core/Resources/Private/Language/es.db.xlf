@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-09-07T00:49:30Z" product-name="core">
+		<header/>
+		<body>
+			<trans-unit id="sys_language.language_isocode.aa" approved="yes">
+				<source>Afar</source>
+				<target state="translated">Afar</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ab" approved="yes">
+				<source>Abkhaz</source>
+				<target state="translated">Abjasio</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ae" approved="yes">
+				<source>Avestan</source>
+				<target state="translated">Avéstico</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.af" approved="yes">
+				<source>Afrikaans</source>
+				<target state="translated">Afrikáans</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ak" approved="yes">
+				<source>Akan</source>
+				<target state="translated">Akan</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.am" approved="yes">
+				<source>Amharic</source>
+				<target state="translated">Amhárico</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.an" approved="yes">
+				<source>Aragonese</source>
+				<target state="translated">Aragonés</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ar" approved="yes">
+				<source>Arabic</source>
+				<target state="translated">Árabe</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.as" approved="yes">
+				<source>Assamese</source>
+				<target state="translated">Asamés</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.av" approved="yes">
+				<source>Avaric</source>
+				<target state="translated">Avar</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ay" approved="yes">
+				<source>Aymara</source>
+				<target state="translated">Aimara</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.az" approved="yes">
+				<source>Azerbaijani</source>
+				<target state="translated">Azerí</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ba" approved="yes">
+				<source>Bashkir</source>
+				<target state="translated">Baskir</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.be" approved="yes">
+				<source>Belarusian</source>
+				<target state="translated">Bielorruso</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.bg" approved="yes">
+				<source>Bulgarian</source>
+				<target state="translated">Búlgaro</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.bh" approved="yes">
+				<source>Bihari</source>
+				<target state="translated">Bihari</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.bi" approved="yes">
+				<source>Bislama</source>
+				<target state="translated">Bislama</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.bm" approved="yes">
+				<source>Bambara</source>
+				<target state="translated">Bambara</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.bn" approved="yes">
+				<source>Bengali, Bangla</source>
+				<target state="translated">Bengalí</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.bo" approved="yes">
+				<source>Tibetan Standard, Tibetan, Central</source>
+				<target state="translated">Tibetano</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.br" approved="yes">
+				<source>Breton</source>
+				<target state="translated">Bretón</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.bs" approved="yes">
+				<source>Bosnian</source>
+				<target state="translated">Bosnio</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ca" approved="yes">
+				<source>Catalan, Valencian</source>
+				<target state="translated">Catalán, Valenciano</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ce" approved="yes">
+				<source>Chechen</source>
+				<target state="translated">Checheno</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ch" approved="yes">
+				<source>Chamorro</source>
+				<target state="translated">Chamorro</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.co" approved="yes">
+				<source>Corsican</source>
+				<target state="translated">Corso</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.cr" approved="yes">
+				<source>Cree</source>
+				<target state="translated">Cree</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.cs" approved="yes">
+				<source>Czech</source>
+				<target state="translated">Checo</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.cu" approved="yes">
+				<source>Old Church Slavonic, Church Slavonic, Old Bulgarian</source>
+				<target state="translated">Antiguo eslavo eclesiástico, Eslavo eclesiástico</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.cv" approved="yes">
+				<source>Chuvash</source>
+				<target state="translated">Chuvasio</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.cy" approved="yes">
+				<source>Welsh</source>
+				<target state="translated">Galés</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.da" approved="yes">
+				<source>Danish</source>
+				<target state="translated">Danés</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.de" approved="yes">
+				<source>German</source>
+				<target state="translated">Alemán</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.dv" approved="yes">
+				<source>Divehi, Dhivehi, Maldivian</source>
+				<target state="translated">Maldivo</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.dz" approved="yes">
+				<source>Dzongkha</source>
+				<target state="translated">Dzongkha</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ee" approved="yes">
+				<source>Ewe</source>
+				<target state="translated">Ewé</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.el" approved="yes">
+				<source>Greek (modern)</source>
+				<target state="translated">Griego (moderno)</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.en" approved="yes">
+				<source>English</source>
+				<target state="translated">Inglés</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.eo" approved="yes">
+				<source>Esperanto</source>
+				<target state="translated">Esperanto</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.es" approved="yes">
+				<source>Spanish, Castilian</source>
+				<target state="translated">Español, Castellano</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.et" approved="yes">
+				<source>Estonian</source>
+				<target state="translated">Estonio</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.eu" approved="yes">
+				<source>Basque</source>
+				<target state="translated">Vasco</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.fa" approved="yes">
+				<source>Persian (Farsi)</source>
+				<target state="translated">Persa</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ff" approved="yes">
+				<source>Fula, Fulah, Pulaar, Pular</source>
+				<target state="translated">Fula</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.fi" approved="yes">
+				<source>Finnish</source>
+				<target state="translated">Finés</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.fj" approved="yes">
+				<source>Fijian</source>
+				<target state="translated">Fiyiano</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.fo" approved="yes">
+				<source>Faroese</source>
+				<target state="translated">Feroés</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.fr" approved="yes">
+				<source>French</source>
+				<target state="translated">Francés</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.fy" approved="yes">
+				<source>Western Frisian</source>
+				<target state="translated">Frisón occidental</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ga" approved="yes">
+				<source>Irish</source>
+				<target state="translated">Irlandés</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.gd" approved="yes">
+				<source>Scottish Gaelic, Gaelic</source>
+				<target state="translated">Gaélico escocés</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.gl" approved="yes">
+				<source>Galician</source>
+				<target state="translated">Gallego</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.gn" approved="yes">
+				<source>Guaraní</source>
+				<target state="translated">Guaraní</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.gu" approved="yes">
+				<source>Gujarati</source>
+				<target state="translated">Guyaratí</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.gv" approved="yes">
+				<source>Manx</source>
+				<target state="translated">Manés</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ha" approved="yes">
+				<source>Hausa</source>
+				<target state="translated">Hausa</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.he" approved="yes">
+				<source>Hebrew (modern)</source>
+				<target state="translated">Hebreo (moderno)</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.hi" approved="yes">
+				<source>Hindi</source>
+				<target state="translated">Hindi</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ho" approved="yes">
+				<source>Hiri Motu</source>
+				<target state="translated">Hiri motu</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.hr" approved="yes">
+				<source>Croatian</source>
+				<target state="translated">Croata</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ht" approved="yes">
+				<source>Haitian, Haitian Creole</source>
+				<target state="translated">Criollo haitiano</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.hu" approved="yes">
+				<source>Hungarian</source>
+				<target state="translated">Húngaro</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.hy" approved="yes">
+				<source>Armenian</source>
+				<target state="translated">Armenio</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.hz" approved="yes">
+				<source>Herero</source>
+				<target state="translated">Herero</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ia" approved="yes">
+				<source>Interlingua</source>
+				<target state="translated">Interlingua</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.id" approved="yes">
+				<source>Indonesian</source>
+				<target state="translated">Indonesio</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ie" approved="yes">
+				<source>Interlingue</source>
+				<target state="translated">Interlingue</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ig" approved="yes">
+				<source>Igbo</source>
+				<target state="translated">Igbo</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ii" approved="yes">
+				<source>Nuosu</source>
+				<target state="translated">Nuosu</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ik" approved="yes">
+				<source>Inupiaq</source>
+				<target state="translated">Iñupiaq</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.io" approved="yes">
+				<source>Ido</source>
+				<target state="translated">Ido</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.is" approved="yes">
+				<source>Icelandic</source>
+				<target state="translated">Islandés</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.it" approved="yes">
+				<source>Italian</source>
+				<target state="translated">Italiano</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.iu" approved="yes">
+				<source>Inuktitut</source>
+				<target state="translated">Inuktitut</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ja" approved="yes">
+				<source>Japanese</source>
+				<target state="translated">Japonés</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.jv" approved="yes">
+				<source>Javanese</source>
+				<target state="translated">Javanés</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ka" approved="yes">
+				<source>Georgian</source>
+				<target state="translated">Georgiano</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.kg" approved="yes">
+				<source>Kongo</source>
+				<target state="translated">Kikongo</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ki" approved="yes">
+				<source>Kikuyu, Gikuyu</source>
+				<target state="translated">Kikuyu</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.kj" approved="yes">
+				<source>Kwanyama, Kuanyama</source>
+				<target state="translated">Kuanyama</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.kk" approved="yes">
+				<source>Kazakh</source>
+				<target state="translated">Kazajo</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.kl" approved="yes">
+				<source>Kalaallisut, Greenlandic</source>
+				<target state="translated">Groenlandés</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.km" approved="yes">
+				<source>Khmer</source>
+				<target state="translated">Camboyano</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.kn" approved="yes">
+				<source>Kannada</source>
+				<target state="translated">Canarés</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ko" approved="yes">
+				<source>Korean</source>
+				<target state="translated">Coreano</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.kr" approved="yes">
+				<source>Kanuri</source>
+				<target state="translated">Kanuri</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ks" approved="yes">
+				<source>Kashmiri</source>
+				<target state="translated">Cachemir</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ku" approved="yes">
+				<source>Kurdish</source>
+				<target state="translated">Kurdo</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.kv" approved="yes">
+				<source>Komi</source>
+				<target state="translated">Komi</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.kw" approved="yes">
+				<source>Cornish</source>
+				<target state="translated">Córnico</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ky" approved="yes">
+				<source>Kyrgyz</source>
+				<target state="translated">Kirguís</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.la" approved="yes">
+				<source>Latin</source>
+				<target state="translated">Latina</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.lb" approved="yes">
+				<source>Luxembourgish, Letzeburgesch</source>
+				<target state="translated">Luxemburgués</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.lg" approved="yes">
+				<source>Ganda</source>
+				<target state="translated">Luganda</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.li" approved="yes">
+				<source>Limburgish, Limburgan, Limburger</source>
+				<target state="translated">Limburgués</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ln" approved="yes">
+				<source>Lingala</source>
+				<target state="translated">Lingala</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.lo" approved="yes">
+				<source>Lao</source>
+				<target state="translated">Lao</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.lt" approved="yes">
+				<source>Lithuanian</source>
+				<target state="translated">Lituano</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.lu" approved="yes">
+				<source>Luba-Katanga</source>
+				<target state="translated">KiLuba</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.lv" approved="yes">
+				<source>Latvian</source>
+				<target state="translated">Letón</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.mg" approved="yes">
+				<source>Malagasy</source>
+				<target state="translated">Malgache</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.mh" approved="yes">
+				<source>Marshallese</source>
+				<target state="translated">Marshalés</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.mi" approved="yes">
+				<source>Māori</source>
+				<target state="translated">Maorí</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.mk" approved="yes">
+				<source>Macedonian</source>
+				<target state="translated">Macedonio</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ml" approved="yes">
+				<source>Malayalam</source>
+				<target state="translated">Malabar</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.mn" approved="yes">
+				<source>Mongolian</source>
+				<target state="translated">Mongol</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.mr" approved="yes">
+				<source>Marathi (Marāṭhī)</source>
+				<target state="translated">Maratí</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ms" approved="yes">
+				<source>Malay</source>
+				<target state="translated">Malayo</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.mt" approved="yes">
+				<source>Maltese</source>
+				<target state="translated">Maltés</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.my" approved="yes">
+				<source>Burmese</source>
+				<target state="translated">Birmano</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.na" approved="yes">
+				<source>Nauru</source>
+				<target state="translated">Nauruano</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.nb" approved="yes">
+				<source>Norwegian Bokmål</source>
+				<target state="translated">Bokmål</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.nd" approved="yes">
+				<source>Northern Ndebele</source>
+				<target state="translated">Ndebele del norte</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ne" approved="yes">
+				<source>Nepali</source>
+				<target state="translated">Nepalí</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ng" approved="yes">
+				<source>Ndonga</source>
+				<target state="translated">Ndonga</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.nl" approved="yes">
+				<source>Dutch</source>
+				<target state="translated">Neerlandés</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.nn" approved="yes">
+				<source>Norwegian Nynorsk</source>
+				<target state="translated">Nynorsk</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.no" approved="yes">
+				<source>Norwegian</source>
+				<target state="translated">Noruego</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.nr" approved="yes">
+				<source>Southern Ndebele</source>
+				<target state="translated">Ndebele del Sur</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.nv" approved="yes">
+				<source>Navajo, Navaho</source>
+				<target state="translated">Navajo</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ny" approved="yes">
+				<source>Chichewa, Chewa, Nyanja</source>
+				<target state="translated">Chichewa</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.oc" approved="yes">
+				<source>Occitan</source>
+				<target state="translated">Occitano</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.oj" approved="yes">
+				<source>Ojibwe, Ojibwa</source>
+				<target state="translated">Ojibwa</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.om" approved="yes">
+				<source>Oromo</source>
+				<target state="translated">Oromo</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.or" approved="yes">
+				<source>Oriya</source>
+				<target state="translated">Oriya</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.os" approved="yes">
+				<source>Ossetian, Ossetic</source>
+				<target state="translated">Osetio</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.pa" approved="yes">
+				<source>Panjabi, Punjabi</source>
+				<target state="translated">Panyabí</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.pi" approved="yes">
+				<source>Pāli</source>
+				<target state="translated">Pali</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.pl" approved="yes">
+				<source>Polish</source>
+				<target state="translated">Polaco</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ps" approved="yes">
+				<source>Pashto, Pushto</source>
+				<target state="translated">Pastún</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.pt" approved="yes">
+				<source>Portuguese</source>
+				<target state="translated">Portugués</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.qu" approved="yes">
+				<source>Quechua</source>
+				<target state="translated">Quechua</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.rm" approved="yes">
+				<source>Romansh</source>
+				<target state="translated">Romanche</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.rn" approved="yes">
+				<source>Kirundi</source>
+				<target state="translated">Kirundi</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ro" approved="yes">
+				<source>Romanian</source>
+				<target state="translated">Rumano</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ru" approved="yes">
+				<source>Russian</source>
+				<target state="translated">Ruso</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.rw" approved="yes">
+				<source>Kinyarwanda</source>
+				<target state="translated">Kiñaruanda</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.sa" approved="yes">
+				<source>Sanskrit (Saṁskṛta)</source>
+				<target state="translated">Sánscrito</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.sc" approved="yes">
+				<source>Sardinian</source>
+				<target state="translated">Sardo</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.sd" approved="yes">
+				<source>Sindhi</source>
+				<target state="translated">Sindhi</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.se" approved="yes">
+				<source>Northern Sami</source>
+				<target state="translated">Sami septentrional</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.sg" approved="yes">
+				<source>Sango</source>
+				<target state="translated">Sango</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.si" approved="yes">
+				<source>Sinhala, Sinhalese</source>
+				<target state="translated">Cingalés</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.sk" approved="yes">
+				<source>Slovak</source>
+				<target state="translated">Eslovaco</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.sl" approved="yes">
+				<source>Slovene</source>
+				<target state="translated">Esloveno</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.sm" approved="yes">
+				<source>Samoan</source>
+				<target state="translated">Samoano</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.sn" approved="yes">
+				<source>Shona</source>
+				<target state="translated">Shona</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.so" approved="yes">
+				<source>Somali</source>
+				<target state="translated">Somalí</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.sq" approved="yes">
+				<source>Albanian</source>
+				<target state="translated">Albanés</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.sr" approved="yes">
+				<source>Serbian</source>
+				<target state="translated">Serbio</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ss" approved="yes">
+				<source>Swati</source>
+				<target state="translated">Suazi</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.st" approved="yes">
+				<source>Southern Sotho</source>
+				<target state="translated">Sesotho</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.su" approved="yes">
+				<source>Sundanese</source>
+				<target state="translated">Sondanés</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.sv" approved="yes">
+				<source>Swedish</source>
+				<target state="translated">Sueco</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.sw" approved="yes">
+				<source>Swahili</source>
+				<target state="translated">Suajili</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ta" approved="yes">
+				<source>Tamil</source>
+				<target state="translated">Tamil</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.te" approved="yes">
+				<source>Telugu</source>
+				<target state="translated">Télugu</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.tg" approved="yes">
+				<source>Tajik</source>
+				<target state="translated">Tayiko</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.th" approved="yes">
+				<source>Thai</source>
+				<target state="translated">Tailandés</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ti" approved="yes">
+				<source>Tigrinya</source>
+				<target state="translated">Tigriña</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.tk" approved="yes">
+				<source>Turkmen</source>
+				<target state="translated">Turcomano</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.tl" approved="yes">
+				<source>Tagalog</source>
+				<target state="translated">Tagalo</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.tn" approved="yes">
+				<source>Tswana</source>
+				<target state="translated">Setsuana</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.to" approved="yes">
+				<source>Tonga (Tonga Islands)</source>
+				<target state="translated">Tongano</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.tr" approved="yes">
+				<source>Turkish</source>
+				<target state="translated">Turco</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ts" approved="yes">
+				<source>Tsonga</source>
+				<target state="translated">Tsonga</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.tt" approved="yes">
+				<source>Tatar</source>
+				<target state="translated">Tártaro</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.tw" approved="yes">
+				<source>Twi</source>
+				<target state="translated">Twi</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ty" approved="yes">
+				<source>Tahitian</source>
+				<target state="translated">Tahitiano</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ug" approved="yes">
+				<source>Uyghur, Uighur</source>
+				<target state="translated">Uigur</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.uk" approved="yes">
+				<source>Ukrainian</source>
+				<target state="translated">Ucraniano</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ur" approved="yes">
+				<source>Urdu</source>
+				<target state="translated">Urdu</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.uz" approved="yes">
+				<source>Uzbek</source>
+				<target state="translated">Uzbeko</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.ve" approved="yes">
+				<source>Venda</source>
+				<target state="translated">Venda</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.vi" approved="yes">
+				<source>Vietnamese</source>
+				<target state="translated">Vietnamita</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.vo" approved="yes">
+				<source>Volapük</source>
+				<target state="translated">Volapük</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.wa" approved="yes">
+				<source>Walloon</source>
+				<target state="translated">Valón</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.wo" approved="yes">
+				<source>Wolof</source>
+				<target state="translated">Wólof</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.xh" approved="yes">
+				<source>Xhosa</source>
+				<target state="translated">Xhosa</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.yi" approved="yes">
+				<source>Yiddish</source>
+				<target state="translated">Yidis</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.yo" approved="yes">
+				<source>Yoruba</source>
+				<target state="translated">Yoruba</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.za" approved="yes">
+				<source>Zhuang, Chuang</source>
+				<target state="translated">Chuang</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.zh" approved="yes">
+				<source>Chinese</source>
+				<target state="translated">Chino</target>
+			</trans-unit>
+			<trans-unit id="sys_language.language_isocode.zu" approved="yes">
+				<source>Zulu</source>
+				<target state="translated">Zulú</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-09-07T01:20:23Z" product-name="form">
+		<header/>
+		<body>
+			<trans-unit id="action_save" approved="yes">
+				<source>Saving form</source>
+				<target state="translated">Guardando el formulario</target>
+			</trans-unit>
+			<trans-unit id="action_save_error">
+				<source>Server-side failure with status code</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="attributes_accept" approved="yes">
+				<source>Accept</source>
+				<target state="translated">Aceptar</target>
+			</trans-unit>
+			<trans-unit id="attributes_acceptcharset" approved="yes">
+				<source>Acceptcharset</source>
+				<target state="translated">Aceptar Charset</target>
+			</trans-unit>
+			<trans-unit id="attributes_accesskey">
+				<source>Accesskey</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="attributes_action" approved="yes">
+				<source>Action</source>
+				<target state="translated">Acciones</target>
+			</trans-unit>
+			<trans-unit id="attributes_alt" approved="yes">
+				<source>Alt</source>
+				<target state="translated">Alt (campo alternativo)</target>
+			</trans-unit>
+			<trans-unit id="attributes_checked" approved="yes">
+				<source>Checked</source>
+				<target state="translated">Comprobado</target>
+			</trans-unit>
+			<trans-unit id="attributes_class" approved="yes">
+				<source>Class</source>
+				<target state="translated">Clase</target>
+			</trans-unit>
+			<trans-unit id="attributes_cols">
+				<source>Cols</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="attributes_dir">
+				<source>Dir</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="attributes_dir_ltr" approved="yes">
+				<source>Left to right</source>
+				<target state="translated">De izquierda a derecha</target>
+			</trans-unit>
+			<trans-unit id="attributes_dir_rtl" approved="yes">
+				<source>Right to left</source>
+				<target state="translated">De derecha a izquierda</target>
+			</trans-unit>
+			<trans-unit id="attributes_disabled" approved="yes">
+				<source>Disabled</source>
+				<target state="translated">Deshabilitado</target>
+			</trans-unit>
+			<trans-unit id="attributes_enctype">
+				<source>Enctype</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="attributes_enctype_1" approved="yes">
+				<source>Encoded</source>
+				<target state="translated">Codificado</target>
+			</trans-unit>
+			<trans-unit id="attributes_enctype_2" approved="yes">
+				<source>No encoding - File upload</source>
+				<target state="translated">No codificado - Archivo subido</target>
+			</trans-unit>
+			<trans-unit id="attributes_enctype_3" approved="yes">
+				<source>No encoding - Spaces converted</source>
+				<target state="translated">No codificado - Espacios convertidos</target>
+			</trans-unit>
+			<trans-unit id="attributes_id" approved="yes">
+				<source>Id</source>
+				<target state="translated">Id</target>
+			</trans-unit>
+			<trans-unit id="attributes_label" approved="yes">
+				<source>Label</source>
+				<target state="translated">Etiqueta</target>
+			</trans-unit>
+			<trans-unit id="attributes_lang">
+				<source>Lang</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="attributes_maxlength" approved="yes">
+				<source>Maxlength</source>
+				<target state="translated">Longitud máxima</target>
+			</trans-unit>
+			<trans-unit id="attributes_method" approved="yes">
+				<source>Method</source>
+				<target state="translated">Método</target>
+			</trans-unit>
+			<trans-unit id="attributes_method_get" approved="yes">
+				<source>Get</source>
+				<target state="translated">Obtener</target>
+			</trans-unit>
+			<trans-unit id="attributes_method_post" approved="yes">
+				<source>Post</source>
+				<target state="translated">Enviar</target>
+			</trans-unit>
+			<trans-unit id="attributes_multiple" approved="yes">
+				<source>Multiple</source>
+				<target state="translated">Múltiple</target>
+			</trans-unit>
+			<trans-unit id="attributes_name" approved="yes">
+				<source>Name</source>
+				<target state="translated">Nombre</target>
+			</trans-unit>
+			<trans-unit id="attributes_readonly" approved="yes">
+				<source>Readonly</source>
+				<target state="translated">Sólo lectura</target>
+			</trans-unit>
+			<trans-unit id="attributes_rows" approved="yes">
+				<source>Rows</source>
+				<target state="translated">Filas</target>
+			</trans-unit>
+			<trans-unit id="attributes_selected" approved="yes">
+				<source>Selected</source>
+				<target state="translated">Seleccionado</target>
+			</trans-unit>
+			<trans-unit id="attributes_size" approved="yes">
+				<source>Size</source>
+				<target state="translated">Tamaño</target>
+			</trans-unit>
+			<trans-unit id="attributes_src">
+				<source>Src</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="attributes_style" approved="yes">
+				<source>Style</source>
+				<target state="translated">Estilo</target>
+			</trans-unit>
+			<trans-unit id="attributes_tabindex">
+				<source>Tabindex</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="attributes_title" approved="yes">
+				<source>Title</source>
+				<target state="translated">Título</target>
+			</trans-unit>
+			<trans-unit id="attributes_type" approved="yes">
+				<source>Type</source>
+				<target state="translated">Tipo</target>
+			</trans-unit>
+			<trans-unit id="attributes_type_button" approved="yes">
+				<source>button</source>
+				<target state="translated">Botón</target>
+			</trans-unit>
+			<trans-unit id="attributes_type_checkbox" approved="yes">
+				<source>checkbox</source>
+				<target state="translated">Casilla de verificación</target>
+			</trans-unit>
+			<trans-unit id="attributes_type_file" approved="yes">
+				<source>file</source>
+				<target state="translated">Archivo</target>
+			</trans-unit>
+			<trans-unit id="attributes_type_hidden" approved="yes">
+				<source>hidden</source>
+				<target state="translated">Oculto</target>
+			</trans-unit>
+			<trans-unit id="attributes_type_image" approved="yes">
+				<source>image</source>
+				<target state="translated">Imagen</target>
+			</trans-unit>
+			<trans-unit id="attributes_type_password" approved="yes">
+				<source>password</source>
+				<target state="translated">Contraseña</target>
+			</trans-unit>
+			<trans-unit id="attributes_type_radio">
+				<source>radio</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="attributes_type_reset" approved="yes">
+				<source>reset</source>
+				<target state="translated">Resetear</target>
+			</trans-unit>
+			<trans-unit id="attributes_type_submit" approved="yes">
+				<source>submit</source>
+				<target state="translated">Envío</target>
+			</trans-unit>
+			<trans-unit id="attributes_type_text" approved="yes">
+				<source>text</source>
+				<target state="translated">Texto</target>
+			</trans-unit>
+			<trans-unit id="attributes_value" approved="yes">
+				<source>Value</source>
+				<target state="translated">Valor</target>
+			</trans-unit>
+			<trans-unit id="basic_button" approved="yes">
+				<source>Button</source>
+				<target state="translated">Botón</target>
+			</trans-unit>
+			<trans-unit id="basic_checkbox" approved="yes">
+				<source>Checkbox</source>
+				<target state="translated">Casilla de verificación (Checkbox)</target>
+			</trans-unit>
+			<trans-unit id="basic_fieldset" approved="yes">
+				<source>Fieldset</source>
+				<target state="translated">Grupo de campos</target>
+			</trans-unit>
+			<trans-unit id="basic_fileupload" approved="yes">
+				<source>Upload Field</source>
+				<target state="translated">Subir campo</target>
+			</trans-unit>
+			<trans-unit id="basic_hidden" approved="yes">
+				<source>Hidden Field</source>
+				<target state="translated">Campo oculto</target>
+			</trans-unit>
+			<trans-unit id="basic_password" approved="yes">
+				<source>Password Field</source>
+				<target state="translated">Campo contraseña</target>
+			</trans-unit>
+			<trans-unit id="basic_radio" approved="yes">
+				<source>Radio Button</source>
+				<target state="translated">Botones del selección (Radiobutton)</target>
+			</trans-unit>
+			<trans-unit id="basic_reset" approved="yes">
+				<source>Reset Button</source>
+				<target state="translated">Botón de borrado (Reset)</target>
+			</trans-unit>
+			<trans-unit id="basic_select" approved="yes">
+				<source>Drop Down</source>
+				<target state="translated">Desplegable</target>
+			</trans-unit>
+			<trans-unit id="basic_submit" approved="yes">
+				<source>Submit Button</source>
+				<target state="translated">Botón de envío</target>
+			</trans-unit>
+			<trans-unit id="basic_textarea" approved="yes">
+				<source>Text Area</source>
+				<target state="translated">Área de texto</target>
+			</trans-unit>
+			<trans-unit id="basic_textline" approved="yes">
+				<source>Text Field</source>
+				<target state="translated">Campo de texto</target>
+			</trans-unit>
+			<trans-unit id="behaviour_confirmation_page">
+				<source>Confirmation page</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="button_remove" approved="yes">
+				<source>Remove</source>
+				<target state="translated">Eliminar</target>
+			</trans-unit>
+			<trans-unit id="content_header" approved="yes">
+				<source>Header</source>
+				<target state="translated">Cabecera/Encabezado</target>
+			</trans-unit>
+			<trans-unit id="content_textblock" approved="yes">
+				<source>Text block</source>
+				<target state="translated">Bloque de texto</target>
+			</trans-unit>
+			<trans-unit id="elements_button_delete" approved="yes">
+				<source>Delete this element</source>
+				<target state="translated">Eliminar este elemento</target>
+			</trans-unit>
+			<trans-unit id="elements_button_edit" approved="yes">
+				<source>Edit this element</source>
+				<target state="translated">Editar este elemento</target>
+			</trans-unit>
+			<trans-unit id="elements_confirm_delete_description" approved="yes">
+				<source>Are you sure you want to delete the selected element?</source>
+				<target state="translated">¿Está seguro que desea eliminar el elemento seleccionado?</target>
+			</trans-unit>
+			<trans-unit id="elements_confirm_delete_title" approved="yes">
+				<source>Delete element</source>
+				<target state="translated">Eliminar elemento</target>
+			</trans-unit>
+			<trans-unit id="elements_dummy_description" approved="yes">
+				<source>To get started, drag an element from the left panel onto this area</source>
+				<target state="translated">Para empezar, arrastre un elemento desde el panel de la izquierda hasta esta zona</target>
+			</trans-unit>
+			<trans-unit id="elements_dummy_title" approved="yes">
+				<source>You haven't added any elements yet!</source>
+				<target state="translated">¡No ha añadido ningún elemento todavía!</target>
+			</trans-unit>
+			<trans-unit id="elements_header_content" approved="yes">
+				<source>Edit this header</source>
+				<target state="translated">Editar este encabezado</target>
+			</trans-unit>
+			<trans-unit id="elements_label" approved="yes">
+				<source>Edit this label</source>
+				<target state="translated">Editar esta etiqueta</target>
+			</trans-unit>
+			<trans-unit id="elements_label_email" approved="yes">
+				<source>Email</source>
+				<target state="translated">Email</target>
+			</trans-unit>
+			<trans-unit id="elements_label_firstname" approved="yes">
+				<source>First name</source>
+				<target state="translated">Nombre</target>
+			</trans-unit>
+			<trans-unit id="elements_label_lastname" approved="yes">
+				<source>Last name</source>
+				<target state="translated">Apellido</target>
+			</trans-unit>
+			<trans-unit id="elements_label_middlename" approved="yes">
+				<source>Middle name</source>
+				<target state="translated">Segundo nombre</target>
+			</trans-unit>
+			<trans-unit id="elements_label_prefix" approved="yes">
+				<source>Prefix</source>
+				<target state="translated">Prefijo</target>
+			</trans-unit>
+			<trans-unit id="elements_label_suffix" approved="yes">
+				<source>Suffix</source>
+				<target state="translated">Sufijo</target>
+			</trans-unit>
+			<trans-unit id="elements_legend" approved="yes">
+				<source>Edit this legend</source>
+				<target state="translated">Editar esta leyenda</target>
+			</trans-unit>
+			<trans-unit id="elements_legend_name" approved="yes">
+				<source>Full name</source>
+				<target state="translated">Nombre y apellidos</target>
+			</trans-unit>
+			<trans-unit id="elements_option_1" approved="yes">
+				<source>Option 1</source>
+				<target state="translated">Opción 1</target>
+			</trans-unit>
+			<trans-unit id="elements_option_2" approved="yes">
+				<source>Option 2</source>
+				<target state="translated">Opción 2</target>
+			</trans-unit>
+			<trans-unit id="elements_option_3" approved="yes">
+				<source>Option 3</source>
+				<target state="translated">Opción 3</target>
+			</trans-unit>
+			<trans-unit id="elements_textblock_content" approved="yes">
+				<source>Edit this textblock</source>
+				<target state="translated">Editar este bloque de texto</target>
+			</trans-unit>
+			<trans-unit id="errorMessage" approved="yes">
+				<source>No reference to record</source>
+				<target state="translated">No hace referencia al registro</target>
+			</trans-unit>
+			<trans-unit id="errorTitle" approved="yes">
+				<source>Wizard error</source>
+				<target state="translated">Error del asistente</target>
+			</trans-unit>
+			<trans-unit id="fieldoptions_button_add" approved="yes">
+				<source>Add option</source>
+				<target state="translated">Añadir opción</target>
+			</trans-unit>
+			<trans-unit id="fieldoptions_data" xml:space="preserve" approved="yes">
+				<source>Data</source>
+			<target state="translated">Datos</target><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note><note>This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="fieldoptions_emptytext" approved="yes">
+				<source>No options to display</source>
+				<target state="translated">No hay opciones para mostrar</target>
+			</trans-unit>
+			<trans-unit id="fieldoptions_new" approved="yes">
+				<source>New option</source>
+				<target state="translated">Nueva opción</target>
+			</trans-unit>
+			<trans-unit id="fieldoptions_selected" approved="yes">
+				<source>Selected</source>
+				<target state="translated">Seleccionado</target>
+			</trans-unit>
+			<trans-unit id="filters_alert_description" approved="yes">
+				<source>The selected filter is already present</source>
+				<target state="translated">El filtro seleccionado ya está presente</target>
+			</trans-unit>
+			<trans-unit id="filters_alert_title" approved="yes">
+				<source>Adding a filter</source>
+				<target state="translated">Adición de un filtro</target>
+			</trans-unit>
+			<trans-unit id="filters_alphabetic" approved="yes">
+				<source>Alphabetic</source>
+				<target state="translated">Alfabético</target>
+			</trans-unit>
+			<trans-unit id="filters_alphanumeric" approved="yes">
+				<source>Alphanumeric</source>
+				<target state="translated">Alfanumérico</target>
+			</trans-unit>
+			<trans-unit id="filters_currency">
+				<source>Currency</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="filters_digit" approved="yes">
+				<source>Digit</source>
+				<target state="translated">Dígito</target>
+			</trans-unit>
+			<trans-unit id="filters_dummy_description" approved="yes">
+				<source>To add a filter, select one from the dropdown</source>
+				<target state="translated">Para agregar un filtro, seleccione uno de la lista desplegable</target>
+			</trans-unit>
+			<trans-unit id="filters_dummy_title" approved="yes">
+				<source>No filter selected</source>
+				<target state="translated">Filtros no seleccionados</target>
+			</trans-unit>
+			<trans-unit id="filters_emptytext" approved="yes">
+				<source>Add a filter</source>
+				<target state="translated">Añadir filtro</target>
+			</trans-unit>
+			<trans-unit id="filters_integer" approved="yes">
+				<source>Integer</source>
+				<target state="translated">Entero</target>
+			</trans-unit>
+			<trans-unit id="filters_lowercase" approved="yes">
+				<source>Lowercase</source>
+				<target state="translated">Minúsculas</target>
+			</trans-unit>
+			<trans-unit id="filters_properties_allowwhitespace" approved="yes">
+				<source>Allow whitespace</source>
+				<target state="translated">Dejar espacio en blanco</target>
+			</trans-unit>
+			<trans-unit id="filters_properties_characterlist" approved="yes">
+				<source>Character list</source>
+				<target state="translated">Lista de caracteres</target>
+			</trans-unit>
+			<trans-unit id="filters_properties_decimalpoint" approved="yes">
+				<source>Decimal point</source>
+				<target state="translated">Punto decimal</target>
+			</trans-unit>
+			<trans-unit id="filters_properties_expression" approved="yes">
+				<source>Expression</source>
+				<target state="translated">Expresión</target>
+			</trans-unit>
+			<trans-unit id="filters_properties_none" approved="yes">
+				<source>This filter has no configuration settings</source>
+				<target state="translated">Este filtro no tiene opciones de configuración</target>
+			</trans-unit>
+			<trans-unit id="filters_properties_thousandseparator" approved="yes">
+				<source>Thousand separator</source>
+				<target state="translated">Separador de miles</target>
+			</trans-unit>
+			<trans-unit id="filters_regexp" approved="yes">
+				<source>Regular Expression</source>
+				<target state="translated">Expresión regular</target>
+			</trans-unit>
+			<trans-unit id="filters_removexss" approved="yes">
+				<source>Remove XSS</source>
+				<target state="translated">Eliminar XSS</target>
+				<note>This label is deprecated (not used anymore) since TYPO3v8</note>
+			</trans-unit>
+			<trans-unit id="filters_stripnewlines">
+				<source>Strip New Lines</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="filters_titlecase">
+				<source>Titlecase</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="filters_trim">
+				<source>Trim</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="filters_uppercase">
+				<source>Uppercase</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="form_behaviour">
+				<source>Behaviour</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="form_postprocessor">
+				<source>Post Processors</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="form_prefix" approved="yes">
+				<source>Prefix</source>
+				<target state="translated">Prefijo</target>
+			</trans-unit>
+			<trans-unit id="history_redo" approved="yes">
+				<source>Redo</source>
+				<target state="translated">Rehacer</target>
+			</trans-unit>
+			<trans-unit id="history_undo" approved="yes">
+				<source>Undo</source>
+				<target state="translated">Deshacer</target>
+			</trans-unit>
+			<trans-unit id="label_label" approved="yes">
+				<source>Label</source>
+				<target state="translated">Etiquetas</target>
+			</trans-unit>
+			<trans-unit id="label_layout" approved="yes">
+				<source>Label position</source>
+				<target state="translated">Posición de etiquetas</target>
+			</trans-unit>
+			<trans-unit id="label_layout_back" approved="yes">
+				<source>After</source>
+				<target state="translated">Después</target>
+			</trans-unit>
+			<trans-unit id="label_layout_front" approved="yes">
+				<source>In front</source>
+				<target state="translated">Frente a</target>
+			</trans-unit>
+			<trans-unit id="left_elements" approved="yes">
+				<source>Elements</source>
+				<target state="translated">Elementos</target>
+			</trans-unit>
+			<trans-unit id="left_elements_basic" approved="yes">
+				<source>Basic form elements</source>
+				<target state="translated">Elementos básicos del formulario</target>
+			</trans-unit>
+			<trans-unit id="left_elements_content" approved="yes">
+				<source>Content elements</source>
+				<target state="translated">Elemento de contenido</target>
+			</trans-unit>
+			<trans-unit id="left_elements_intro_description" approved="yes">
+				<source>Drag or double-click elements to add</source>
+				<target state="translated">Arrastre o haga doble clic para añadir los elementos</target>
+			</trans-unit>
+			<trans-unit id="left_elements_intro_title" approved="yes">
+				<source>Adding elements to the form</source>
+				<target state="translated">Añadir elementos al formulario</target>
+			</trans-unit>
+			<trans-unit id="left_elements_predefined" approved="yes">
+				<source>Predefined form elements</source>
+				<target state="translated">Elementos de formulario predefinidos</target>
+			</trans-unit>
+			<trans-unit id="left_form">
+				<source>Form</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="left_options" approved="yes">
+				<source>Options</source>
+				<target state="translated">Opciones</target>
+			</trans-unit>
+			<trans-unit id="legend_legend" approved="yes">
+				<source>Legend</source>
+				<target state="translated">Leyenda</target>
+			</trans-unit>
+			<trans-unit id="no" approved="yes">
+				<source>No</source>
+				<target state="translated">No</target>
+			</trans-unit>
+			<trans-unit id="options_attributes" approved="yes">
+				<source>Attributes Properties</source>
+				<target state="translated">Propiedades de los atributos</target>
+			</trans-unit>
+			<trans-unit id="options_dummy_description" approved="yes">
+				<source>When an element has been selected, this area will show the options for the selected element</source>
+				<target state="translated">Cuando un elemento se ha seleccionado, esta área mostrará las opciones para el elemento seleccionado</target>
+			</trans-unit>
+			<trans-unit id="options_dummy_title" approved="yes">
+				<source>Please select an element on the right</source>
+				<target state="translated">Por favor, seleccione un elemento de la derecha</target>
+			</trans-unit>
+			<trans-unit id="options_error" approved="yes">
+				<source>Error</source>
+				<target state="translated">Error</target>
+			</trans-unit>
+			<trans-unit id="options_error_message" approved="yes">
+				<source>There is an error in the settings of the current element. Please check!</source>
+				<target state="translated">Hay un error en la configuración del elemento actual. ¡Por favor, compruébelo!</target>
+			</trans-unit>
+			<trans-unit id="options_fieldoptions" approved="yes">
+				<source>Field options</source>
+				<target state="translated">Opciones del campo</target>
+			</trans-unit>
+			<trans-unit id="options_filters" approved="yes">
+				<source>Filters</source>
+				<target state="translated">Filtros</target>
+			</trans-unit>
+			<trans-unit id="options_label" approved="yes">
+				<source>Label Properties</source>
+				<target state="translated">Propiedades de etiquetas</target>
+			</trans-unit>
+			<trans-unit id="options_legend" approved="no">
+				<source>Legend Properties</source>
+				<target state="needs-translation">Propiedades de etiquetas</target>
+				<note>76%</note>
+			</trans-unit>
+			<trans-unit id="options_validation" approved="yes">
+				<source>Validation</source>
+				<target state="translated">Validación</target>
+			</trans-unit>
+			<trans-unit id="options_various" approved="yes">
+				<source>Various Properties</source>
+				<target state="translated">Varias propiedades</target>
+			</trans-unit>
+			<trans-unit id="postprocessor_alert_description" approved="no">
+				<source>The selected post processor is already present</source>
+				<target state="needs-translation">El filtro seleccionado ya está presente</target>
+				<note>76%</note>
+			</trans-unit>
+			<trans-unit id="postprocessor_alert_title">
+				<source>Adding a Post Processor</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="postprocessor_dummy_description" approved="no">
+				<source>To add a post processor, select one from the dropdown</source>
+				<target state="needs-translation">Para agregar un filtro, seleccione uno de la lista desplegable</target>
+				<note>79%</note>
+			</trans-unit>
+			<trans-unit id="postprocessor_dummy_title">
+				<source>No post processor selected</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="postprocessor_emptytext">
+				<source>Add a Post Processor</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="postprocessor_mail" approved="yes">
+				<source>Send email</source>
+				<target state="translated">Enviar correo electrónico</target>
+			</trans-unit>
+			<trans-unit id="postprocessor_properties_destination">
+				<source>Destination to redirect to</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="postprocessor_properties_recipientemail" approved="yes">
+				<source>Email address of the recipient</source>
+				<target state="translated">Dirección de correo electrónico del destinatario</target>
+			</trans-unit>
+			<trans-unit id="postprocessor_properties_senderemail" approved="yes">
+				<source>Email address of the sender</source>
+				<target state="translated">Dirección de correo electrónico del remitente</target>
+			</trans-unit>
+			<trans-unit id="postprocessor_properties_subject">
+				<source>Subject</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="postprocessor_redirect">
+				<source>Redirect</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="predefined_checkboxgroup" approved="yes">
+				<source>Checkbox Group</source>
+				<target state="translated">Grupo de casillas de verificación</target>
+			</trans-unit>
+			<trans-unit id="predefined_email" approved="yes">
+				<source>Email</source>
+				<target state="translated">Correo electrónico</target>
+			</trans-unit>
+			<trans-unit id="predefined_name" approved="yes">
+				<source>Full Name</source>
+				<target state="translated">Nombre completo</target>
+			</trans-unit>
+			<trans-unit id="predefined_radiogroup" approved="yes">
+				<source>Radio Button Group</source>
+				<target state="translated">Grupo de Botones del selección (RadioButtonGroup)</target>
+			</trans-unit>
+			<trans-unit id="prefix_prefix" approved="yes">
+				<source>Prefix</source>
+				<target state="translated">Prefijo</target>
+			</trans-unit>
+			<trans-unit id="refresh" approved="yes">
+				<source>Refresh without saving</source>
+				<target state="translated">Actualizar sin guardar</target>
+			</trans-unit>
+			<trans-unit id="save" approved="yes">
+				<source>Save form</source>
+				<target state="translated">Guardar el formulario</target>
+			</trans-unit>
+			<trans-unit id="saveAndClose" approved="yes">
+				<source>Save and close form</source>
+				<target state="translated">Guardar y cerrar el formulario</target>
+			</trans-unit>
+			<trans-unit id="title" approved="yes">
+				<source>Form Wizard</source>
+				<target state="translated">Asistente para formularios</target>
+			</trans-unit>
+			<trans-unit id="validation_alert_description" approved="yes">
+				<source>The selected validation rule is already present</source>
+				<target state="translated">La regla de validación seleccionada ya está presente</target>
+			</trans-unit>
+			<trans-unit id="validation_alert_title" approved="yes">
+				<source>Adding a validation rule</source>
+				<target state="translated">Adicción de regla de validación</target>
+			</trans-unit>
+			<trans-unit id="validation_alphabetic" approved="yes">
+				<source>Alphabetic</source>
+				<target state="translated">Alfabético</target>
+			</trans-unit>
+			<trans-unit id="validation_alphanumeric" approved="yes">
+				<source>Alphanumeric</source>
+				<target state="translated">Alfanumérico</target>
+			</trans-unit>
+			<trans-unit id="validation_between" approved="yes">
+				<source>Between</source>
+				<target state="translated">Entre</target>
+			</trans-unit>
+			<trans-unit id="validation_date" approved="yes">
+				<source>Date</source>
+				<target state="translated">Fecha</target>
+			</trans-unit>
+			<trans-unit id="validation_digit" approved="yes">
+				<source>Digit</source>
+				<target state="translated">Dígito</target>
+			</trans-unit>
+			<trans-unit id="validation_dummy_description" approved="yes">
+				<source>To add a validation rule, select one from the dropdown</source>
+				<target state="translated">Para agregar una regla de validación, seleccione una de la lista desplegable</target>
+			</trans-unit>
+			<trans-unit id="validation_dummy_title" approved="yes">
+				<source>No validation rule selected</source>
+				<target state="translated">No se ha seleccionado regla de validación</target>
+			</trans-unit>
+			<trans-unit id="validation_email" approved="yes">
+				<source>Email address</source>
+				<target state="translated">Dirección de correo electrónico</target>
+			</trans-unit>
+			<trans-unit id="validation_emptytext" approved="yes">
+				<source>Add a validation rule</source>
+				<target state="translated">Añadir regla de validación</target>
+			</trans-unit>
+			<trans-unit id="validation_equals" approved="yes">
+				<source>Equals</source>
+				<target state="translated">Igual</target>
+			</trans-unit>
+			<trans-unit id="validation_fileallowedtypes" approved="yes">
+				<source>Allowed mimetypes for file</source>
+				<target state="translated">Permite mimetypes para el archivo</target>
+			</trans-unit>
+			<trans-unit id="validation_filemaximumsize" approved="yes">
+				<source>Maximum size for file (bytes)</source>
+				<target state="translated">Tamaño máximo del archivo (bytes)</target>
+			</trans-unit>
+			<trans-unit id="validation_fileminimumsize" approved="yes">
+				<source>Minimum size for file (bytes)</source>
+				<target state="translated">Tamaño mínimo del archivo (bytes)</target>
+			</trans-unit>
+			<trans-unit id="validation_float">
+				<source>Float</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="validation_greaterthan" approved="yes">
+				<source>Greater than</source>
+				<target state="translated">Mayor que</target>
+			</trans-unit>
+			<trans-unit id="validation_inarray" approved="yes">
+				<source>In array</source>
+				<target state="translated">En conjunto</target>
+			</trans-unit>
+			<trans-unit id="validation_integer" approved="yes">
+				<source>Integer</source>
+				<target state="translated">Entero</target>
+			</trans-unit>
+			<trans-unit id="validation_ip" approved="yes">
+				<source>Ip address</source>
+				<target state="translated">Dirección IP</target>
+			</trans-unit>
+			<trans-unit id="validation_length" approved="yes">
+				<source>Length</source>
+				<target state="translated">Longitud</target>
+			</trans-unit>
+			<trans-unit id="validation_lessthan" approved="yes">
+				<source>Less than</source>
+				<target state="translated">Menos que</target>
+			</trans-unit>
+			<trans-unit id="validation_properties_allowwhitespace" approved="yes">
+				<source>Allow whitespace</source>
+				<target state="translated">Dejar espacio en blanco</target>
+			</trans-unit>
+			<trans-unit id="validation_properties_array">
+				<source>Array (Comma separated)</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="validation_properties_breakonerror" xml:space="preserve">
+				<source>Break on error</source>
+			<target/><note from="developer">This label is deprecated (not used anymore) since TYPO3v7</note></trans-unit>
+			<trans-unit id="validation_properties_error" approved="yes">
+				<source>Error</source>
+				<target state="translated">Error</target>
+			</trans-unit>
+			<trans-unit id="validation_properties_expression" approved="yes">
+				<source>Expression</source>
+				<target state="translated">Expresión</target>
+			</trans-unit>
+			<trans-unit id="validation_properties_field" approved="yes">
+				<source>Field</source>
+				<target state="translated">Campo</target>
+			</trans-unit>
+			<trans-unit id="validation_properties_format" approved="yes">
+				<source>Format</source>
+				<target state="translated">Formato</target>
+			</trans-unit>
+			<trans-unit id="validation_properties_inclusive" approved="yes">
+				<source>Inclusive</source>
+				<target state="translated">Inclusive</target>
+			</trans-unit>
+			<trans-unit id="validation_properties_maximum" approved="yes">
+				<source>Maximum</source>
+				<target state="translated">Máximo</target>
+			</trans-unit>
+			<trans-unit id="validation_properties_message" approved="yes">
+				<source>Message</source>
+				<target state="translated">Mensaje</target>
+			</trans-unit>
+			<trans-unit id="validation_properties_minimum" approved="yes">
+				<source>Minimum</source>
+				<target state="translated">Mínimo</target>
+			</trans-unit>
+			<trans-unit id="validation_properties_showmessage" approved="yes">
+				<source>Show message in label</source>
+				<target state="translated">Mostrar el mensaje en la etiqueta</target>
+			</trans-unit>
+			<trans-unit id="validation_properties_types">
+				<source>Mime types</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="validation_regexp" approved="yes">
+				<source>Regular Expression</source>
+				<target state="translated">Expresión regular</target>
+			</trans-unit>
+			<trans-unit id="validation_required" approved="yes">
+				<source>Required</source>
+				<target state="translated">Requerido</target>
+			</trans-unit>
+			<trans-unit id="validation_uri">
+				<source>Uniform Resource Identifier</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="various_properties_content" approved="yes">
+				<source>Content</source>
+				<target state="translated">Contenido</target>
+			</trans-unit>
+			<trans-unit id="various_properties_headingsize" approved="yes">
+				<source>Heading size</source>
+				<target state="translated">Tamaño del encabezado</target>
+			</trans-unit>
+			<trans-unit id="various_properties_middlename" approved="yes">
+				<source>Show middle name</source>
+				<target state="translated">Mostrar el segundo nombre</target>
+			</trans-unit>
+			<trans-unit id="various_properties_name" approved="yes">
+				<source>Name</source>
+				<target state="translated">Nombre</target>
+			</trans-unit>
+			<trans-unit id="various_properties_prefix" approved="yes">
+				<source>Show prefix</source>
+				<target state="translated">Mostrar el prefijo</target>
+			</trans-unit>
+			<trans-unit id="various_properties_suffix" approved="yes">
+				<source>Show suffix</source>
+				<target state="translated">Mostrar el sufijo</target>
+			</trans-unit>
+			<trans-unit id="yes" approved="yes">
+				<source>Yes</source>
+				<target state="translated">Sí</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

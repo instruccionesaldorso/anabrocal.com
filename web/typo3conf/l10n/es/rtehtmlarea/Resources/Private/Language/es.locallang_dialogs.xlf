@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-05-11T03:29:17Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="About" approved="yes">
+				<source>About</source>
+				<target state="translated">Acerca de...</target>
+			</trans-unit>
+			<trans-unit id="About HTMLArea" approved="yes">
+				<source>About htmlArea RTE</source>
+				<target state="translated">Acerca de htmlArea RTE</target>
+			</trans-unit>
+			<trans-unit id="Absbottom" approved="yes">
+				<source>Absbottom</source>
+				<target state="translated">Absbottom</target>
+			</trans-unit>
+			<trans-unit id="Absmiddle" approved="yes">
+				<source>Absmiddle</source>
+				<target state="translated">Absmiddle</target>
+			</trans-unit>
+			<trans-unit id="Alignment:" approved="yes">
+				<source>Text alignment:</source>
+				<target state="translated">Alineación:</target>
+			</trans-unit>
+			<trans-unit id="Alignment not set" approved="yes">
+				<source>Not set</source>
+				<target state="translated">Sin especificar</target>
+			</trans-unit>
+			<trans-unit id="All rights reserved." approved="yes">
+				<source>All Rights Reserved.</source>
+				<target state="translated">Todos los derechos reservados.</target>
+			</trans-unit>
+			<trans-unit id="Alternate text:" approved="yes">
+				<source>Alternate text:</source>
+				<target state="translated">Texto alternativo:</target>
+			</trans-unit>
+			<trans-unit id="Baseline" approved="yes">
+				<source>Baseline</source>
+				<target state="translated">Línea base</target>
+			</trans-unit>
+			<trans-unit id="Block style label" approved="yes">
+				<source>Block style:</source>
+				<target state="translated">Estilo de bloque:</target>
+			</trans-unit>
+			<trans-unit id="Border" approved="yes">
+				<source>Border</source>
+				<target state="translated">Borde</target>
+			</trans-unit>
+			<trans-unit id="Border thickness:" approved="yes">
+				<source>Border thickness:</source>
+				<target state="translated">Anchura del borde:</target>
+			</trans-unit>
+			<trans-unit id="Bottom" approved="yes">
+				<source>Bottom</source>
+				<target state="translated">Abajo</target>
+			</trans-unit>
+			<trans-unit id="Browser support" approved="yes">
+				<source>Browser support</source>
+				<target state="translated">Compatibilidad con navegadores</target>
+			</trans-unit>
+			<trans-unit id="Cancel" approved="yes">
+				<source>Cancel</source>
+				<target state="translated">Cancelar</target>
+			</trans-unit>
+			<trans-unit id="Cell padding:" approved="yes">
+				<source>Cell padding:</source>
+				<target state="translated">Relleno de celda:</target>
+			</trans-unit>
+			<trans-unit id="Cell spacing:" approved="yes">
+				<source>Cell spacing:</source>
+				<target state="translated">Espacio entre celdas:</target>
+			</trans-unit>
+			<trans-unit id="Center" approved="yes">
+				<source>Center</source>
+				<target state="translated">Centrado</target>
+			</trans-unit>
+			<trans-unit id="Close" approved="yes">
+				<source>Close</source>
+				<target state="translated">Cerrar</target>
+			</trans-unit>
+			<trans-unit id="Cols:" approved="yes">
+				<source>Cols:</source>
+				<target state="translated">Columnas:</target>
+			</trans-unit>
+			<trans-unit id="Delete" approved="yes">
+				<source>Delete</source>
+				<target state="translated">Borrar / Eliminar</target>
+			</trans-unit>
+			<trans-unit id="Developer" approved="yes">
+				<source>Developer</source>
+				<target state="translated">Desarrollado por</target>
+			</trans-unit>
+			<trans-unit id="Dimension" approved="yes">
+				<source>Dimension</source>
+				<target state="translated">Tamaño</target>
+			</trans-unit>
+			<trans-unit id="Em" approved="yes">
+				<source>Em</source>
+				<target state="translated">em</target>
+			</trans-unit>
+			<trans-unit id="Enter the image URL here" approved="yes">
+				<source>Enter the image URL here</source>
+				<target state="translated">Introduzca el URL de la imagen</target>
+			</trans-unit>
+			<trans-unit id="Float:" approved="yes">
+				<source>Float:</source>
+				<target state="translated">Flotante:</target>
+			</trans-unit>
+			<trans-unit id="For browsers that dont support images" approved="yes">
+				<source>For browsers that don't support images</source>
+				<target state="translated">Para navegadores que no soportan imágenes</target>
+			</trans-unit>
+			<trans-unit id="free_editor" approved="yes">
+				<source>A free and open-source editor for &lt;textarea&gt; fields, featuring integration with TYPO3.</source>
+				<target state="translated">Un editor libre, abierto e integrado con TYPO3 para editar campos &lt;textarea&gt;.</target>
+			</trans-unit>
+			<trans-unit id="General" approved="yes">
+				<source>General</source>
+				<target state="translated">General</target>
+			</trans-unit>
+			<trans-unit id="Horizontal:" approved="yes">
+				<source>Horizontal:</source>
+				<target state="translated">Alineación horizontal:</target>
+			</trans-unit>
+			<trans-unit id="Horizontal padding" approved="yes">
+				<source>Horizontal padding</source>
+				<target state="translated">Padding horizontal</target>
+			</trans-unit>
+			<trans-unit id="htmlArea License (based on BSD license)" approved="yes">
+				<source>htmlArea RTE License, based on BSD License</source>
+				<target state="translated">Licencia htmlArea RTE, basada en la licencia BSD</target>
+			</trans-unit>
+			<trans-unit id="Image alignment:" approved="yes">
+				<source>Image alignment:</source>
+				<target state="translated">Alineación de imagen:</target>
+			</trans-unit>
+			<trans-unit id="Image Preview" approved="yes">
+				<source>Image Preview</source>
+				<target state="translated">Vista previa de imagen</target>
+			</trans-unit>
+			<trans-unit id="Image URL:" approved="yes">
+				<source>Image URL:</source>
+				<target state="translated">URL de la imagen:</target>
+			</trans-unit>
+			<trans-unit id="image_url_first" approved="yes">
+				<source>You have to enter the image URL first</source>
+				<target state="translated">Debe indicar primero el URL de la imagen</target>
+			</trans-unit>
+			<trans-unit id="image_url_required" approved="yes">
+				<source>You must enter the image URL</source>
+				<target state="translated">Debe indicar el URL de la imagen</target>
+			</trans-unit>
+			<trans-unit id="Insert Custom Element" approved="yes">
+				<source>Insert Custom Element</source>
+				<target state="translated">Insertar elemento personalizado</target>
+			</trans-unit>
+			<trans-unit id="Insert image" approved="yes">
+				<source>Insert image</source>
+				<target state="translated">Añadir imagen</target>
+			</trans-unit>
+			<trans-unit id="Insert Image" approved="yes">
+				<source>Insert/Modify Image</source>
+				<target state="translated">Insertar/modificar imagen</target>
+			</trans-unit>
+			<trans-unit id="Insert link" approved="yes">
+				<source>Insert link</source>
+				<target state="translated">Añadir enlace</target>
+			</trans-unit>
+			<trans-unit id="Insert/Modify Acronym" approved="yes">
+				<source>Insert/Modify Acronym or Abbreviation</source>
+				<target state="translated">Insertar/modificar acrónimo o abreviatura</target>
+			</trans-unit>
+			<trans-unit id="Insert/Modify Link" approved="yes">
+				<source>Insert/Modify Link</source>
+				<target state="translated">Insertar/Cambiar enlace</target>
+			</trans-unit>
+			<trans-unit id="Insert Table" approved="yes">
+				<source>Insert Table</source>
+				<target state="translated">Insertar tabla</target>
+			</trans-unit>
+			<trans-unit id="Justify" approved="yes">
+				<source>Justify</source>
+				<target state="translated">Justificado</target>
+			</trans-unit>
+			<trans-unit id="Language" approved="yes">
+				<source>Language</source>
+				<target state="translated">Idioma</target>
+			</trans-unit>
+			<trans-unit id="Language:" approved="yes">
+				<source>Language:</source>
+				<target state="translated">Idioma:</target>
+			</trans-unit>
+			<trans-unit id="Layout" approved="yes">
+				<source>Layout</source>
+				<target state="translated">Disposición</target>
+			</trans-unit>
+			<trans-unit id="Leave empty for no border" approved="yes">
+				<source>Leave empty for no border</source>
+				<target state="translated">Dejar vacío cuando no hay borde</target>
+			</trans-unit>
+			<trans-unit id="Left" approved="yes">
+				<source>Left</source>
+				<target state="translated">A la izquierda</target>
+			</trans-unit>
+			<trans-unit id="LeftToRight" approved="yes">
+				<source>Left to right</source>
+				<target state="translated">De izquierda a derecha</target>
+			</trans-unit>
+			<trans-unit id="License" approved="yes">
+				<source>License</source>
+				<target state="translated">Licencia</target>
+			</trans-unit>
+			<trans-unit id="link_href_tooltip" approved="yes">
+				<source>Enter the link URL here</source>
+				<target state="translated">Introduzca aquí el URL del enlace</target>
+			</trans-unit>
+			<trans-unit id="link_target_tooltip" approved="yes">
+				<source>Select the name of the target frame</source>
+				<target state="translated">Elija el nombre del marco de destino</target>
+			</trans-unit>
+			<trans-unit id="link_title_tooltip" approved="yes">
+				<source>Enter the link tooltip here</source>
+				<target state="translated">Introduzca aquí el tooltip del enlace</target>
+			</trans-unit>
+			<trans-unit id="link_url_required" approved="yes">
+				<source>Please enter the URL where this link points to</source>
+				<target state="translated">Introduzca el URL al que apunta este enlace</target>
+			</trans-unit>
+			<trans-unit id="Middle" approved="yes">
+				<source>Middle</source>
+				<target state="translated">Al medio</target>
+			</trans-unit>
+			<trans-unit id="Modify image" approved="yes">
+				<source>Modify image</source>
+				<target state="translated">Modificar imagen</target>
+			</trans-unit>
+			<trans-unit id="Modify link" approved="yes">
+				<source>Modify link</source>
+				<target state="translated">Modificar enlace</target>
+			</trans-unit>
+			<trans-unit id="Mozilla_or_IE" approved="no">
+				<source>For Firefox 1.5+, SeaMonkey 1.0+, Safari 3.0.4+, Google Chrome 1.0+ and Opera 9.62+ on any platform, and for Internet Explorer 9.0+ on Windows.</source>
+				<target state="needs-translation">Para Mozilla 1.3.1+, Firefox 0.8+, Netscape 7.1+ y Safari 3.0.4 sobre cualquier plataforma, y para Internet Explorer 5.5+ sobre Windows.</target>
+			</trans-unit>
+			<trans-unit id="Name" approved="yes">
+				<source>Name</source>
+				<target state="translated">Nombre</target>
+			</trans-unit>
+			<trans-unit id="No language mark" approved="yes">
+				<source>No language</source>
+				<target state="translated">Sin idioma</target>
+			</trans-unit>
+			<trans-unit id="Non-floating" approved="yes">
+				<source>Non-floating</source>
+				<target state="translated">No flotante</target>
+			</trans-unit>
+			<trans-unit id="No plugins have been loaded." approved="yes">
+				<source>No plugins have been loaded.</source>
+				<target state="translated">Ningún módulo cargado.</target>
+			</trans-unit>
+			<trans-unit id="Not set" approved="yes">
+				<source>Not set</source>
+				<target state="translated">Sin especificar</target>
+			</trans-unit>
+			<trans-unit id="Number of columns" approved="yes">
+				<source>Number of columns</source>
+				<target state="translated">Número de columnas</target>
+			</trans-unit>
+			<trans-unit id="Number of rows" approved="yes">
+				<source>Number of rows</source>
+				<target state="translated">Número de filas</target>
+			</trans-unit>
+			<trans-unit id="OK" approved="yes">
+				<source>OK</source>
+				<target state="translated">Aceptar</target>
+			</trans-unit>
+			<trans-unit id="Percent" approved="yes">
+				<source>Percent</source>
+				<target state="translated">%</target>
+			</trans-unit>
+			<trans-unit id="Pixels" approved="yes">
+				<source>Pixels</source>
+				<target state="translated">px</target>
+			</trans-unit>
+			<trans-unit id="Plugins" approved="yes">
+				<source>Plugins</source>
+				<target state="translated">Módulos</target>
+			</trans-unit>
+			<trans-unit id="Positioning of this image" approved="yes">
+				<source>Positioning of this image relative to text</source>
+				<target state="translated">Posición de esta imagen respecto al texto:</target>
+			</trans-unit>
+			<trans-unit id="Preview" approved="yes">
+				<source>Preview</source>
+				<target state="translated">Vista previa</target>
+			</trans-unit>
+			<trans-unit id="Preview the image in a new window" approved="yes">
+				<source>Preview the image in a new window</source>
+				<target state="translated">Vista previa de la imagen en una ventana nueva</target>
+			</trans-unit>
+			<trans-unit id="product_documentation" approved="yes">
+				<source>For more information, please visit:</source>
+				<target state="translated">Para más información visite:</target>
+			</trans-unit>
+			<trans-unit id="Remove language mark" approved="yes">
+				<source>Remove language</source>
+				<target state="translated">Eliminar idioma</target>
+			</trans-unit>
+			<trans-unit id="Right" approved="yes">
+				<source>Right</source>
+				<target state="translated">A la derecha</target>
+			</trans-unit>
+			<trans-unit id="RightToLeft" approved="yes">
+				<source>Right to left</source>
+				<target state="translated">De derecha a izquierda</target>
+			</trans-unit>
+			<trans-unit id="Rows:" approved="yes">
+				<source>Rows:</source>
+				<target state="translated">Filas:</target>
+			</trans-unit>
+			<trans-unit id="Select Color" approved="yes">
+				<source>Select Color</source>
+				<target state="translated">Seleccionar color</target>
+			</trans-unit>
+			<trans-unit id="Space between adjacent cells" approved="yes">
+				<source>Space between adjacent cells</source>
+				<target state="translated">Espacio entre celdas adyacentes</target>
+			</trans-unit>
+			<trans-unit id="Space between content and border in cell" approved="yes">
+				<source>Space between content and border in cell</source>
+				<target state="translated">Espacio entre el borde de la celda y sus contenidos</target>
+			</trans-unit>
+			<trans-unit id="Spacing and padding" approved="yes">
+				<source>Spacing and padding</source>
+				<target state="translated">Márgenes de las celdas</target>
+			</trans-unit>
+			<trans-unit id="Sponsored by" approved="yes">
+				<source>Sponsored by</source>
+				<target state="translated">Patrocinado por</target>
+			</trans-unit>
+			<trans-unit id="statusBarReady" approved="yes">
+				<source>Ready</source>
+				<target state="translated">Preparado</target>
+			</trans-unit>
+			<trans-unit id="statusBarStyle" approved="yes">
+				<source>Style</source>
+				<target state="translated">Estilo</target>
+			</trans-unit>
+			<trans-unit id="style" approved="yes">
+				<source>Paragraph:</source>
+				<target state="translated">Párrafo:</target>
+			</trans-unit>
+			<trans-unit id="Target:" approved="yes">
+				<source>Target:</source>
+				<target state="translated">Destino:</target>
+			</trans-unit>
+			<trans-unit id="target_blank" approved="yes">
+				<source>New window (_blank)</source>
+				<target state="translated">Nueva ventana (_blank)</target>
+			</trans-unit>
+			<trans-unit id="target_none" approved="yes">
+				<source>None (use implicit)</source>
+				<target state="translated">Ninguno (implícito)</target>
+			</trans-unit>
+			<trans-unit id="target_other" approved="yes">
+				<source>Other frame</source>
+				<target state="translated">Otro marco</target>
+			</trans-unit>
+			<trans-unit id="target_self" approved="yes">
+				<source>Same frame (_self)</source>
+				<target state="translated">Mismo marco (_self)</target>
+			</trans-unit>
+			<trans-unit id="target_top" approved="yes">
+				<source>Top frame (_top)</source>
+				<target state="translated">Marco superior (_top)</target>
+			</trans-unit>
+			<trans-unit id="Text alignment" approved="yes">
+				<source>Text alignment</source>
+				<target state="translated">Alineación del texto</target>
+			</trans-unit>
+			<trans-unit id="Text direction" approved="yes">
+				<source>Text direction</source>
+				<target state="translated">Dirección del texto</target>
+			</trans-unit>
+			<trans-unit id="Text direction:" approved="yes">
+				<source>Text direction:</source>
+				<target state="translated">Dirección del texto:</target>
+			</trans-unit>
+			<trans-unit id="text_style" approved="yes">
+				<source>Text style:</source>
+				<target state="translated">Estilo de texto:</target>
+			</trans-unit>
+			<trans-unit id="Texttop" approved="yes">
+				<source>Texttop</source>
+				<target state="translated">Texttop</target>
+			</trans-unit>
+			<trans-unit id="The following plugins have been loaded." approved="yes">
+				<source>The following plugins have been loaded.</source>
+				<target state="translated">Se han cargado los siguientes módulos.</target>
+			</trans-unit>
+			<trans-unit id="Title (tooltip):" approved="yes">
+				<source>Title:</source>
+				<target state="translated">Título:</target>
+			</trans-unit>
+			<trans-unit id="Top" approved="yes">
+				<source>Top</source>
+				<target state="translated">Arriba</target>
+			</trans-unit>
+			<trans-unit id="URL:" approved="yes">
+				<source>URL:</source>
+				<target state="translated">URL:</target>
+			</trans-unit>
+			<trans-unit id="User agent reports:" approved="yes">
+				<source>User agent reports:</source>
+				<target state="translated">Su navegador:</target>
+			</trans-unit>
+			<trans-unit id="Vertical:" approved="yes">
+				<source>Vertical:</source>
+				<target state="translated">Alineación vertical:</target>
+			</trans-unit>
+			<trans-unit id="Vertical padding" approved="yes">
+				<source>Vertical padding</source>
+				<target state="translated">Padding vertical</target>
+			</trans-unit>
+			<trans-unit id="Where the image should float" approved="yes">
+				<source>Specifies where the image should float</source>
+				<target state="translated">Especifica hacia dónde debe flotar la imagen</target>
+			</trans-unit>
+			<trans-unit id="Where the table should float" approved="yes">
+				<source>Specifies where the table should float</source>
+				<target state="translated">Indica si la tabla debe ser flotante</target>
+			</trans-unit>
+			<trans-unit id="Width:" approved="yes">
+				<source>Width:</source>
+				<target state="translated">Anchura:</target>
+			</trans-unit>
+			<trans-unit id="Width of the table" approved="yes">
+				<source>Width of the table</source>
+				<target state="translated">Anchura de la tabla</target>
+			</trans-unit>
+			<trans-unit id="Width unit" approved="yes">
+				<source>Width unit</source>
+				<target state="translated">Tipo de valor</target>
+			</trans-unit>
+			<trans-unit id="word" approved="yes">
+				<source>word</source>
+				<target state="translated">palabra</target>
+			</trans-unit>
+			<trans-unit id="words" approved="yes">
+				<source>words</source>
+				<target state="translated">palabras</target>
+			</trans-unit>
+			<trans-unit id="You must enter a number of columns" approved="yes">
+				<source>You must enter a number of columns</source>
+				<target state="translated">Debe introducir el número de columnas</target>
+			</trans-unit>
+			<trans-unit id="You must enter a number of rows" approved="yes">
+				<source>You must enter a number of rows</source>
+				<target state="translated">Debe especificar el número de filas</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

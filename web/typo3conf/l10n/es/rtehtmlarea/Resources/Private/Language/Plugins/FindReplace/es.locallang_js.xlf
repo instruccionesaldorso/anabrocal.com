@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="es" datatype="plaintext" original="messages" date="2017-05-11T03:29:12Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Actions" approved="yes">
+				<source>Actions</source>
+				<target state="translated">Acciones:</target>
+			</trans-unit>
+			<trans-unit id="Case sensitive search" approved="yes">
+				<source>Case sensitive search</source>
+				<target state="translated">Coincidencia de mayúsculas/minúsculas</target>
+			</trans-unit>
+			<trans-unit id="Clear" approved="yes">
+				<source>Clear</source>
+				<target state="translated">Limpiar</target>
+			</trans-unit>
+			<trans-unit id="Done" approved="yes">
+				<source>Done</source>
+				<target state="translated">Finalizado</target>
+			</trans-unit>
+			<trans-unit id="Enter the text you want to find" approved="yes">
+				<source>Enter the text you want to find</source>
+				<target state="translated">Escriba el texto que desea buscar</target>
+			</trans-unit>
+			<trans-unit id="Find and Replace" approved="yes">
+				<source>Find And Replace</source>
+				<target state="translated">Buscar y reemplazar</target>
+			</trans-unit>
+			<trans-unit id="found item" approved="yes">
+				<source>item found</source>
+				<target state="translated">elemento localizado</target>
+			</trans-unit>
+			<trans-unit id="found items" approved="yes">
+				<source>found items</source>
+				<target state="translated">elementos localizados</target>
+			</trans-unit>
+			<trans-unit id="Highlight" approved="yes">
+				<source>Highlight</source>
+				<target state="translated">Destacar</target>
+			</trans-unit>
+			<trans-unit id="Inform a replacement word" approved="yes">
+				<source>This will erase all occurrences.</source>
+				<target state="translated">Esto borrará todos las ocurrencias.</target>
+			</trans-unit>
+			<trans-unit id="Next" approved="yes">
+				<source>Next</source>
+				<target state="translated">Siguiente</target>
+			</trans-unit>
+			<trans-unit id="not found" approved="yes">
+				<source>not found</source>
+				<target state="translated">no se encontró</target>
+			</trans-unit>
+			<trans-unit id="Options" approved="yes">
+				<source>Options</source>
+				<target state="translated">Opciones:</target>
+			</trans-unit>
+			<trans-unit id="replaced item" approved="yes">
+				<source>item replaced</source>
+				<target state="translated">elemento reemplazado</target>
+			</trans-unit>
+			<trans-unit id="replaced items" approved="yes">
+				<source>replaced items</source>
+				<target state="translated">elementos reemplazados</target>
+			</trans-unit>
+			<trans-unit id="Replace with:" approved="yes">
+				<source>Replace with:</source>
+				<target state="translated">Reemplazar con:</target>
+			</trans-unit>
+			<trans-unit id="Search for:" approved="yes">
+				<source>Search for:</source>
+				<target state="translated">Buscar:</target>
+			</trans-unit>
+			<trans-unit id="Substitute all occurrences" approved="yes">
+				<source>Substitute all occurrences</source>
+				<target state="translated">Reemplazar todas las ocurrencias</target>
+			</trans-unit>
+			<trans-unit id="Substitute this occurrence?" approved="yes">
+				<source>Substitute this occurrence?</source>
+				<target state="translated">¿Reemplazar este hecho?</target>
+			</trans-unit>
+			<trans-unit id="Undo" approved="yes">
+				<source>Undo</source>
+				<target state="translated">Deshacer</target>
+			</trans-unit>
+			<trans-unit id="Whole words only" approved="yes">
+				<source>Whole words only</source>
+				<target state="translated">Sólo palabras completas</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
